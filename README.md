@@ -1,7 +1,7 @@
 # ECHO
 Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught"
 
-This is the official implementation of `Self-Harmorized Chain of Thought`.
+This is the official implementation of `Self-Harmonized Chain of Thought`.
 
 The paper is available at https://www.arxiv.org/abs/2409.04057 .
 
