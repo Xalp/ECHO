@@ -1,6 +1,8 @@
 # ECHO
 Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught"
 
+[_UPDATE_ **Sept-16-2024** : We update the code to fit to the lastest OPENAI version, as requested by issue. We also share the log and demo to save your effort.]
+
 This is the official implementation of `Self-Harmonized Chain of Thought`.
 
 The paper is available at https://www.arxiv.org/abs/2409.04057 .
