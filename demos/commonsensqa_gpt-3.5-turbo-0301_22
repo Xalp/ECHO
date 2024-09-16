@@ -1,0 +1,137 @@
+{
+    "demo": [
+        {
+            "question": "Q: What does the sky do before a rain? Answer Choices: (A) appear beautiful (B) appear blue (C) shows a rainbow (D) rain water (E) cloud over\nA:",
+            "rationale": "Let's think step by step. Before rain, the sky usually becomes cloudy and dark. So, the correct answer would be (E) cloud over.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: In what country are the most fast food restaurants? Answer Choices: (A) new york (B) blocks of flats (C) center of town (D) america (E) big cities\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking in which country there are the most fast food restaurants. Next, we can eliminate answer choices that are not countries. Answer choices (A), (B), and (C) are not countries, so we can eliminate them. That leaves us with answer choices (D) and (E). Answer choice (D) is America, which is a country known for having many fast food restaurants. Answer choice (E) is big cities, which could be in any country and may or may not have a high concentration of fast food restaurants.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where do all animals live? Answer Choices: (A) the moon (B) fairgrounds (C) surface of earth (D) meadow (E) zoos\nA:",
+            "rationale": "Let's think step by step. First, we can eliminate option A, the moon, as it is not a suitable environment for animals to live. Similarly, option B, fairgrounds, is not a natural habitat for animals. Option D, meadow, is a possible habitat for some animals, but not all. Finally, option E, zoos, is a man-made environment where animals are kept in captivity. Therefore, the correct answer is option C, the surface of the earth, as it is where most animals live in their natural habitats such as forests, oceans, deserts, and grasslands.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you're attending school and are falling asleep you're likely experiencing what? Answer Choices: (A) boredom (B) malaria (C) graduate (D) inspiration (E) detention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what falling asleep in school means. It means that the person is feeling drowsy and is struggling to stay awake. Next, we can eliminate options (B), (C), (D), and (E) as they are not related to the situation described. That leaves us with option (A) boredom. Boredom can cause a lack of interest and engagement in the material being taught, leading to drowsiness and difficulty staying awake.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: How is a child eager to be going to play likely to get there? Answer Choices: (A) slowly (B) rush (C) being entertained (D) have fun (E) enjoyment\nA:",
+            "rationale": "Let's think step by step. First, the child would likely be excited and full of energy. Therefore, option (B) rush seems like the most appropriate answer. The child would likely want to get to the play area as quickly as possible to start having fun. Option (A) slowly would not make sense as the child is eager to play. Option (C) being entertained and option (E) enjoyment are related to the end goal of playing, but do not necessarily describe how the child would get there. Option (D) have fun is also related to the end goal, but does not describe the process of getting there.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The family finished dinner, the child's chore was to load the dirty dishes where? Answer Choices: (A) restaurant kitchen (B) dishwasher (C) son's room (D) cabinet (E) party\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the child's chore was. The question tells us that the child's chore was to load the dirty dishes. Next, we need to determine where the child should load the dirty dishes. We can eliminate options (A), (C), and (E) because they are not logical places to put dirty dishes. That leaves us with options (B) and (D). The most likely answer is (B) dishwasher, as that is where dirty dishes are typically loaded after a meal.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What are you getting from you boss at the end of the week? Answer Choices: (A) asking for (B) money (C) food (D) work (E) energy\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. It is asking what the assistant is getting from their boss at the end of the week. Next, we can eliminate answer choices that don't make sense. Option (D) work doesn't make sense because the assistant is already working for their boss. Option (E) energy doesn't make sense because the assistant is an artificial intelligence and doesn't require energy from their boss. Option (A) asking for doesn't make sense because the question is asking about what the assistant is receiving, not what they are asking for. Option (C) food is a possibility, but it seems unlikely that the boss would be giving the assistant food. Therefore, the most likely answer is (B) money. It is common for employees to receive payment for their work at the end of the week.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What is the process of going somewhere? Answer Choices: (A) fire (B) energy (C) car (D) transporting (E) staying in place\nA:",
+            "rationale": "Let's think step by step. First, you need to decide where you want to go. Then, you need to determine the mode of transportation you will use to get there. This could be a car, bus, train, plane, or even walking or biking. Once you have chosen your mode of transportation, you need to physically move yourself to that mode of transportation. Then, you need to use that mode of transportation to travel to your destination. Finally, you need to physically move yourself from the mode of transportation to your final destination. The process of going somewhere involves a combination of decision-making, physical movement, and transportation. Therefore, the answer choice that best fits this process is (D) transporting.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What are people likely to want to do with their friends? Answer Choices: (A) own land (B) own home (C) talk to each other (D) believe in god (E) spend time\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question being asked. The question is asking about what people are likely to want to do with their friends. Next, we need to look at the answer choices and eliminate any that are clearly not related to the question. Option A, \"own land,\" and option B, \"own home,\" are both related to property ownership and do not seem to be related to spending time with friends. Option D, \"believe in god,\" is related to religion and may not be relevant to everyone. Option C, \"talk to each other,\" and option E, \"spend time,\" both seem to be related to socializing with friends.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where might it be hard to get furniture to? Answer Choices: (A) apartment (B) loft (C) store (D) rug (E) stairs\nA:",
+            "rationale": "Let's think step by step. If we consider the options given, it is unlikely that it would be hard to get furniture to a store or a rug. However, it could be difficult to get furniture to an apartment or a loft if there are narrow hallways or doorways that the furniture cannot fit through.",
+            "pred_ans": "E",
+            "gold_ans": "B"
+        }
+    ],
+    "inertia": 697.486572265625
+}

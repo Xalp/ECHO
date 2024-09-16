@@ -1,0 +1,59 @@
+{
+    "demo": [
+        {
+            "question": "Q: Brenda's mother made cookies for 14. If each of them had 30 cookies How many cookies did she prepare?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many cookies Brenda's mother made in total. To do this, we can multiply the number of people she made cookies for (14) by the number of cookies each person received (30). So, 14 x 30 = 420 Therefore, Brenda's mother prepared 420 cookies in total.",
+            "pred_ans": "420",
+            "gold_ans": "420"
+        },
+        {
+            "question": "Q: Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches. How many more apples than peaches does Steven have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many apples and peaches Jake has. We know that Jake has 3 fewer peaches than Steven, so Jake has 15 - 3 = 12 peaches. We also know that Jake has 4 more apples than Steven, so Jake has 19 + 4 = 23 apples. Next, we need to find out how many more apples than peaches Steven has. Steven has 19 apples and 15 peaches, so he has 19 - 15 = 4 more apples than peaches. Therefore, Steven has 4 more apples than peaches.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Step 1: Start with the total number of crayons Paul got for his birthday, which is 253. Step 2: Subtract the number of crayons he lost or gave away, which is 70. Step 3: Perform the subtraction: 253 - 70 = 183. Step 4: Answer the question: Paul had 183 crayons left by the end of the school year.",
+            "pred_ans": "183",
+            "gold_ans": "183"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening. How many more emails did Jack receive in the morning than in the afternoon?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. First, we need to find out how many emails Jack received in the morning minus how many he received in the afternoon. To do this, we can subtract the number of emails received in the afternoon from the number of emails received in the morning: 10 - 7 = 3 Therefore, Jack received 3 more emails in the morning than in the afternoon.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Rachel had to complete 8 pages of math homework. Next, we know that she had to complete 3 more pages of biology homework than she did for math. So, we can add 3 to the 8 pages of math homework to get the total number of pages of biology homework she had to complete: 8 + 3 = 11 Therefore, Rachel had to complete 8 pages of math homework and 11 pages of biology homework.",
+            "pred_ans": "8",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day. How many oranges do they harvest per day if each sack contains 28 oranges?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many oranges are in one sack. We know that each sack contains 28 oranges. Next, we need to find out how many oranges are harvested per day. We know that they harvest 66 sacks per day. To find out how many oranges are harvested per day, we can multiply the number of sacks by the number of oranges in each sack: 66 sacks/day x 28 oranges/sack = 1848 oranges/day Therefore, they harvest 1848 oranges per day.",
+            "pred_ans": "1848",
+            "gold_ans": "1848"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar. How many more cups of flour does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 9 cups of flour for the recipe, and she has already added 3 cups. So, she still needs to add 9 - 3 = 6 cups of flour. Therefore, Mary needs to add 6 more cups of flour to complete the recipe.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        }
+    ],
+    "inertia": 430.63507080078125
+}

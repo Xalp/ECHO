@@ -1,0 +1,167 @@
+{
+    "demo": [
+        {
+            "question": "Q: Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?\nA:",
+            "rationale": "Let's think step by step. First, Luke had 20 stickers. Then he bought 12 more stickers, so he had 20 + 12 = 32 stickers. Next, he got 20 stickers for his birthday, so he had 32 + 20 = 52 stickers. Then he gave 5 stickers to his sister, so he had 52 - 5 = 47 stickers. Finally, he used 8 stickers to decorate a greeting card, so he had 47 - 8 = 39 stickers left. Therefore, Luke has 39 stickers left.",
+            "pred_ans": "39",
+            "gold_ans": "39"
+        },
+        {
+            "question": "Q: Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to know how many eggs are in a dozen. A dozen is equal to 12, so 4 dozen would be: 4 x 12 = 48 Therefore, Sally bought 48 eggs from the grocery store.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Blake filled a bucket with 0.8 of a gallon of water. Later, he poured out 0.2 of a gallon of the water. How much water is left in the bucket?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Blake filled the bucket with 0.8 of a gallon of water. So initially, the bucket had 0.8 gallons of water. Next, we know that Blake poured out 0.2 of a gallon of water. So we need to subtract 0.2 from the initial amount of water in the bucket. 0.8 - 0.2 = 0.6 Therefore, there is 0.6 gallons of water left in the bucket.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Ellen bought 12 chairs and each chair costs $15. So, we can multiply the number of chairs by the cost of each chair: 12 x $15 = $180 Therefore, Ellen spent $180 for the 12 chairs she bought.",
+            "pred_ans": "180",
+            "gold_ans": "180"
+        },
+        {
+            "question": "Q: A pet supply store has 600 bags of dog food and 327 bags of cat food. How many more bags of dog food are there than cat food?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the number of bags of dog food and cat food. To do this, we can subtract the number of bags of cat food from the number of bags of dog food: 600 - 327 = 273 So there are 273 more bags of dog food than cat food.",
+            "pred_ans": "273",
+            "gold_ans": "273"
+        },
+        {
+            "question": "Q: Sara has 192 golf balls. How many dozen golf balls does she have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. One dozen is equal to 12 items. So, to find out how many dozen golf balls Sara has, we need to divide the total number of golf balls by 12. 192 ÷ 12 = 16 Therefore, Sara has 16 dozen golf balls.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. How many boxes does she need?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many boxes are needed to hold all the crayons. To do this, we can divide the total number of crayons by the number of crayons that can fit in each box. So, 80 crayons ÷ 8 crayons per box = 10 boxes Therefore, she needs 10 boxes to hold all her crayons.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of students who went on the trip. We know that 375 students went on the trip, and 4 of them traveled in cars. So, the total number of students who traveled by bus is: 375 - 4 = 371 Next, we need to find out how many students were in each bus. We know that there were 7 buses in total, so we can divide the total number of students who traveled by bus by the number of buses: 371 ÷ 7 = 53 Therefore, there were 53 students in each bus.",
+            "pred_ans": "53",
+            "gold_ans": "53"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we add the cost of the trumpet and the song book: $145.16 + $5.84 = $151 So Mike spent $151 at the music store.",
+            "pred_ans": "151",
+            "gold_ans": "151"
+        },
+        {
+            "question": "Q: Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. How many blue marbles does Mary have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. So, Mary has 2 x 5 = 10 more blue marbles than Dan. Therefore, Mary has 5 + 10 = 15 blue marbles.",
+            "pred_ans": "15",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Professor Ellison weighed two pieces of metal for an experiment. The piece of iron weighed 11.166666666666666 pounds and the piece of aluminum weighed 0.8333333333333334 of a pound. How much more did the piece of iron weigh than the piece of aluminum?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the weight of the iron and the weight of the aluminum. We can do this by subtracting the weight of the aluminum from the weight of the iron: 11.166666666666666 - 0.8333333333333334 = 10.333333333333332 So the piece of iron weighed 10.333333333333332 pounds more than the piece of aluminum.",
+            "pred_ans": "10.333333333333332",
+            "gold_ans": "10.333333333333334"
+        },
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        },
+        {
+            "question": "Q: Benny picked 2 apples and Dan picked 9 apples from the apple tree. How many apples were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of apples Benny picked (2) to the number of apples Dan picked (9). 2 + 9 = 11 Therefore, the total number of apples picked is 11.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long. Then she sawed 0.33 meters off the end. How long is the piece of wood now?\nA:",
+            "rationale": "Let's think step by step. First, we start with the original length of the wood, which is 0.41 meters. Next, we need to subtract the amount that was sawed off, which is 0.33 meters. So, the length of the wood now is: 0.41 meters - 0.33 meters = 0.08 meters Therefore, the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: A restaurant served 9 pizzas during lunch and 6 during dinner today. How many pizzas were served today ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of pizzas served during lunch and dinner. 9 (pizzas served during lunch) + 6 (pizzas served during dinner) = 15 So, a total of 15 pizzas were served today.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: Sally saw 1 dozen birds in a tree. How many birds did Sally see ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. One dozen means 12. So, Sally saw 12 birds in the tree.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that Mike placed in the drawer to the original number of pencils in the drawer. 41 + 30 = 71 Therefore, there are now 71 pencils in the drawer in total.",
+            "pred_ans": "71",
+            "gold_ans": "71"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Nancy grew 6 potatoes. Sandy grew 7 potatoes. How many potatoes did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of potatoes Nancy grew (6) to the number of potatoes Sandy grew (7). 6 + 7 = 13 So, they grew a total of 13 potatoes.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Joan and Melanie have. Joan has 40 blue balloons and Melanie has 41 blue balloons. So, the total number of blue balloons they have is: 40 + 41 = 81 Therefore, Joan and Melanie have a total of 81 blue balloons.",
+            "pred_ans": "81",
+            "gold_ans": "81"
+        }
+    ],
+    "inertia": 196.3533935546875
+}

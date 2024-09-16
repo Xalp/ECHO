@@ -1,0 +1,113 @@
+{
+    "demo": [
+        {
+            "question": "Q: Would Hapshetsut be considered a monarch?\nA:",
+            "rationale": "Let's think step by step. Yes, Hatshepsut was a monarch. She was the fifth pharaoh of the Eighteenth Dynasty of Egypt and ruled for over 20 years during the New Kingdom period.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can the Very Large Telescope observe the largest mountain on Earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what the largest mountain on Earth is. Mount Everest is the tallest mountain on Earth, but if we consider the mountain with the largest base, then Mauna Kea in Hawaii is the largest. Next, we need to determine if the Very Large Telescope (VLT) is capable of observing mountains on Earth. The VLT is a ground-based telescope located in Chile that is primarily used for astronomical observations. While it is possible for the VLT to observe objects on Earth, it is not its primary function and there may be limitations to what it can observe. Finally, even if the VLT is capable of observing mountains on Earth, it is unlikely that it would be able to observe the largest mountain on Earth due to its distance from Chile and the fact that it is located on the opposite side of the planet. Therefore, it is unlikely that the VLT can observe the largest mountain on Earth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would menu at Chinese Starbucks be familiar to an American?\nA:",
+            "rationale": "Let's think step by step. First, we need to consider the similarities and differences between Starbucks in China and the United States. While both countries offer similar drinks such as lattes, cappuccinos, and frappuccinos, there may be some differences in the menu items offered. Secondly, we need to consider the cultural differences between China and the United States. Chinese Starbucks may offer menu items that are more tailored to the local tastes and preferences, such as green tea lattes or red bean frappuccinos. Overall, while there may be some differences in the menu items offered at Chinese Starbucks compared to American Starbucks, there should still be some familiar options available.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the height requirement for the Candymonium roller coaster at Hershey Park. According to the Hershey Park website, riders must be at least 54 inches tall to ride. Next, we need to find out how tall Marco Rubio is. According to public records, Marco Rubio is 5 feet 10 inches tall, which is equivalent to 70 inches. Since Marco Rubio is taller than the height requirement of 54 inches, he would be able to ride the Candymonium roller coaster at Hershey Park.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would it be safe to have a jackfruit thrown at your head?\nA:",
+            "rationale": "Let's think step by step. First, we need to consider the weight of a jackfruit. A jackfruit can weigh anywhere from 10 to 50 pounds, depending on its size. Next, we need to consider the force with which the jackfruit is thrown. If it is thrown with a lot of force, it could cause serious injury or even death. Therefore, it is not safe to have a jackfruit thrown at your head. It is important to always prioritize safety and avoid situations that could cause harm.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Bill Gates the wealthiest of the Baby Boomers?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what Baby Boomers are. Baby Boomers are individuals born between 1946 and 1964, following the end of World War II. Next, we need to determine who the wealthiest Baby Boomer is. According to Forbes' 2021 Billionaires List, the wealthiest Baby Boomer is currently Elon Musk, with a net worth of $151 billion. Bill Gates is also a Baby Boomer and has a net worth of $130 billion, making him the second wealthiest Baby Boomer.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a person be diagnosed with a Great Depression?\nA:",
+            "rationale": "Let's think step by step. The term \"Great Depression\" typically refers to a severe economic downturn that occurred in the 1930s. It is not a medical diagnosis for a person. However, a person can be diagnosed with depression, which is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities. Depression can be treated with therapy, medication, or a combination of both. It is important to seek professional help if you or someone you know is experiencing symptoms of depression.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a snow leopard swim?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the physical characteristics of a snow leopard. Snow leopards are adapted to live in cold, mountainous regions of Central Asia. They have thick fur to keep them warm and large paws that act as snowshoes to help them walk on snow. While snow leopards are not known for their swimming abilities, they are capable of swimming if necessary. However, they are not as proficient at swimming as other big cats like tigers or jaguars. In the wild, snow leopards may need to cross rivers or streams to hunt or find new territory. They may also swim to escape predators or to reach higher ground during floods. Overall, while snow leopards are not known for their swimming abilities, they are capable of swimming if necessary.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3443.0966796875
+}

@@ -1,0 +1,101 @@
+{
+    "demo": [
+        {
+            "question": "Q: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that Mike placed in the drawer to the original number of pencils in the drawer. 41 + 30 = 71 Therefore, there are now 71 pencils in the drawer in total.",
+            "pred_ans": "71",
+            "gold_ans": "71"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Ellen bought 12 chairs and each chair costs $15. So, we can multiply the number of chairs by the cost of each chair: 12 x $15 = $180 Therefore, Ellen spent $180 for the 12 chairs she bought.",
+            "pred_ans": "180",
+            "gold_ans": "180"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: Sandy grew 51 pumpkins. Mike grew 23 pumpkins. How many pumpkins did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pumpkins Sandy grew and the number of pumpkins Mike grew. 51 + 23 = 74 So, they grew a total of 74 pumpkins.",
+            "pred_ans": "74",
+            "gold_ans": "74"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Sara picked 45 pears and Sally picked 11 pears from the pear tree. How many pears were picked in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pears picked by Sara and Sally. 45 + 11 = 56 So, in total, 56 pears were picked.",
+            "pred_ans": "56",
+            "gold_ans": "56"
+        },
+        {
+            "question": "Q: Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many black balloons Mary has. We know that Mary has 4 times more black balloons than Nancy, so we can start by multiplying Nancy's number of black balloons by 4. 4 x 7 = 28 So Mary has 28 black balloons. Therefore, Mary has 28 black balloons now.",
+            "pred_ans": "28",
+            "gold_ans": "28"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Dina made cookies. She used 0.625 of a cup of flour and 0.25 of a cup of sugar. How much more flour than sugar did Dina use?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the amount of flour and sugar used. To do this, we can subtract the amount of sugar used from the amount of flour used: 0.625 - 0.25 = 0.375 So Dina used 0.375 more cups of flour than sugar.",
+            "pred_ans": "0.375",
+            "gold_ans": "0.375"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: There are 8 calories in a candy bar. How many calories are there in 3 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar, which is given as 8 calories. Next, we need to find out how many calories are in 3 candy bars. To do this, we can multiply the number of calories in one candy bar (8) by the number of candy bars we want to find the total calories for (3). So, 8 calories x 3 candy bars = 24 calories. Therefore, there are 24 calories in 3 candy bars.",
+            "pred_ans": "24",
+            "gold_ans": "24"
+        },
+        {
+            "question": "Q: Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?\nA:",
+            "rationale": "Let's think step by step. First, Luke had 20 stickers. Then he bought 12 more stickers, so he had 20 + 12 = 32 stickers. Next, he got 20 stickers for his birthday, so he had 32 + 20 = 52 stickers. Then he gave 5 stickers to his sister, so he had 52 - 5 = 47 stickers. Finally, he used 8 stickers to decorate a greeting card, so he had 47 - 8 = 39 stickers left. Therefore, Luke has 39 stickers left.",
+            "pred_ans": "39",
+            "gold_ans": "39"
+        }
+    ],
+    "inertia": 214.3892822265625
+}

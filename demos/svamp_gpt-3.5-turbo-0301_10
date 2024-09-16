@@ -1,0 +1,59 @@
+{
+    "demo": [
+        {
+            "question": "Q: Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house. How many more blocks did he use to build the tower than he did to build the house?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many blocks Randy used to build the tower minus how many blocks he used to build the house. Tower blocks: 33 House blocks: 13 33 - 13 = 20 Therefore, Randy used 20 more blocks to build the tower than he did to build the house.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we know that on Monday, Tiffany had 3 bags of cans. Next, we know that the next day, she found 7 more bags of cans. So, she now has 3 + 7 = 10 bags of cans. Finally, we need to add the 44 bags of bottles that she found to the 10 bags of cans that she now has. So, Tiffany has a total of 10 + 44 = 54 bags of cans and bottles altogether. Therefore, Tiffany has 54 bags of cans and bottles altogether.",
+            "pred_ans": "54",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Baker made 54 cakes. He sold some of them. If he still has 13 cakes left How many cakes did baker sell?\nA:",
+            "rationale": "Let's think step by step. First, we know that Baker made 54 cakes. Then, we know that he sold some of them and has 13 cakes left. To find out how many cakes Baker sold, we can subtract the number of cakes he has left from the total number of cakes he made: 54 - 13 = 41 Therefore, Baker sold 41 cakes.",
+            "pred_ans": "41",
+            "gold_ans": "41"
+        },
+        {
+            "question": "Q: Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park How many more balloons did Jake have than Allan in the park?\nA:",
+            "rationale": "Let's think step by step. Allan brought 2 balloons to the park and then bought 3 more balloons there, so he had a total of 2 + 3 = 5 balloons in the park. Jake brought 6 balloons to the park, so he had 6 - 5 = 1 more balloon than Allan in the park. Therefore, Jake had 1 more balloon than Allan in the park.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many apples Jake has. We know that Jake has 84 more apples than Steven, who has 52 apples. So, Jake has: 52 + 84 = 136 apples Next, we need to find out how many peaches Jake has. We know that Jake has 10 fewer peaches than Steven, who has 13 peaches. So, Jake has: 13 - 10 = 3 peaches Therefore, Jake has 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of birds that were on the fence before the others joined. We know that there were 6 birds on the fence initially. Next, we need to add the number of birds that joined them. We are told that 4 more birds and 8 more storks came to join them. So, the total number of birds that joined them is 4 + 8 = 12. Finally, we can add the number of birds that were already on the fence to the number of birds that joined them to find the total number of birds on the fence. 6 (initial birds) + 12 (birds that joined) = 18 Therefore, there are 18 birds sitting on the fence.",
+            "pred_ans": "18",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that Zachary did 59 push-ups and 44 crunches. Step 2: We also know that David did 19 more push-ups than Zachary, so we can add 19 to 59 to get David's push-up count: 59 + 19 = 78 push-ups. Step 3: We also know that David did 27 less crunches than Zachary, so we can subtract 27 from 44 to get David's crunch count: 44 - 27 = 17 crunches. Step 4: Therefore, David did 78 push-ups and 17 crunches.",
+            "pred_ans": "78",
+            "gold_ans": "78"
+        }
+    ],
+    "inertia": 423.7147216796875
+}

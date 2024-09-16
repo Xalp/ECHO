@@ -1,0 +1,24 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Whitney Erika Tj Benito\" and concatenate them.\nA:",
+            "rationale": "The last letter of \"Whitney\" is \"y\". The last letter of \"Erika\" is \"a\". The last letter of \"Tj\" is \"j\". The last letter of \"Benito\" is \"o\".Concatenating them is \"yajo\". The answer is yajo.",
+            "pred_ans": "yajo"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Lucky Mireya Jj Kc\" and concatenate them.\nA:",
+            "rationale": "The last letter of \"Lucky\" is \"y\". The last letter of \"Mireya\" is \"a\". The last letter of \"Jj\" is \"j\". The last letter of \"Kc\" is \"c\".Concatenating them is \"yajc\". The answer is yajc.",
+            "pred_ans": "yajc"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Caleb Chase Eleazar Chanel\" and concatenate them.\nA:",
+            "rationale": "The last letter of \"Caleb\" is \"b\". The last letter of \"Chase\" is \"e\". The last letter of \"Eleazar\" is \"r\". The last letter of \"Chanel\" is \"l\".Concatenating them is \"berl\". The answer is berl.",
+            "pred_ans": "berl"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Silvia Carolina Stan Chuck\" and concatenate them.\nA:",
+            "rationale": "The last letter of \"Silvia\" is \"a\". The last letter of \"Carolina\" is \"a\". The last letter of \"Stan\" is \"n\". The last letter of \"Chuck\" is \"k\".Concatenating them is \"aank\". The answer is aank.",
+            "pred_ans": "aank"
+        }
+    ]
+}

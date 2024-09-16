@@ -1,0 +1,95 @@
+{
+    "demo": [
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        },
+        {
+            "question": "Q: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we add the cost of the trumpet and the song book: $145.16 + $5.84 = $151 So Mike spent $151 at the music store.",
+            "pred_ans": "151",
+            "gold_ans": "151"
+        },
+        {
+            "question": "Q: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pears Alyssa picked and the number of pears Nancy picked. 42 + 17 = 59 So, in total, they picked 59 pears.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Joan and Melanie have. Joan has 40 blue balloons and Melanie has 41 blue balloons. So, the total number of blue balloons they have is: 40 + 41 = 81 Therefore, Joan and Melanie have a total of 81 blue balloons.",
+            "pred_ans": "81",
+            "gold_ans": "81"
+        },
+        {
+            "question": "Q: Sandy has 8 dozen books. Fred has 5 times more books than  Sandy. How many books does Fred have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to convert Sandy's books from dozens to individual books. 8 dozen books = 8 x 12 = 96 books Next, we need to find out how many times more books Fred has compared to Sandy. 5 times more books than Sandy = 5 x 96 = 480 books Therefore, Fred has 480 books.",
+            "pred_ans": "480",
+            "gold_ans": "480"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: There are 960 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to figure out how many classrooms are needed to accommodate all 960 students. To do this, we can divide the total number of students by the number of students per classroom: 960 ÷ 30 = 32 So we need 32 classrooms to accommodate all 960 students.",
+            "pred_ans": "32",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. How many boxes does she need?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many boxes are needed to hold all the crayons. To do this, we can divide the total number of crayons by the number of crayons that can fit in each box. So, 80 crayons ÷ 8 crayons per box = 10 boxes Therefore, she needs 10 boxes to hold all her crayons.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Mika had 20 stickers. She bought 26 stickers from a store in the mall and got 20 stickers for her birthday. Then Mika gave 6 of the stickers to her sister and used 58 to decorate a greeting card. How many stickers does Mika have left?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the total number of stickers Mika had: 20 (original stickers) + 26 (from the store) + 20 (birthday stickers) = 66 stickers Next, we need to subtract the stickers Mika gave to her sister and used for the greeting card: 66 - 6 (given to sister) - 58 (used for greeting card) = 2 stickers Therefore, Mika has 2 stickers left.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        }
+    ],
+    "inertia": 217.66778564453125
+}

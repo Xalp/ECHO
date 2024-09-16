@@ -1,0 +1,83 @@
+{
+    "demo": [
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many baseball cards Melanie has after 9 were torn. Melanie had 30 baseball cards - 9 torn = 21 baseball cards. Next, we need to find out how many baseball cards Melanie has after Sara bought 18 of them. Melanie had 21 baseball cards - 18 bought by Sara = 3 baseball cards. Therefore, Melanie has 3 baseball cards now.",
+            "pred_ans": "3",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Joan decided to sell all of her old books . She gathered up 33 books to sell . She sold 26 books in a yard sale . How many books does Joan now have ?\nA:",
+            "rationale": "Let's think step by step. Joan started with 33 books. She sold 26 books in a yard sale. To find out how many books Joan now has, we need to subtract the number of books she sold from the number of books she started with: 33 - 26 = 7 Therefore, Joan now has 7 books left after selling 26 books in a yard sale.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Tim made by subtracting his initial amount from his final amount. 75 - 12 = 63 This means that Tim made 63 dollars by washing cars over the weekend.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of dogwood trees currently in the park to the number of trees that will be planted today. So, we can write it as: 34 (current trees) + 49 (newly planted trees) = 83 Therefore, the park will have 83 dogwood trees when the workers are finished planting.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins . How many pounds of snacks did she buy in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: A renovation project required 0.16666666666666666 truck-load of sand , 0.3333333333333333 truck-load of dirt , and 0.16666666666666666 truck-load of cement . How many truck-loads of material were needed in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the amount of sand, dirt, and cement: 0.16666666666666666 + 0.3333333333333333 + 0.16666666666666666 = 0.6666666666666666 So, a total of 0.6666666666666666 truck-loads of material were needed for the renovation project.",
+            "pred_ans": "0.6666666666666666",
+            "gold_ans": "0.6666666666666666"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Sara picked 35 pears and 27 apples from the orchard . She gave 28 pears to Dan . How many pears does Sara have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many pears Sara has after giving 28 to Dan. To do this, we can subtract 28 from the original number of pears she picked: 35 pears - 28 pears = 7 pears So after giving 28 pears to Dan, Sara has 7 pears left.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Joan grew 8 watermelons and 4 turnips . Tom grew 9 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of watermelons that Joan and Tom grew. Joan grew 8 watermelons and Tom grew 9 watermelons, so the total number of watermelons is: 8 + 9 = 17 Therefore, Joan and Tom grew a total of 17 watermelons.",
+            "pred_ans": "17",
+            "gold_ans": "17"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        }
+    ],
+    "inertia": 148.05419921875
+}

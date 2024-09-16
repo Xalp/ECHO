@@ -1,0 +1,173 @@
+{
+    "demo": [
+        {
+            "question": "Q: Before the recent housing boom , there were 1426 houses in Lawrence County . Now , there are 2000 houses . How many houses did developers build during the housing boom ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. First, we need to find the difference between the number of houses before and after the housing boom. We can do this by subtracting the initial number of houses from the current number of houses: 2000 - 1426 = 574 So, developers built 574 houses during the housing boom.",
+            "pred_ans": "574",
+            "gold_ans": "574"
+        },
+        {
+            "question": "Q: An oil pipe in the sea broke . Before engineers started to fix the pipe , 2475 gallons of oil leaked into the water . A total of 6206 gallons of oil leaked before the pipe was fixed . How many gallons of oil leaked while the engineers were fixing the pipe ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much oil leaked after the initial 2475 gallons. We can do this by subtracting 2475 from the total amount of oil leaked: 6206 - 2475 = 3731 So 3731 gallons of oil leaked while the engineers were fixing the pipe.",
+            "pred_ans": "3731",
+            "gold_ans": "3731"
+        },
+        {
+            "question": "Q: Keith picked 3 pears and Jason picked 2 pears from the pear tree . Joan picked 5 apples from the apple tree . How many pears were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of pears that Keith and Jason picked. Keith picked 3 pears and Jason picked 2 pears, so together they picked 3 + 2 = 5 pears. Next, we need to add the number of apples that Joan picked. Joan picked 5 apples, so the total number of fruits picked is 5 + 5 = 10. Therefore, the total number of pears picked is 5.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of dogwood trees currently in the park to the number of trees that will be planted today. So, we can write it as: 34 (current trees) + 49 (newly planted trees) = 83 Therefore, the park will have 83 dogwood trees when the workers are finished planting.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Sam has 110 books . Joan has 102 books . How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of books Sam and Joan have: 110 + 102 = 212 So, they have a total of 212 books together.",
+            "pred_ans": "212",
+            "gold_ans": "212"
+        },
+        {
+            "question": "Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Tim made by subtracting his initial amount from his final amount. 75 - 12 = 63 This means that Tim made 63 dollars by washing cars over the weekend.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of the two watermelons to find the total weight. 9.91 pounds + 4.11 pounds = 14.02 pounds Therefore, Kevin bought 14.02 pounds of watermelon.",
+            "pred_ans": "14.02",
+            "gold_ans": "14.02"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        },
+        {
+            "question": "Q: There were a total of 8 football games this year , 4 are played at night . Keith missed 4 of the games . How many football games did Keith go to in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many games Keith did not miss. We know that there were a total of 8 games, and Keith missed 4 of them. So, he must have gone to 8 - 4 = 4 games. However, we also know that 4 of the games were played at night. We don't know if Keith missed any of the night games, but we do know that he went to all of the day games. So, the total number of games that Keith went to is 4 (the number of day games) plus the number of night games that he attended. We don't know how many night games he attended, but we do know that it's less than or equal to 4 (since he missed 4 games in total).",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Dan had 7 potatoes and 4 cantelopes in the garden . The rabbits ate 4 of the potatoes . How many potatoes does Dan now have ?\nA:",
+            "rationale": "Let's think step by step. Dan had 7 potatoes and 4 cantaloupes in the garden, so he had a total of 7 + 4 = 11 items in the garden. The rabbits ate 4 of the potatoes, so we need to subtract 4 from the original 7 potatoes to find out how many potatoes Dan has left. 7 - 4 = 3 Therefore, Dan now has 3 potatoes left in the garden.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many baseball cards Melanie has after 9 were torn. Melanie had 30 baseball cards - 9 torn = 21 baseball cards. Next, we need to find out how many baseball cards Melanie has after Sara bought 18 of them. Melanie had 21 baseball cards - 18 bought by Sara = 3 baseball cards. Therefore, Melanie has 3 baseball cards now.",
+            "pred_ans": "3",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: A restaurant served 6 cakes during lunch and 9 during dinner today . How many cakes were served today ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of cakes served during lunch and dinner. 6 cakes served during lunch + 9 cakes served during dinner = 15 cakes served in total Therefore, 15 cakes were served today.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: Elizabeth went to the salon and had 0.375 inch of hair cut off . The next day she went back and asked for another 0.5 inch to be cut off . How much hair did she have cut off in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the amount of hair cut off on the first day (0.375 inch) and the amount cut off on the second day (0.5 inch). 0.375 + 0.5 = 0.875 Therefore, Elizabeth had a total of 0.875 inch of hair cut off in all.",
+            "pred_ans": "0.875",
+            "gold_ans": "0.875"
+        },
+        {
+            "question": "Q: There were 28 bales of hay in the barn . Tim stacked bales in the barn today . There are now 54 bales of hay in the barn . How many bales did he store in the barn ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bales Tim added to the barn. We can do this by subtracting the original number of bales from the current number of bales: 54 - 28 = 26 So Tim added 26 bales to the barn.",
+            "pred_ans": "26",
+            "gold_ans": "26"
+        },
+        {
+            "question": "Q: Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the 25 yellow marbles that Joan took from Sam's original 86 yellow marbles. 86 - 25 = 61 So Sam now has 61 yellow marbles.",
+            "pred_ans": "61",
+            "gold_ans": "61"
+        },
+        {
+            "question": "Q: Sandy 's dog had 8 puppies and 4 had spots . She gave 4 to her friends . How many puppies does she now have ?\nA:",
+            "rationale": "Let's think step by step. Sandy originally had 8 puppies, and 4 of them had spots. So, she had 8 - 4 = 4 puppies without spots. Then, she gave 4 puppies to her friends, so she now has 8 - 4 = 4 puppies left.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long . Then she sawed 0.33 meters off the end . How long is the piece of wood now ?\nA:",
+            "rationale": "Let's think step by step. The carpenter bought a piece of wood that was 0.41 meters long. Then she sawed off 0.33 meters from the end. To find out how long the piece of wood is now, we need to subtract 0.33 meters from 0.41 meters. 0.41 meters - 0.33 meters = 0.08 meters So the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: It rained 0.9 inches on Monday . On Tuesday , it rained 0.7 inches less than on Monday . How much did it rain on Tuesday ?\nA:",
+            "rationale": "Let's think step by step. First, we know that it rained 0.9 inches on Monday. Next, we need to figure out how much it rained on Tuesday. We know that it rained 0.7 inches less than on Monday. To find out how much it rained on Tuesday, we can subtract 0.7 from 0.9: 0.9 - 0.7 = 0.2 So it rained 0.2 inches on Tuesday.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Sara had 4 quarters and 8 dimes in her bank . Her sister borrowed 4 dimes . How many dimes does Sara have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total dimes Sara had before her sister borrowed 4 dimes. Sara had 8 dimes originally. Next, we need to subtract the 4 dimes that her sister borrowed. 8 dimes - 4 dimes = 4 dimes Therefore, Sara now has 4 dimes left after her sister borrowed 4 dimes.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: There are 7 crayons in the drawer and 6 crayons on the desk . Sam placed 4 crayons and 8 scissors on the desk . How many crayons are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of crayons on the desk and in the drawer: 7 crayons in the drawer + 6 crayons on the desk = 13 crayons in total Then, we need to add the number of crayons that Sam placed on the desk: 13 crayons in total + 4 crayons placed by Sam = 17 crayons in total Therefore, there are 17 crayons in total.",
+            "pred_ans": "17",
+            "gold_ans": "17"
+        },
+        {
+            "question": "Q: Dina made cookies . She used 0.625 cup of flour and 0.25 cup of sugar . How much more flour than sugar did Dina use ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the amount of flour and sugar that Dina used. To do this, we can subtract the amount of sugar from the amount of flour: 0.625 - 0.25 = 0.375 So Dina used 0.375 cups more flour than sugar.",
+            "pred_ans": "0.375",
+            "gold_ans": "0.375"
+        },
+        {
+            "question": "Q: Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 pint of ice cream on Saturday night . How many pints did they eat in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the amount of ice cream they ate on Friday and Saturday. 3.25 pints + 0.25 pints = 3.5 pints So, they ate a total of 3.5 pints of ice cream.",
+            "pred_ans": "3.5",
+            "gold_ans": "3.5"
+        },
+        {
+            "question": "Q: Jason grew 23 watermelons and 18 turnips . Nancy grew 28 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of watermelons that Jason and Nancy grew. Jason grew 23 watermelons and Nancy grew 28 watermelons, so the total number of watermelons is: 23 + 28 = 51 Therefore, they grew a total of 51 watermelons.",
+            "pred_ans": "51",
+            "gold_ans": "51"
+        },
+        {
+            "question": "Q: A company painted some houses in Hancock County white and blue using a total of 6689 gallons of paint . If they used 660 gallons of white paint , how many gallons of blue paint did the company use ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. We know that the company used a total of 6689 gallons of paint, and out of that, 660 gallons were white paint. So, we can start by subtracting the amount of white paint from the total amount of paint to find out how much blue paint was used. 6689 - 660 = 6029 Therefore, the company used 6029 gallons of blue paint to paint the houses in Hancock County.",
+            "pred_ans": "6029",
+            "gold_ans": "6029"
+        }
+    ],
+    "inertia": 123.33918762207031
+}

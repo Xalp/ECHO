@@ -1,0 +1,101 @@
+{
+    "demo": [
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What must someone do before they shop? Answer Choices: (A) get money (B) have money (C) bring cash (D) go to market (E) bring cash\nA:",
+            "rationale": "Let's think step by step. Before someone shops, they need to have a plan of what they want to buy and how much money they have available to spend. So, the answer could be (A) get money or (B) have money, depending on whether they need to withdraw cash or if they already have the funds available. Option (C) bring cash is also a possibility if they prefer to use cash instead of other payment methods. Option (D) go to market is not necessarily a requirement as shopping can also be done online or in other stores. Therefore, the most appropriate answer would be (A) get money or (B) have money.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where do you head to travel to a star? Answer Choices: (A) night sky (B) galaxy (C) outer space (D) hollywood (E) eat cake\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that stars are located in outer space, which is the vast expanse beyond Earth's atmosphere. Therefore, the correct answer is (C) outer space.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What is a treat that you dog will enjoy? Answer Choices: (A) salad (B) petted (C) affection (D) bone (E) lots of attention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that dogs are carnivorous animals and they enjoy chewing on bones. Therefore, option (D) bone is the correct answer. Salad is not a suitable treat for dogs as it may upset their stomach. Petting and affection are not treats but rather ways to show love and care for your dog. While attention is important for dogs, it is not a treat in itself.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The audience listened to the orchestra play, where were they watching the performance? Answer Choices: (A) concert hall (B) museum (C) school (D) hockey game (E) sporting event\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what an orchestra is. An orchestra is a large group of musicians who play together on various instruments, usually including strings, woodwinds, brass, and percussion. Next, we need to consider the context of the sentence. The sentence mentions that the audience is listening to the orchestra play. This suggests that the orchestra is performing live in front of the audience. Based on this information, we can eliminate options (B), (C), (D), and (E) since they are not typically associated with live orchestra performances. Therefore, the correct answer is (A) concert hall, which is a venue specifically designed for live music performances, including orchestras.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what? Answer Choices: (A) bed away from home (B) wwii bunker (C) resort (D) las vegas (E) city\nA:",
+            "rationale": "Let's think step by step. The question mentions a farm, which implies that the person was in a rural area. The question also mentions that the person stayed in a hotel, which suggests that they were in a more urban area. Option (E) city seems like the most likely answer, as cities typically have more hotels than rural areas. Option (A) bed away from home could also be a possibility, but it is not as specific as option (E). Option (B) WWII bunker and option (C) resort seem unlikely, as they do not fit the context of the question. Option (D) Las Vegas is possible, but it is not necessarily the only option.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The computer was difficult for he to understand at the store, so what did she sign up for to learn more? Answer Choices: (A) classroom (B) facebook (C) school (D) apartment (E) demonstration\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what the person signed up for to learn more about the computer. Next, we can eliminate answer choices that don't make sense. Option (B) Facebook and option (D) apartment don't seem like logical choices for learning about computers. Option (E) demonstration could be a possibility, but it doesn't necessarily imply a structured learning environment. That leaves us with options (A) classroom and (C) school. Both of these options suggest a more formal setting for learning, but option (C) school is a broader term that could encompass a variety of classes and programs. Therefore, the most likely answer is (C) school.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If you're attending school and are falling asleep you're likely experiencing what? Answer Choices: (A) boredom (B) malaria (C) graduate (D) inspiration (E) detention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what falling asleep in school means. It means that the person is feeling drowsy and is struggling to stay awake. Next, we can eliminate options (B), (C), (D), and (E) as they are not related to the situation described. That leaves us with option (A) boredom. Boredom can cause a lack of interest and engagement in the material being taught, leading to drowsiness and difficulty staying awake.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        }
+    ],
+    "inertia": 717.6051635742188
+}

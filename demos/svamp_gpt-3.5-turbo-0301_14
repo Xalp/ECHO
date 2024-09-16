@@ -1,0 +1,89 @@
+{
+    "demo": [
+        {
+            "question": "Q: Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much Dan spent on the candy bar and the chocolate. Dan spent $2 on the candy bar and $3 on the chocolate. Next, we need to find the difference between the amount he spent on the chocolate and the amount he spent on the candy bar. $3 (amount spent on chocolate) - $2 (amount spent on candy bar) = $1 Therefore, Dan spent $1 more on the chocolate than he did on the candy bar.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many apples Jake has. We know that Jake has 84 more apples than Steven, who has 52 apples. So, Jake has: 52 + 84 = 136 apples Next, we need to find out how many peaches Jake has. We know that Jake has 10 fewer peaches than Steven, who has 13 peaches. So, Jake has: 13 - 10 = 3 peaches Therefore, Jake has 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Rachel had to complete 8 pages of math homework. Next, we know that she had to complete 3 more pages of biology homework than she did for math. So, we can add 3 to the 8 pages of math homework to get the total number of pages of biology homework she had to complete: 8 + 3 = 11 Therefore, Rachel had to complete 8 pages of math homework and 11 pages of biology homework.",
+            "pred_ans": "8",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar. How many more cups of flour does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 9 cups of flour for the recipe, and she has already added 3 cups. So, she still needs to add 9 - 3 = 6 cups of flour. Therefore, Mary needs to add 6 more cups of flour to complete the recipe.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of birds that were on the fence before the others joined. We know that there were 6 birds on the fence initially. Next, we need to add the number of birds that joined them. We are told that 4 more birds and 8 more storks came to join them. So, the total number of birds that joined them is 4 + 8 = 12. Finally, we can add the number of birds that were already on the fence to the number of birds that joined them to find the total number of birds on the fence. 6 (initial birds) + 12 (birds that joined) = 18 Therefore, there are 18 birds sitting on the fence.",
+            "pred_ans": "18",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many roses Jessica added to the vase. We know that she cut 8 roses from her garden, so we can add 8 to the original 10 roses in the vase: 10 + 8 = 18 Therefore, there are now 18 roses in the vase.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many oranges are harvested in one day. We know that they harvest 66 sacks per day, and each sack contains 25 oranges. So, the total number of oranges harvested in one day is: 66 sacks/day x 25 oranges/sack = 1650 oranges/day Next, we need to find out how many oranges are harvested in 87 days. We can do this by multiplying the number of oranges harvested in one day by the number of days: 1650 oranges/day x 87 days = 143550 oranges Therefore, after 87 days of harvest, they will have 143550 oranges.",
+            "pred_ans": "143550",
+            "gold_ans": "143550"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days How many visitors visited the Buckingham palace on that day?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many visitors came to the Buckingham palace on average per day. We can do this by dividing the total number of visitors (829) by the number of days (85): 829/85 = 9.75 So on average, about 9.75 visitors came to the Buckingham palace each day. However, we want to know how many visitors came on the specific day that Rachel visited. We don't have that information, but we do know that 45 visitors came the day before. We can make an assumption that the number of visitors on Rachel's day was similar to the number of visitors the day before. So we can estimate that around 45 visitors came on Rachel's day as well. Therefore, we can estimate that around 45 visitors visited the Buckingham palace on the day Rachel went.",
+            "pred_ans": "45",
+            "gold_ans": "784"
+        }
+    ],
+    "inertia": 386.4866943359375
+}

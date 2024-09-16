@@ -1,0 +1,179 @@
+{
+    "demo": [
+        {
+            "question": "Q: Is the Very Large Telescope the most productive telescope in the world?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what we mean by \"productive.\" If we are talking about the number of scientific papers published using data from a telescope, then we can look at the statistics provided by the scientific community. According to the Nature Index, which tracks the number of research papers published in top-tier scientific journals, the most productive telescope in the world is actually the Hubble Space Telescope. However, the Very Large Telescope (VLT) in Chile is also a highly productive telescope, ranking among the top telescopes in terms of scientific output. It's worth noting that different telescopes have different strengths and capabilities, and may be better suited for certain types of observations. So while the VLT may not be the most productive telescope in every category, it is certainly a valuable tool for astronomers and has contributed significantly to our understanding of the universe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Were French people involved in the American Civil War?\nA:",
+            "rationale": "Let's think step by step. The American Civil War was fought between 1861 and 1865 between the Union (Northern states) and the Confederacy (Southern states). France did not officially participate in the war, but there were some French individuals who played a role in the conflict. For example, General Louis-Joseph de Montcalm-Grozon, a Frenchman who had previously served in the French army, fought for the Confederacy. Additionally, the French government was involved in diplomatic efforts to try to end the war, but they did not take any military action.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is the letter D influenced by the shape of ancient doors?\nA:",
+            "rationale": "Let's think step by step. The letter D is a part of the Latin alphabet, which was derived from the Etruscan alphabet. The Etruscan alphabet, in turn, was influenced by the Greek alphabet. There is no direct evidence to suggest that the shape of ancient doors influenced the letter D. However, it is possible that the shape of the letter D was influenced by the shape of other objects or symbols that were present in ancient cultures. It is also important to note that the shape of letters can evolve over time due to various factors, such as changes in writing materials and tools, changes in writing styles, and cultural influences. So, while the shape of the letter D may not have been directly influenced by ancient doors, it is possible that it was influenced by other cultural factors.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can surgery prevent an existential crisis?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand what an existential crisis is. It's a period of intense questioning and uncertainty about the meaning and purpose of life. It's a psychological and philosophical issue, not a physical one. Surgery, on the other hand, is a medical procedure that involves cutting into the body to treat a physical ailment or condition. It's not designed to address psychological or philosophical issues. Therefore, it's unlikely that surgery could prevent an existential crisis. If someone is experiencing an existential crisis, they may benefit from seeking support from a mental health professional or engaging in self-reflection and exploration of their values and beliefs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can dessert be made with vegetables?\nA:",
+            "rationale": "Let's think step by step. Yes, dessert can be made with vegetables. There are many desserts that use vegetables as a main ingredient, such as carrot cake, zucchini bread, sweet potato pie, and pumpkin pie. These desserts are often sweetened with sugar or other sweeteners to balance out the natural savory flavor of the vegetables. Additionally, some vegetables like beets and sweet potatoes can be used to make natural food coloring for desserts. So, it is definitely possible to make delicious desserts using vegetables.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a pear sink in water?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the density of a pear. The density of a pear is typically around 0.7-0.8 g/cm³. Next, we need to determine the density of water. The density of water is 1 g/cm³. Since the density of a pear is less than the density of water, it will float in water rather than sink. Therefore, a pear would not sink in water.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could Eric Clapton's children play a regulation game of basketball among themselves?\nA:",
+            "rationale": "Let's think step by step. First, we need to know how many children Eric Clapton has. According to public records, Eric Clapton has five children. Next, we need to know the minimum number of players required for a regulation game of basketball. A regulation game of basketball requires five players on each team, so a total of ten players are needed to play a regulation game. Since Eric Clapton has five children, they could potentially form two teams of two players each and one team of one player. However, this would not be enough players to play a regulation game of basketball. Therefore, Eric Clapton's children could not play a regulation game of basketball among themselves unless they invited additional players to join them.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a sniper shoot a fish past Bathypelagic Zone in ocean?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the Bathypelagic Zone is. It is the zone of the ocean that extends from a depth of 1,000 to 4,000 meters (3,280 to 13,123 feet). This zone is characterized by complete darkness, extreme pressure, and low temperatures. Now, let's consider the question. Can a sniper shoot a fish past the Bathypelagic Zone in the ocean? The answer is no. Even if a sniper had a powerful enough rifle to shoot a fish at that depth, the bullet would not be able to travel that far due to the extreme pressure and resistance of the water. Additionally, it is highly unlikely that a fish would be present at such depths, as most fish cannot survive at those pressures and temperatures.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can a Goblin shark hypothetically ride a bike if it had limbs?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the physical characteristics of a Goblin shark. Goblin sharks are deep-sea creatures that have a long, flattened snout and a protruding jaw with sharp teeth. They do not have limbs or fins that resemble those of land animals. Assuming that a Goblin shark had limbs that were capable of pedaling a bike, it would still face several challenges. The first challenge would be the shark's body shape, which is not designed for sitting on a bike seat. The second challenge would be the shark's weight, which would make it difficult to balance on a bike. Therefore, it is highly unlikely that a Goblin shark could ride a bike even if it had limbs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I don't have information about the burial plans of Queen Elizabeth. However, I can tell you that the Pantheon is a famous ancient temple in Rome that was converted into a church. It is the final resting place of many famous Italians, including the artist Raphael. It is unlikely that Queen Elizabeth will be buried there as she is not Italian and has no direct connection to the Pantheon.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would Hapshetsut be considered a monarch?\nA:",
+            "rationale": "Let's think step by step. Yes, Hatshepsut was a monarch. She was the fifth pharaoh of the Eighteenth Dynasty of Egypt and ruled for over 20 years during the New Kingdom period.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could you drive a Rowe 550 to the 2008 Summer Olympics?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what a Rowe 550 is. After some research, it appears that a Rowe 550 is a type of vending machine. Next, we need to determine the location of the 2008 Summer Olympics. The 2008 Summer Olympics were held in Beijing, China. Based on this information, it is not possible to drive a vending machine to the 2008 Summer Olympics in Beijing. Vending machines are not designed for transportation and would not be able to travel the distance required to reach Beijing. Additionally, there would be no need for a vending machine at the Olympics as there would be plenty of food and beverage options available for athletes and spectators.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Jack Dempsey fight the current WBC heavyweight champion?\nA:",
+            "rationale": "Let's think step by step. Jack Dempsey was a professional boxer who competed from 1914 to 1927. The WBC (World Boxing Council) was founded in 1963, so it did not exist during Dempsey's career. Therefore, it is impossible for him to have fought the current WBC heavyweight champion.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can Michael Bloomberg fund the debt of Micronesia for a decade?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the amount of debt that Micronesia has. According to the World Bank, as of 2018, Micronesia's external debt was $292 million. Next, we need to determine Michael Bloomberg's net worth. As of 2021, Bloomberg's net worth is estimated to be around $59 billion. Assuming that Micronesia's debt remains constant over the next decade, we can calculate the total amount of debt that would need to be funded by Bloomberg. $292 million x 10 years = $2.92 billion Therefore, based on these calculations, it is possible for Michael Bloomberg to fund the debt of Micronesia for a decade with his net worth. However, it is important to note that this is a hypothetical scenario and there may be other factors to consider.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could you buy Hershey's Kisses in red foil with farthings after 1960?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what farthings are. Farthings were a British coin that was in circulation until 1960. Next, we need to determine if Hershey's Kisses were available in red foil after 1960. Hershey's Kisses were first introduced in 1907, and the company has produced them in various colors and packaging over the years. However, it is unlikely that Hershey's Kisses were sold with farthings as a form of payment after 1960, as the farthing was no longer in circulation. So, to answer the question directly, it is possible to buy Hershey's Kisses in red foil after 1960, but it is unlikely that they were sold with farthings as a form of payment.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can the Moscow Kremlin fit inside Disney Land?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the size of each location. The Moscow Kremlin covers an area of about 68 acres, while Disneyland covers an area of about 500 acres. Next, we need to compare the sizes of the two locations. If we divide the area of Disneyland by the area of the Moscow Kremlin, we get: 500 acres / 68 acres = 7.35 This means that Disneyland is about 7.35 times larger than the Moscow Kremlin. Therefore, it is safe to say that the Moscow Kremlin cannot fit inside Disneyland.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would menu at Chinese Starbucks be familiar to an American?\nA:",
+            "rationale": "Let's think step by step. First, we need to consider the similarities and differences between Starbucks in China and the United States. While both countries offer similar drinks such as lattes, cappuccinos, and frappuccinos, there may be some differences in the menu items offered. Secondly, we need to consider the cultural differences between China and the United States. Chinese Starbucks may offer menu items that are more tailored to the local tastes and preferences, such as green tea lattes or red bean frappuccinos. Overall, while there may be some differences in the menu items offered at Chinese Starbucks compared to American Starbucks, there should still be some familiar options available.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Was Noah associated with a dove?\nA:",
+            "rationale": "Let's think step by step. Yes, in the biblical story of Noah's Ark, Noah is associated with a dove. After the flood, Noah sent out a dove to see if the waters had receded, and the dove returned with an olive branch, indicating that the floodwaters had subsided.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Marco Polo travel with Christopher Columbus?\nA:",
+            "rationale": "Let's think step by step. Actually, Marco Polo and Christopher Columbus lived in different time periods. Marco Polo was born in 1254 and died in 1324, while Christopher Columbus was born in 1451 and died in 1506. Therefore, they did not travel together.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3348.013671875
+}

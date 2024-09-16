@@ -1,0 +1,161 @@
+{
+    "demo": [
+        {
+            "question": "Q: A coin is heads up. Erwin does not flip the coin. Chad does not flip the coin. Margarito does not flip the coin. Shanna does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is initially heads up. 2. No one flips the coin, meaning no one reverses it. 3. Therefore, the coin is still heads up. So, yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Len does not flip the coin. Marquis flips the coin. Kylie flips the coin. Sandra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Marquis flips the coin, which means he reverses it. So now the coin is tails up. Kylie flips the coin, which means she also reverses it. Since the coin was tails up, it is now heads up again. Sandra flips the coin, which means she reverses it. Since the coin was heads up, it is now tails up. So, after all three people have flipped the coin, it is tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Reginald does not flip the coin. Franky flips the coin. Kira flips the coin. Gordon flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. When Franky flips the coin, it will be tails up. When Kira flips the coin, it will be heads up again. When Gordon flips the coin, it could be either heads up or tails up, depending on the outcome of his flip. So, the answer is: the coin may or may not be heads up, depending on Gordon's flip.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Star flips the coin. Jude does not flip the coin. Rosemarie does not flip the coin. Raquel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Then, Star flips the coin, which means it is now tails up. However, Jude, Rosemarie, and Raquel do not flip the coin, so it remains tails up. Therefore, the coin is not still heads up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Shari flips the coin. Bella flips the coin. Liza does not flip the coin. Maira does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Shari flips the coin, which means it is now tails up. Bella flips the coin again, which means it is now heads up again. However, Liza and Maira do not flip the coin, so it remains heads up. Therefore, the answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Michel does not flip the coin. Roy does not flip the coin. Sergey does not flip the coin. Jessie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is initially heads up. 2. No one flips the coin, meaning no one reverses it. 3. Therefore, the coin is still heads up. So, yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Markus does not flip the coin. Kathryn does not flip the coin. Giovanna does not flip the coin. Kent does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. The initial state of the coin is heads up. None of the people mentioned in the question flipped the coin, which means they did not change its state. Therefore, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Nubia flips the coin. Sarah does not flip the coin. Jalen does not flip the coin. Kris flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is heads up. 2. Nubia flips the coin, which means she reverses it. So now it's tails up. 3. Sarah and Jalen do not flip the coin, so it remains tails up. 4. Kris flips the coin, which means she reverses it. So now it's heads up again. Therefore, the coin is heads up again after Kris flips it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Frank flips the coin. Trevor does not flip the coin. Al does not flip the coin. Gabriella flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is heads up. 2. Frank flips the coin, which means he reverses it. So now the coin is tails up. 3. Trevor and Al do not flip the coin, so it remains tails up. 4. Gabriella flips the coin, which means she reverses it. So now the coin is heads up again. Therefore, the coin is heads up again after Gabriella flips it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Chloe does not flip the coin. Flaco does not flip the coin. Theodore does not flip the coin. Nathalie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. First, we know that the coin is heads up. Then, we are told that no one flips the coin, meaning that it is not reversed. Therefore, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Dave does not flip the coin. Ernesto does not flip the coin. Liam does not flip the coin. Marsha does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is initially heads up. 2. No one flips the coin, meaning no one reverses it. 3. Therefore, the coin is still heads up. So, yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Adrian flips the coin. Marlon flips the coin. Karla flips the coin. Florence flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. If the coin is initially heads up, then after Adrian flips it, it will be tails up. After Marlon flips it, it will still be tails up. After Karla flips it, it will still be tails up. Finally, after Florence flips it, it will be heads up again. So the answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Niki flips the coin. Graham flips the coin. Vernon flips the coin. Beau flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. If the coin is initially heads up, then after Niki flips it, it will be tails up. After Graham flips it, it will still be tails up. After Vernon flips it, it will still be tails up. Finally, after Beau flips it, it will be heads up again. So the answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Carolyn flips the coin. Sasha does not flip the coin. Mercy does not flip the coin. Keri flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Carolyn flips the coin, which means she reverses it. So now the coin is tails up. Sasha and Mercy do not flip the coin, so it remains tails up. Finally, Keri flips the coin, which means she reverses it again. Therefore, the coin is now heads up again. So the answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Billie does not flip the coin. Paloma does not flip the coin. Tanner does not flip the coin. Raul does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is initially heads up. 2. No one flips the coin, meaning no one reverses it. 3. Therefore, the coin is still heads up. So, yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Sterling flips the coin. Jenifer flips the coin. Patsy flips the coin. Denise flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. If the coin is initially heads up, then the first flip will make it tails up. The second flip will make it heads up again. The third flip will make it tails up again. The fourth flip will make it heads up again. So, after all four flips, the coin is heads up again.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Gabby does not flip the coin. Reese flips the coin. Leah does not flip the coin. Celia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is heads up. 2. Gabby does not flip the coin, so it remains heads up. 3. Reese flips the coin, which means it is now tails up. 4. Leah and Celia do not flip the coin, so it remains tails up. Therefore, the coin is not still heads up. It is now tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Leanne flips the coin. Lulu does not flip the coin. Lopez does not flip the coin. Jp does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. Initially, the coin is heads up. 2. Leanne flips the coin, which means she reverses it. So now the coin is tails up. 3. Lulu, Lopez, and Jp do not flip the coin, which means they do not change its orientation. 4. Therefore, the coin is still tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Yajaira flips the coin. Terrell flips the coin. Adam flips the coin. Lexie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. If the coin is initially heads up, then the first flip will make it tails up. The second flip will make it heads up again. The third flip will make it tails up again. Finally, the fourth flip will make it heads up again. So, after all four flips, the coin is heads up again.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Ace flips the coin. Rosy does not flip the coin. Kimberly does not flip the coin. Jean does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. Initially, the coin is heads up. 2. Ace flips the coin, which means it is now tails up. 3. Rosy, Kimberly, and Jean do not flip the coin, so it remains tails up. 4. Therefore, the coin is not still heads up. It is now tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Claudia flips the coin. Cole does not flip the coin. Matthew does not flip the coin. Juan Pablo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Claudia flips the coin, which means she reverses it. So now the coin is tails up. However, Cole, Matthew, and Juan Pablo do not flip the coin, which means they do not reverse it. Therefore, the coin remains tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Pancho flips the coin. Claudio flips the coin. Elaine does not flip the coin. Vicky does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. 1. The coin is heads up. 2. Pancho flips the coin, which means it is now tails up. 3. Claudio flips the coin again, which means it is now heads up again. 4. Elaine and Vicky do not flip the coin, so it remains heads up. Therefore, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Roberta does not flip the coin. Mauro flips the coin. Clint flips the coin. Marcela flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. Mauro flips the coin, which means he reverses it. So now the coin is tails up. Clint flips the coin, which means he also reverses it. Since the coin was tails up, it is now heads up again. Marcela flips the coin, which means she reverses it. However, since the coin was already heads up, it remains heads up even after Marcela flips it. So, in the end, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Eugenio flips the coin. Moises does not flip the coin. Marion does not flip the coin. Kirk does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. When Eugenio flips the coin, it will be reversed and become tails up. However, Moises, Marion, and Kirk do not flip the coin, so it remains in its current state, which is tails up. Therefore, the coin is no longer heads up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Williams does not flip the coin. Reza flips the coin. Ashton flips the coin. Lillian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Initially, the coin is heads up. When Reza flips the coin, it will be tails up. When Ashton flips the coin, it will be heads up again. When Lillian flips the coin, it could be either heads up or tails up, depending on the outcome of her flip. So, the final answer is that the coin could be either heads up or tails up, depending on Lillian's flip.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Luisa does not flip the coin. Tatiana does not flip the coin. Drake does not flip the coin. Hillary does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. First, we know that the coin is heads up. Then, we are told that no one flips the coin, meaning that it is not reversed. Therefore, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 84.21957397460938
+}

@@ -1,0 +1,28 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Celso\" is \"o\". The last letter of \"Tracy\" is \"y\". The last letter of \"Winston\" is \"n\". The last letter of \"Anton\" is \"n\". So, if we concatenate these letters, we get \"oynn\".",
+            "pred_ans": "oynn",
+            "gold_ans": "oynn"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Issa Kendra Ignacio Henry\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Issa\" is \"a\". The last letter of \"Kendra\" is \"a\". The last letter of \"Ignacio\" is \"o\". The last letter of \"Henry\" is \"y\". So, if we concatenate these letters, we get \"aao y\".",
+            "pred_ans": "aaoy",
+            "gold_ans": "aaoy"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Marco Antonio Suzette Roland Isabel\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Marco\" is \"o\". The last letter of \"Antonio\" is \"o\". The last letter of \"Suzette\" is \"e\". The last letter of \"Roland\" is \"d\". The last letter of \"Isabel\" is \"l\". So if we concatenate these letters, we get \"oodel\".",
+            "pred_ans": "oodel",
+            "gold_ans": "oedl"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Elizabeth Mitch Brooke Jordyn\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Elizabeth\" is \"h\". The last letter of \"Mitch\" is \"h\". The last letter of \"Brooke\" is \"e\". The last letter of \"Jordyn\" is \"n\". So, if we concatenate these letters, we get \"hen\".",
+            "pred_ans": "hen",
+            "gold_ans": "hhen"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "demo": [
+        {
+            "question": "Q: Did the Qwerty keyboard layout predate computers?\nA:",
+            "rationale": "Let's think step by step. The Qwerty keyboard layout was actually designed for typewriters in the late 1800s. It was created to prevent the keys from jamming by placing commonly used letter pairs farther apart. So, yes, the Qwerty keyboard layout did predate computers.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify who the 40th president of the United States was. The 40th president was Ronald Reagan. Next, we need to determine if forwarding lolcats to friends was something that was possible during Reagan's presidency. Lolcats, or funny cat pictures with captions, became popular on the internet in the early 2000s, which was after Reagan's presidency ended in 1989. Therefore, it is unlikely that Reagan forwarded lolcats to his friends during his presidency. In conclusion, it is highly unlikely that the 40th president of the United States forwarded lolcats to his friends.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would you spend less on your food at Aldi than at Whole Foods?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to compare the prices of similar items at Aldi and Whole Foods. It is generally known that Aldi is a discount grocery store, while Whole Foods is a high-end grocery store. Therefore, it is likely that Aldi will have lower prices than Whole Foods. However, the exact price difference will depend on the specific items being compared. To determine if you would spend less on your food at Aldi than at Whole Foods, you could make a list of the items you typically buy and compare the prices at both stores. You could also consider the quality of the products and the overall shopping experience at each store. In general, if you are looking to save money on groceries, Aldi is likely to be a more affordable option than Whole Foods. However, if you prioritize high-quality, organic, or specialty items, you may prefer to shop at Whole Foods despite the higher prices.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Saturn named after king of gods in Greek mythology?\nA:",
+            "rationale": "Let's think step by step. Saturn is indeed named after the Roman god of agriculture and wealth, who was also known as Cronus in Greek mythology. Cronus was the son of Uranus and Gaia and was known for overthrowing his father and becoming the ruler of the universe. So, while Saturn is not directly named after the king of gods in Greek mythology, it is named after a figure from Roman mythology who shares many similarities with Cronus.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can the Very Large Telescope observe the largest mountain on Earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what the largest mountain on Earth is. Mount Everest is the tallest mountain on Earth, but if we consider the mountain with the largest base, then Mauna Kea in Hawaii is the largest. Next, we need to determine if the Very Large Telescope (VLT) is capable of observing mountains on Earth. The VLT is a ground-based telescope located in Chile that is primarily used for astronomical observations. While it is possible for the VLT to observe objects on Earth, it is not its primary function and there may be limitations to what it can observe. Finally, even if the VLT is capable of observing mountains on Earth, it is unlikely that it would be able to observe the largest mountain on Earth due to its distance from Chile and the fact that it is located on the opposite side of the planet. Therefore, it is unlikely that the VLT can observe the largest mountain on Earth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a student in eleventh grade be unable to run for president of the United States?\nA:",
+            "rationale": "Let's think step by step. In order to run for president of the United States, a person must meet the following requirements: 1. Be a natural-born citizen of the United States 2. Be at least 35 years old 3. Have been a resident of the United States for at least 14 years Therefore, being in eleventh grade would not disqualify someone from running for president, as long as they meet the other requirements. However, it is highly unlikely that someone in eleventh grade would have the necessary experience and qualifications to run for president.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Was King Arthur at the beheading of Anne Boleyn?\nA:",
+            "rationale": "Let's think step by step. First, we need to establish some historical context. King Arthur is a legendary figure from medieval times, while Anne Boleyn was a historical figure who lived during the 16th century. Therefore, it is highly unlikely that King Arthur was present at the beheading of Anne Boleyn, as he is not believed to have been a real person. Additionally, the events surrounding Anne Boleyn's execution are well-documented, and there is no mention of King Arthur being present.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could you watch a new Seinfeld episode every day for a year?\nA:",
+            "rationale": "Let's think step by step. Assuming that there are 9 seasons of Seinfeld, with a total of 180 episodes, you would need to watch approximately 0.49 episodes per day to complete the series in one year. This means that you could easily watch one new episode every day for a year, with some days having to watch two episodes to catch up. So, the answer is yes, you could watch a new Seinfeld episode every day for a year.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Christopher Columbus go to Antarctica?\nA:",
+            "rationale": "Let's think step by step. Christopher Columbus is known for his voyages across the Atlantic Ocean, but he did not travel to Antarctica. Columbus lived in the 15th century, and Antarctica was not discovered until the 19th century. Additionally, Antarctica is located at the southernmost point of the Earth, while Columbus traveled to the Americas, which are located in the northern hemisphere.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are queen bees unnecessary for growing apples?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand the role of queen bees in the pollination process. Queen bees are responsible for laying eggs, which hatch into worker bees. Worker bees are the ones that collect nectar and pollen from flowers, including apple blossoms. When worker bees collect pollen from apple blossoms, they transfer the pollen to other apple blossoms, which fertilizes the flowers and allows the apple tree to produce fruit. Without pollination, the apple tree would not produce fruit. So, to answer the question, queen bees are not directly necessary for growing apples, but they are essential for the pollination process that leads to apple growth. Without queen bees, there would be no worker bees to pollinate the apple blossoms, and the apple tree would not produce fruit.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Arnold Schwarzenegger hypothetically defeat Hafþór Björnsson in a powerlifting competition if both are at their peak strength?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to define what we mean by \"powerlifting competition.\" Powerlifting typically consists of three lifts: the squat, bench press, and deadlift. So we can assume that this hypothetical competition would involve those three lifts. Next, we need to consider the strength of each competitor. Arnold Schwarzenegger was a bodybuilder and powerlifter in his prime, but he was not known for his strength in the squat, bench press, and deadlift specifically. Hafþór Björnsson, on the other hand, is a professional strongman and powerlifter who holds several world records in those lifts. Based on this information, it seems unlikely that Arnold Schwarzenegger would be able to defeat Hafþór Björnsson in a powerlifting competition if both were at their peak strength. However, it's worth noting that there are many factors that could come into play, such as technique, training, and mental toughness. So while it may be unlikely, it's not impossible.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Arnold Schwarzenegger be unable to run for President of the US?\nA:",
+            "rationale": "Let's think step by step. There are a few factors to consider when answering this question. Firstly, it's important to note that the United States Constitution sets out the eligibility requirements for someone to become President. According to Article II, Section 1, Clause 5 of the Constitution, a person must be a natural-born citizen of the United States, at least 35 years old, and have been a resident of the country for at least 14 years. Arnold Schwarzenegger was born in Austria, so he is not a natural-born citizen of the United States. This means that he would be ineligible to run for President under the current requirements set out in the Constitution. However, it's worth noting that there have been some discussions and debates in the past about potentially amending the Constitution to allow foreign-born citizens to run for President. If such an amendment were to be passed, then Schwarzenegger (or any other foreign-born citizen who met the other eligibility requirements) could potentially run for President in the future.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Cantonese spoken in Japan?\nA:",
+            "rationale": "Let's think step by step. Cantonese is a dialect of the Chinese language and is primarily spoken in the Guangdong province of China, Hong Kong, and Macau. It is not a language spoken in Japan. The official language of Japan is Japanese.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could you drive a Rowe 550 to the 2008 Summer Olympics?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what a Rowe 550 is. After some research, it appears that a Rowe 550 is a type of vending machine. Next, we need to determine the location of the 2008 Summer Olympics. The 2008 Summer Olympics were held in Beijing, China. Based on this information, it is not possible to drive a vending machine to the 2008 Summer Olympics in Beijing. Vending machines are not designed for transportation and would not be able to travel the distance required to reach Beijing. Additionally, there would be no need for a vending machine at the Olympics as there would be plenty of food and beverage options available for athletes and spectators.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a Common warthog starve in a greenhouse?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the habitat and diet of a common warthog. Common warthogs are native to the savannas and grasslands of Africa, where they feed on a variety of vegetation, roots, and tubers. They are also known to eat insects, small mammals, and reptiles. Now, let's consider a greenhouse. A greenhouse is an enclosed structure designed to provide a controlled environment for plants to grow. The temperature, humidity, and light levels are carefully regulated to optimize plant growth. Based on this information, it is unlikely that a common warthog would survive in a greenhouse. The environment is not suitable for their natural habitat and diet. Additionally, warthogs are not typically kept as pets or used for agricultural purposes, so there would be no reason to keep them in a greenhouse.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3365.773193359375
+}

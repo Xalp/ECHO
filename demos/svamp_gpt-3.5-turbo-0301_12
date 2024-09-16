@@ -1,0 +1,77 @@
+{
+    "demo": [
+        {
+            "question": "Q: Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left How many pieces of candy did Bobby eat?\nA:",
+            "rationale": "Let's think step by step. First, we can start by subtracting the number of pieces of candy Bobby has left from the original amount he had: 32 - 20 = 12 This tells us that Bobby ate 12 pieces of candy.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Step 1: Start with the total number of crayons Paul got for his birthday, which is 253. Step 2: Subtract the number of crayons he lost or gave away, which is 70. Step 3: Perform the subtraction: 253 - 70 = 183. Step 4: Answer the question: Paul had 183 crayons left by the end of the school year.",
+            "pred_ans": "183",
+            "gold_ans": "183"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Allan brought 5 balloons to the park. If Jake brought 6 more balloons than the number of balloons that Allan brought How many balloons did Jake bring to the park?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. Allan brought 5 balloons to the park. Jake brought 6 more balloons than the number of balloons that Allan brought. So, we need to add 6 to the number of balloons Allan brought to find out how many balloons Jake brought. Therefore, Jake brought 5 + 6 = 11 balloons to the park.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Frank was reading through some books. Each book had 249 pages and it took Frank 3 days to finish each book. How many pages did he read per day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. Frank reads one book in 3 days, and each book has 249 pages. So, in 3 days, he reads 249 pages. To find out how many pages he reads per day, we need to divide 249 by 3. 249 ÷ 3 = 83 Therefore, Frank reads 83 pages per day.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many oranges are harvested in one day. We know that they harvest 66 sacks per day, and each sack contains 25 oranges. So, the total number of oranges harvested in one day is: 66 sacks/day x 25 oranges/sack = 1650 oranges/day Next, we need to find out how many oranges are harvested in 87 days. We can do this by multiplying the number of oranges harvested in one day by the number of days: 1650 oranges/day x 87 days = 143550 oranges Therefore, after 87 days of harvest, they will have 143550 oranges.",
+            "pred_ans": "143550",
+            "gold_ans": "143550"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 14 cups of sugar for the recipe. She has already added 2 cups of sugar, so she still needs to add: 14 cups - 2 cups = 12 cups of sugar Therefore, Mary needs to add 12 more cups of sugar to complete the recipe.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that Zachary did 59 push-ups and 44 crunches. Step 2: We also know that David did 19 more push-ups than Zachary, so we can add 19 to 59 to get David's push-up count: 59 + 19 = 78 push-ups. Step 3: We also know that David did 27 less crunches than Zachary, so we can subtract 27 from 44 to get David's crunch count: 44 - 27 = 17 crunches. Step 4: Therefore, David did 78 push-ups and 17 crunches.",
+            "pred_ans": "78",
+            "gold_ans": "78"
+        },
+        {
+            "question": "Q: Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches. How many more apples than peaches does Steven have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many apples and peaches Jake has. We know that Jake has 3 fewer peaches than Steven, so Jake has 15 - 3 = 12 peaches. We also know that Jake has 4 more apples than Steven, so Jake has 19 + 4 = 23 apples. Next, we need to find out how many more apples than peaches Steven has. Steven has 19 apples and 15 peaches, so he has 19 - 15 = 4 more apples than peaches. Therefore, Steven has 4 more apples than peaches.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        }
+    ],
+    "inertia": 402.7768249511719
+}

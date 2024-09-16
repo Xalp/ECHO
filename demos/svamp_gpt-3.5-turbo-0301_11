@@ -1,0 +1,71 @@
+{
+    "demo": [
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Julia played tag with 13 kids on monday and 10 kids on tuesday. She played cards with 15 kids on wednesday. How many kids did she play with altogether?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of kids Julia played with on each day. 13 kids on Monday + 10 kids on Tuesday + 15 kids on Wednesday = 38 kids in total. So Julia played with 38 kids altogether.",
+            "pred_ans": "38",
+            "gold_ans": "38"
+        },
+        {
+            "question": "Q: Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries How many cakes would baker still have?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of pastries sold from the original number of pastries: 61 pastries - 44 pastries = 17 pastries Next, we need to subtract the number of cakes sold from the original number of cakes: 167 cakes - 108 cakes = 59 cakes Therefore, Baker would still have 59 cakes left.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many apples Jake has. We know that Jake has 84 more apples than Steven, who has 52 apples. So, Jake has: 52 + 84 = 136 apples Next, we need to find out how many peaches Jake has. We know that Jake has 10 fewer peaches than Steven, who has 13 peaches. So, Jake has: 13 - 10 = 3 peaches Therefore, Jake has 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Frank was reading through some books. Each book had 249 pages and it took Frank 3 days to finish each book. How many pages did he read per day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. Frank reads one book in 3 days, and each book has 249 pages. So, in 3 days, he reads 249 pages. To find out how many pages he reads per day, we need to divide 249 by 3. 249 ÷ 3 = 83 Therefore, Frank reads 83 pages per day.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Allan brought 5 balloons to the park. If Jake brought 6 more balloons than the number of balloons that Allan brought How many balloons did Jake bring to the park?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. Allan brought 5 balloons to the park. Jake brought 6 more balloons than the number of balloons that Allan brought. So, we need to add 6 to the number of balloons Allan brought to find out how many balloons Jake brought. Therefore, Jake brought 5 + 6 = 11 balloons to the park.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. We know that the ring toss game made the same amount of money each day for 5 days, and in total, they earned $165. To find out how much they made per day, we can divide the total earnings by the number of days: $165 ÷ 5 = $33 Therefore, they made $33 per day at the ring toss game.",
+            "pred_ans": "33",
+            "gold_ans": "33"
+        },
+        {
+            "question": "Q: Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many emails Jack received in the afternoon and evening combined. To do this, we can add the number of emails he received in the afternoon (5) to the number of emails he received in the evening (8): 5 + 8 = 13 So Jack received 13 emails in the afternoon and evening combined.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        }
+    ],
+    "inertia": 414.1962585449219
+}

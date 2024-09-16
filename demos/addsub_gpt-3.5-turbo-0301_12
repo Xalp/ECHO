@@ -1,0 +1,77 @@
+{
+    "demo": [
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of dogwood trees currently in the park to the number of trees that will be planted today. So, we can write it as: 34 (current trees) + 49 (newly planted trees) = 83 Therefore, the park will have 83 dogwood trees when the workers are finished planting.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Tim made by subtracting his initial amount from his final amount. 75 - 12 = 63 This means that Tim made 63 dollars by washing cars over the weekend.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: A restaurant served 4 pies during lunch and 9 during dinner today . The restaurant served 7 pies and 2 pizzas yesterday . How many pies were served in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add up the number of pies served today: 4 pies during lunch + 9 pies during dinner = 13 pies today. Next, we need to add up the number of pies served yesterday: 7 pies yesterday. Finally, we can add up the total number of pies served: 13 pies today + 7 pies yesterday = 20 pies in total. So, the answer is 20 pies were served in total.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the 25 yellow marbles that Joan took from Sam's original 86 yellow marbles. 86 - 25 = 61 So Sam now has 61 yellow marbles.",
+            "pred_ans": "61",
+            "gold_ans": "61"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Jason grew 23 watermelons and 18 turnips . Nancy grew 28 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of watermelons that Jason and Nancy grew. Jason grew 23 watermelons and Nancy grew 28 watermelons, so the total number of watermelons is: 23 + 28 = 51 Therefore, they grew a total of 51 watermelons.",
+            "pred_ans": "51",
+            "gold_ans": "51"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins . How many pounds of snacks did she buy in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Tom went to 4 hockey games this year , but missed 7 . He went to 9 games last year . How many hockey games did Tom go to in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many hockey games Tom went to this year. We know he went to 4 games, but he also missed 7 games. So, the total number of games this year would be: 4 + 7 = 11 games Next, we need to add the number of games Tom went to last year, which was 9 games. So, the total number of hockey games Tom went to in all would be: 11 + 9 = 20 games Therefore, Tom went to a total of 20 hockey games.",
+            "pred_ans": "20",
+            "gold_ans": "13"
+        }
+    ],
+    "inertia": 151.30255126953125
+}

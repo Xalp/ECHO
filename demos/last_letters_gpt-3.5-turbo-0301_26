@@ -1,0 +1,89 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Prince Rene Vishal Patrick\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Prince\" is \"e\". The last letter of \"Rene\" is \"e\". The last letter of \"Vishal\" is \"l\". The last letter of \"Patrick\" is \"k\". So, if we concatenate these letters, we get \"elk\".",
+            "pred_ans": "elk",
+            "gold_ans": "eelk"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Kristen Herbert Benny El\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Kristen\" is \"n\". The last letter of \"Herbert\" is \"t\". The last letter of \"Benny\" is \"y\". The last letter of \"El\" is \"l\". So, if we concatenate these letters, we get \"ntyL\".",
+            "pred_ans": "ntyL",
+            "gold_ans": "ntyl"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Malcolm Hussein Franco Hugo\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The words are: Malcolm, Hussein, Franco, Hugo. We need to take the last letter of each word and concatenate them. So, the last letters are: m, n, o, o. And when we concatenate them, we get: mnoo.",
+            "pred_ans": "mnoo",
+            "gold_ans": "mnoo"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Manish Lu Karl Don\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The given words are \"Manish Lu Karl Don\". We need to take the last letter of each word and concatenate them. So, the last letters of each word are: h, u, l, n. Now, we need to concatenate them, which means to join them together. So, the final answer is \"huln\".",
+            "pred_ans": "huln",
+            "gold_ans": "huln"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Virginia Juanita Zak Wayne\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Virginia\" is \"a\". The last letter of \"Juanita\" is \"a\". The last letter of \"Zak\" is \"k\". The last letter of \"Wayne\" is \"e\". So, if we concatenate these letters, we get \"ake\".",
+            "pred_ans": "ake",
+            "gold_ans": "aake"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Sabrina Pete Mary La\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The given words are: Sabrina, Pete, Mary, La. We need to take the last letter of each word and concatenate them. So, the last letters are: a (from Sabrina), e (from Pete), y (from Mary), a (from La). Now, we can concatenate them to get the final answer: aeya.",
+            "pred_ans": "aeya",
+            "gold_ans": "aeya"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Celso\" is \"o\". The last letter of \"Tracy\" is \"y\". The last letter of \"Winston\" is \"n\". The last letter of \"Anton\" is \"n\". So, if we concatenate these letters, we get \"oynn\".",
+            "pred_ans": "oynn",
+            "gold_ans": "oynn"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Mari Ximena Leo Antonia\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The first step is to identify the words in the given phrase: \"Mari Ximena Leo Antonia\". The words are: Mari, Ximena, Leo, Antonia. The next step is to take the last letter of each word. The last letters are: i, a, o, a. Finally, we concatenate these letters to form a new word. The new word is: \"iaoa\".",
+            "pred_ans": "iaoa",
+            "gold_ans": "iaoa"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Mel Josh Alejandra Harley\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Mel\" is \"l\". The last letter of \"Josh\" is \"h\". The last letter of \"Alejandra\" is \"a\". The last letter of \"Harley\" is \"y\". So if we concatenate these letters, we get \"lhay\".",
+            "pred_ans": "lhay",
+            "gold_ans": "lhay"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Brooklyn Dawn Tay Gene\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Brooklyn\" is \"n\". The last letter of \"Dawn\" is \"n\". The last letter of \"Tay\" is \"y\". The last letter of \"Gene\" is \"e\". So, if we concatenate these letters, we get \"nyye\".",
+            "pred_ans": "nyye",
+            "gold_ans": "nnye"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Ivy Romeo Jana Ej\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The given words are: Ivy, Romeo, Jana, Ej. We need to take the last letter of each word and concatenate them. So, the last letters are: y, o, a, j. Now, we can concatenate them to get the final answer: \"yoaj\".",
+            "pred_ans": "yoaj",
+            "gold_ans": "yoaj"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Elizabeth Mitch Brooke Jordyn\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Elizabeth\" is \"h\". The last letter of \"Mitch\" is \"h\". The last letter of \"Brooke\" is \"e\". The last letter of \"Jordyn\" is \"n\". So, if we concatenate these letters, we get \"hen\".",
+            "pred_ans": "hen",
+            "gold_ans": "hhen"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Marco Antonio Suzette Roland Isabel\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Marco\" is \"o\". The last letter of \"Antonio\" is \"o\". The last letter of \"Suzette\" is \"e\". The last letter of \"Roland\" is \"d\". The last letter of \"Isabel\" is \"l\". So if we concatenate these letters, we get \"oodel\".",
+            "pred_ans": "oodel",
+            "gold_ans": "oedl"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Regina Joel Justice Eli\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Regina\" is \"a\". The last letter of \"Joel\" is \"l\". The last letter of \"Justice\" is \"e\". The last letter of \"Eli\" is \"i\". So, if we concatenate these letters, we get \"alei\".",
+            "pred_ans": "alei",
+            "gold_ans": "alei"
+        }
+    ],
+    "inertia": 133.71043395996094
+}

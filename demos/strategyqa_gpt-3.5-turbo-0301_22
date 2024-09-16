@@ -1,0 +1,137 @@
+{
+    "demo": [
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does the Eighth Amendment to the United States Constitution protect freedom of speech?\nA:",
+            "rationale": "Let's think step by step. The Eighth Amendment to the United States Constitution prohibits excessive bail, excessive fines, and cruel and unusual punishment. It does not directly address freedom of speech. However, the First Amendment to the United States Constitution protects freedom of speech, among other rights.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is the Very Large Telescope the most productive telescope in the world?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what we mean by \"productive.\" If we are talking about the number of scientific papers published using data from a telescope, then we can look at the statistics provided by the scientific community. According to the Nature Index, which tracks the number of research papers published in top-tier scientific journals, the most productive telescope in the world is actually the Hubble Space Telescope. However, the Very Large Telescope (VLT) in Chile is also a highly productive telescope, ranking among the top telescopes in terms of scientific output. It's worth noting that different telescopes have different strengths and capabilities, and may be better suited for certain types of observations. So while the VLT may not be the most productive telescope in every category, it is certainly a valuable tool for astronomers and has contributed significantly to our understanding of the universe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Saturn named after king of gods in Greek mythology?\nA:",
+            "rationale": "Let's think step by step. Saturn is indeed named after the Roman god of agriculture and wealth, who was also known as Cronus in Greek mythology. Cronus was the son of Uranus and Gaia and was known for overthrowing his father and becoming the ruler of the universe. So, while Saturn is not directly named after the king of gods in Greek mythology, it is named after a figure from Roman mythology who shares many similarities with Cronus.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a packed Wembley stadium be likely to have a descendant of the Mongols inside?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the likelihood of a descendant of the Mongols being present in the general population. According to estimates, there are approximately 10 million people worldwide who can trace their ancestry back to Genghis Khan, the founder of the Mongol Empire. Next, we need to consider the capacity of Wembley Stadium. The stadium can hold up to 90,000 people, so the chances of a single individual being a descendant of the Mongols in a packed Wembley Stadium would be approximately 0.9%. Therefore, while it is possible that a descendant of the Mongols could be present in a packed Wembley Stadium, the likelihood is relatively low.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you get a ride on Amtrak to the Underworld?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I cannot physically ride on Amtrak or any other mode of transportation. However, if you are asking whether Amtrak offers a route to the Underworld, the answer is no. The Underworld is a mythical place in various cultures and is not accessible through any physical means of transportation.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Eminem perform well at the International Mathematical Olympiad?\nA:",
+            "rationale": "Let's think step by step. The International Mathematical Olympiad is a competition for high school students who excel in mathematics. Eminem, on the other hand, is a rapper and songwriter. While he may have some mathematical skills related to music production, it is unlikely that he would perform well at the International Mathematical Olympiad without significant preparation and training in advanced mathematics. However, it is important to note that anyone can improve their mathematical abilities with practice and dedication.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can monkeys use QWERTY keyboards?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a QWERTY keyboard is. It is a keyboard layout that is commonly used for English language typing. Next, we need to consider the physical abilities of monkeys. While monkeys are intelligent animals, they do not have the same level of fine motor skills as humans. They may struggle to accurately press individual keys on a keyboard. Additionally, monkeys may not have the cognitive ability to understand the purpose of a keyboard or how to use it to input information. Therefore, it is unlikely that monkeys would be able to effectively use a QWERTY keyboard.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Alice's Adventures in Wonderland inspire Macbeth?\nA:",
+            "rationale": "Let's think step by step. There is no direct evidence to suggest that Alice's Adventures in Wonderland inspired Macbeth. Alice's Adventures in Wonderland is a children's novel written by Lewis Carroll, while Macbeth is a tragedy written by William Shakespeare. The two works are vastly different in terms of genre, style, and content. However, it is possible that both works were influenced by similar cultural and literary trends of their time. For example, both works explore themes of identity, reality, and the nature of power. Additionally, both works use fantastical elements to challenge the reader's perception of the world. Ultimately, while there may be some similarities between the two works, it is unlikely that Alice's Adventures in Wonderland directly inspired Macbeth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3400.9677734375
+}

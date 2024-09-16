@@ -1,0 +1,71 @@
+{
+    "demo": [
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where do people want to have a lot of coffee? Answer Choices: (A) table (B) office (C) desk (D) kitchen (E) ocean\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. The question is asking where people want to have a lot of coffee. Next, we need to look at the answer choices and eliminate any that don't make sense. Option (A) table, (B) office, (C) desk, and (D) kitchen all seem like plausible places where people might want to have a lot of coffee. However, option (E) ocean doesn't make sense as it's not a place where people typically drink coffee. Therefore, the correct answer is one of the first four options: (A) table, (B) office, (C) desk, or (D) kitchen. However, without any additional context or information, it's impossible to determine which of these options is the correct answer.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Why would you go to an office? Answer Choices: (A) work (B) school building (C) paper (D) city (E) habit\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the purpose of going to an office. An office is a place where people work, so the answer is (A) work.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you're attending school and are falling asleep you're likely experiencing what? Answer Choices: (A) boredom (B) malaria (C) graduate (D) inspiration (E) detention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what falling asleep in school means. It means that the person is feeling drowsy and is struggling to stay awake. Next, we can eliminate options (B), (C), (D), and (E) as they are not related to the situation described. That leaves us with option (A) boredom. Boredom can cause a lack of interest and engagement in the material being taught, leading to drowsiness and difficulty staying awake.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: There was many a bottle to choose from behind the cashier where? Answer Choices: (A) grocery store (B) diaper bag (C) gas station (D) liquor store (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where there were many bottles to choose from behind the cashier. Next, we can eliminate answer choices that don't make sense. For example, (B) diaper bag and (E) medicine cabinet don't seem like places where there would be many bottles to choose from behind a cashier. We can also use our knowledge and common sense to eliminate answer choices. For example, a grocery store might have many bottles, but they would likely be on the shelves, not behind the cashier. That leaves us with (C) gas station and (D) liquor store. Both of these places could have many bottles behind the cashier. However, based on the context of the question, it seems more likely that the answer is (D) liquor store.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Killing people should not cause what emotion? Answer Choices: (A) vengeance (B) going to prison (C) joy (D) afraid (E) terrible\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that killing people is a serious crime and is not acceptable in any circumstance. Therefore, the answer choices (A) vengeance, (C) joy, and (E) terrible are all inappropriate emotions to feel after killing someone. (B) Going to prison is a consequence of committing a crime, including murder, and is a valid emotion to feel as it is a result of one's actions. (D) Afraid is also a valid emotion to feel after committing a crime as one may fear the consequences of their actions or the potential harm they may face from others seeking justice. However, it is important to note that the best course of action is to not commit any crimes, especially ones as serious as murder.",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What is a treat that you dog will enjoy? Answer Choices: (A) salad (B) petted (C) affection (D) bone (E) lots of attention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that dogs are carnivorous animals and they enjoy chewing on bones. Therefore, option (D) bone is the correct answer. Salad is not a suitable treat for dogs as it may upset their stomach. Petting and affection are not treats but rather ways to show love and care for your dog. While attention is important for dogs, it is not a treat in itself.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        }
+    ],
+    "inertia": 740.2372436523438
+}

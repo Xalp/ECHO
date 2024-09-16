@@ -1,0 +1,125 @@
+{
+    "demo": [
+        {
+            "question": "Q: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that Mike placed in the drawer to the original number of pencils in the drawer. 41 + 30 = 71 Therefore, there are now 71 pencils in the drawer in total.",
+            "pred_ans": "71",
+            "gold_ans": "71"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Nancy has 9 five dollars bills.  How much money does she have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Nancy has 9 five dollar bills. So, we can start by multiplying 9 by 5 to find out how much money she has in total. 9 x 5 = 45 Therefore, Nancy has $45 in total.",
+            "pred_ans": "45",
+            "gold_ans": "45"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we add the cost of the trumpet and the song book: $145.16 + $5.84 = $151 So Mike spent $151 at the music store.",
+            "pred_ans": "151",
+            "gold_ans": "151"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        },
+        {
+            "question": "Q: At the beach, Miki and her sister both built sandcastles and then measured their heights. Miki's sandcastle was 0.8333333333333334 of a foot tall and her sister's was 0.5 of a foot tall. How much taller was Miki's sandcastle than her sister's?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the heights of the two sandcastles. We can do this by subtracting the height of Miki's sister's sandcastle from the height of Miki's sandcastle. 0.8333333333333334 - 0.5 = 0.3333333333333334 So, Miki's sandcastle is 0.3333333333333334 feet taller than her sister's sandcastle.",
+            "pred_ans": "0.3333333333333334",
+            "gold_ans": "0.3333333333333333"
+        },
+        {
+            "question": "Q: Dina made cookies. She used 0.625 of a cup of flour and 0.25 of a cup of sugar. How much more flour than sugar did Dina use?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the amount of flour and sugar used. To do this, we can subtract the amount of sugar used from the amount of flour used: 0.625 - 0.25 = 0.375 So Dina used 0.375 more cups of flour than sugar.",
+            "pred_ans": "0.375",
+            "gold_ans": "0.375"
+        },
+        {
+            "question": "Q: A restaurant served 6 cakes during lunch and 9 during dinner today. How many cakes were served today ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of cakes served during lunch and dinner. 6 cakes during lunch + 9 cakes during dinner = 15 cakes So, the restaurant served 15 cakes today.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: Blake filled a bucket with 0.8 of a gallon of water. Later, he poured out 0.2 of a gallon of the water. How much water is left in the bucket?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Blake filled the bucket with 0.8 of a gallon of water. So initially, the bucket had 0.8 gallons of water. Next, we know that Blake poured out 0.2 of a gallon of water. So we need to subtract 0.2 from the initial amount of water in the bucket. 0.8 - 0.2 = 0.6 Therefore, there is 0.6 gallons of water left in the bucket.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of students who went on the trip. We know that 375 students went on the trip, and 4 of them traveled in cars. So, the total number of students who traveled by bus is: 375 - 4 = 371 Next, we need to find out how many students were in each bus. We know that there were 7 buses in total, so we can divide the total number of students who traveled by bus by the number of buses: 371 ÷ 7 = 53 Therefore, there were 53 students in each bus.",
+            "pred_ans": "53",
+            "gold_ans": "53"
+        },
+        {
+            "question": "Q: Sandy grew 51 pumpkins. Mike grew 23 pumpkins. How many pumpkins did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pumpkins Sandy grew and the number of pumpkins Mike grew. 51 + 23 = 74 So, they grew a total of 74 pumpkins.",
+            "pred_ans": "74",
+            "gold_ans": "74"
+        },
+        {
+            "question": "Q: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of marbles Dan gave to Mary from the total number of marbles he had before giving any away. 64 - 14 = 50 Therefore, Dan now has 50 violet marbles.",
+            "pred_ans": "50",
+            "gold_ans": "50"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: There were 28 bales of hay in the barn. Tim stacked more bales in the barn today. There are now 54 bales of hay in the barn. How many bales did he store in the barn ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. We know that there were 28 bales of hay in the barn before Tim stacked more bales today. And now there are 54 bales of hay in the barn. So, we need to find out how many bales Tim stacked in the barn. To do that, we can subtract the initial number of bales from the current number of bales. 54 - 28 = 26 Therefore, Tim stacked 26 bales of hay in the barn today.",
+            "pred_ans": "26",
+            "gold_ans": "26"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        }
+    ],
+    "inertia": 206.34425354003906
+}

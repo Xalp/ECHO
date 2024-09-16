@@ -1,0 +1,125 @@
+{
+    "demo": [
+        {
+            "question": "Q: The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of apples ordered by the cafeteria, which is 25 + 17 = 42 apples. Next, we need to find out how many apples each student would get if only 10 students wanted fruit. To do this, we divide the total number of apples by the number of students: 42 ÷ 10 = 4.2 apples per student. Since we can't have a fraction of an apple, we need to round down to the nearest whole number. Each student would get 4 apples. So, if only 10 students wanted fruit, they would need a total of 10 x 4 = 40 apples. Therefore, the cafeteria would end up with 42 - 40 = 2 extra apples.",
+            "pred_ans": "2",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?\nA:",
+            "rationale": "Let's think step by step. First, Chloe made 28 cupcakes. Then, she sold 25 of them. So, she would have 28 - 25 = 3 cupcakes left. After that, she made 8 more cupcakes. So, she would have 3 + 8 = 11 cupcakes in total.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: There are 65 students trying out for the school's trivia teams. If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that there are 65 students trying out for the trivia teams. Step 2: We also know that 17 of them didn't get picked for the team, so the number of students who did get picked is 65 - 17 = 48. Step 3: We need to divide the 48 students into 8 groups. To do this, we can use division: 48 ÷ 8 = 6. Step 4: Therefore, there would be 6 students in each group.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: Each chocolate bar in a box cost $4. If a box had 8 bars total and Emily sold all but 3 bars, how much money would she have made?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bars Emily sold. We know that she sold all but 3 bars, so she sold 8 - 3 = 5 bars. Next, we need to find out how much money Emily made from selling those 5 bars. Each bar costs $4, so 5 bars would cost 5 x $4 = $20. Therefore, Emily would have made $20 from selling the chocolate bars.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of pictures Katie uploaded: 30 + 51 = 81 Next, we need to divide the total number of pictures by the number of albums: 81 ÷ 9 = 9 Therefore, Katie sorted the pictures into 9 different albums with 9 pictures in each album.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Mike has left after buying the new mower blades. We can do this by subtracting the cost of the blades from the amount of money he made: 69 dollars - 24 dollars = 45 dollars Now we know that Mike has 45 dollars left to spend on games. To find out how many 5 dollar games he can buy, we can divide the amount of money he has left by the cost of each game: 45 dollars ÷ 5 dollars/game = 9 games Therefore, Mike can buy 9 5-dollar games with the money he has left after buying the new mower blades.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time. If he had to pick up 17 trays from one table and 55 trays from another, how many trips will he make?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to figure out how many trips Dave will need to make for the 17 trays. Since he can only carry 9 trays at a time, he will need to make 2 trips for the 17 trays. He will carry 9 trays on the first trip and 8 trays on the second trip. Next, we need to figure out how many trips Dave will need to make for the 55 trays. Again, since he can only carry 9 trays at a time, he will need to make 7 trips for the 55 trays. He will carry 9 trays on the first 6 trips and 1 tray on the last trip. So in total, Dave will make 2 trips for the 17 trays and 7 trips for the 55 trays, for a total of 9 trips.",
+            "pred_ans": "9",
+            "gold_ans": "8"
+        },
+        {
+            "question": "Q: Sarah had 4 pages of math homework and 6 pages of reading homework. If each page had 4 problems on it, how many problems did she have to complete total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many problems are on the math homework. Since there are 4 pages and each page has 4 problems, we can multiply 4 x 4 to get 16 math problems. Next, we need to find out how many problems are on the reading homework. Since there are 6 pages and each page has 4 problems, we can multiply 6 x 4 to get 24 reading problems. Finally, we can add the number of math problems and reading problems together to get the total number of problems Sarah has to complete. So, 16 + 24 = 40 problems in total.",
+            "pred_ans": "40",
+            "gold_ans": "40"
+        },
+        {
+            "question": "Q: A pet store has 8 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many birds are in each cage. We know that each cage has 2 parrots and 7 parakeets, so that's a total of 9 birds per cage. Next, we need to find out how many birds are in all of the cages combined. To do this, we can multiply the number of cages by the number of birds per cage: 8 cages x 9 birds per cage = 72 birds So the pet store has a total of 72 birds.",
+            "pred_ans": "72",
+            "gold_ans": "72"
+        },
+        {
+            "question": "Q: A florist had 6 roses. If she sold 5 of them and then later picked 12 more, how many roses would she have?\nA:",
+            "rationale": "Let's think step by step. First, the florist had 6 roses. Then she sold 5 of them, so she would have 6 - 5 = 1 rose left. Later, she picked 12 more roses, so she would have 1 + 12 = 13 roses in total. Therefore, the florist would have 13 roses after selling 5 and picking 12 more.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: A waiter had 47 customers to wait on. If 41 customers left and he got another 20 customers, how many customers would he have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem into smaller parts. First, the waiter had 47 customers to wait on. Then, 41 customers left. So, the waiter would have 47 - 41 = 6 customers left. Finally, the waiter got another 20 customers. So, the total number of customers he would have is 6 + 20 = 26 customers. Therefore, the waiter would have 26 customers.",
+            "pred_ans": "26",
+            "gold_ans": "26"
+        },
+        {
+            "question": "Q: Will had 57 dollars. If he spent 27 bucks on a new game, how many 6 dollar toys could he buy with the money he had left?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Will has left after buying the new game. We can do this by subtracting the cost of the game from his initial amount of money: $57 - $27 = $30 Now we know that Will has $30 left to spend on toys. We also know that each toy costs $6. To find out how many toys he can buy, we can divide the amount of money he has left by the cost of each toy: $30 ÷ $6 = 5 Therefore, Will can buy 5 six-dollar toys with the money he has left after buying the new game.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: There were 7 friends playing a video game online when 2 more players joined the game. If each player had 7 lives, how many lives did they have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that there were 7 friends playing the game. So, they had a total of 7 x 7 = 49 lives. Next, 2 more players joined the game. So, we need to add their lives to the total. Each player has 7 lives, so 2 players would have 2 x 7 = 14 lives. Therefore, the total number of lives in the game would be 49 + 14 = 63 lives.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Megan was organizing her book case making sure each of the shelves had exactly 7 books on it. If she had 8 shelves of mystery books and 2 shelves of picture books, how many books did she have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many books Megan has on each shelf. She has 8 shelves of mystery books, and each shelf has 7 books, so she has 8 x 7 = 56 mystery books. Next, we need to find out how many books she has on the picture book shelves. She has 2 shelves of picture books, and each shelf has 7 books, so she has 2 x 7 = 14 picture books. Finally, we can add the number of mystery books and picture books together to find the total number of books Megan has. 56 + 14 = 70 books in total. Therefore, Megan has a total of 70 books.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: Dave had to wash 29 short sleeve shirts and 11 long sleeve shirts before school. If he had only washed 35 of them by the time school started, how many did he not wash?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Dave had to wash a total of 29 + 11 = 40 shirts. He washed 35 of them before school started. Therefore, he did not wash 40 - 35 = 5 shirts. So, Dave did not wash 5 shirts.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Tom bought 12 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Tom still have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Tom bought 12 boxes of chocolate candy. Each box has 6 pieces inside it, so Tom had a total of 12 x 6 = 72 pieces of chocolate candy. Tom gave 7 boxes to his little brother. Each box has 6 pieces inside it, so Tom gave away a total of 7 x 6 = 42 pieces of chocolate candy. To find out how many pieces Tom still had, we need to subtract the number of pieces he gave away from the total number of pieces he had. So, Tom still had 72 - 42 = 30 pieces of chocolate candy.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: While shopping for music online, Nancy bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Nancy buy total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Nancy bought 3 country albums and 5 pop albums, so she bought a total of 3 + 5 = 8 albums. Each album had 8 songs, so the total number of songs Nancy bought is 8 x 8 = 64 songs. Since each album also came with a lyric sheet, Nancy also received 8 lyric sheets. Therefore, Nancy bought a total of 64 songs and received 8 lyric sheets.",
+            "pred_ans": "64",
+            "gold_ans": "64"
+        },
+        {
+            "question": "Q: At the fair there were 12 people in line for the bumper cars. If 10 of them got tired of waiting and left and 15 more got in line, how many people would be in line?\nA:",
+            "rationale": "Let's think step by step. Step 1: Start with the initial number of people in line, which is 12. Step 2: Subtract the number of people who left the line, which is 10. This gives us 12 - 10 = 2. Step 3: Add the number of people who got in line after the others left, which is 15. This gives us 2 + 15 = 17. Therefore, there would be 17 people in line after 10 people left and 15 more got in line.",
+            "pred_ans": "17",
+            "gold_ans": "17"
+        },
+        {
+            "question": "Q: A trivia team had 5 members total, but during a game 2 members didn't show up. If each member that did show up scored 6 points, how many points were scored total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that the trivia team had 5 members total. But 2 members didn't show up, so that leaves us with 5 - 2 = 3 members who did show up. Next, we know that each member who showed up scored 6 points. So we can multiply the number of members who showed up (3) by the number of points each member scored (6) to get the total number of points: 3 x 6 = 18 Therefore, the total number of points scored by the members who showed up is 18.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of carrots they picked by adding Olivia's and her mother's carrots: 20 + 14 = 34 Next, we know that only 19 of the carrots were good, so we can subtract that from the total number of carrots to find the number of bad carrots: 34 - 19 = 15 Therefore, Olivia and her mom had 15 bad carrots.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        }
+    ],
+    "inertia": 170.97254943847656
+}

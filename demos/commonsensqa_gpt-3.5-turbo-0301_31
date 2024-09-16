@@ -1,0 +1,191 @@
+{
+    "demo": [
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What is the process of going somewhere? Answer Choices: (A) fire (B) energy (C) car (D) transporting (E) staying in place\nA:",
+            "rationale": "Let's think step by step. First, you need to decide where you want to go. Then, you need to determine the mode of transportation you will use to get there. This could be a car, bus, train, plane, or even walking or biking. Once you have chosen your mode of transportation, you need to physically move yourself to that mode of transportation. Then, you need to use that mode of transportation to travel to your destination. Finally, you need to physically move yourself from the mode of transportation to your final destination. The process of going somewhere involves a combination of decision-making, physical movement, and transportation. Therefore, the answer choice that best fits this process is (D) transporting.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Why would you take a bus to work? Answer Choices: (A) commute (B) flying (C) get somewhere (D) travel (E) go home\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"commute.\" Commute means to travel regularly between one's home and place of work or study. So, the answer to the question is (A) commute. People take a bus to work because it is a convenient and cost-effective way to commute. It saves them the hassle of driving in traffic, finding parking, and paying for gas and maintenance. Additionally, taking public transportation reduces traffic congestion and air pollution, making it a more sustainable option.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: The computer was difficult for he to understand at the store, so what did she sign up for to learn more? Answer Choices: (A) classroom (B) facebook (C) school (D) apartment (E) demonstration\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what the person signed up for to learn more about the computer. Next, we can eliminate answer choices that don't make sense. Option (B) Facebook and option (D) apartment don't seem like logical choices for learning about computers. Option (E) demonstration could be a possibility, but it doesn't necessarily imply a structured learning environment. That leaves us with options (A) classroom and (C) school. Both of these options suggest a more formal setting for learning, but option (C) school is a broader term that could encompass a variety of classes and programs. Therefore, the most likely answer is (C) school.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Sarah didn't like to play but she didn't want to be sedentary and bored, either, so she took up what? Answer Choices: (A) serious (B) longplay (C) musical (D) eat cake (E) doing nothing\nA:",
+            "rationale": "Let's think step by step. This question doesn't seem to be a math problem. It appears to be a reading comprehension question. The answer is not related to math.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What might you need to do cleaning? Answer Choices: (A) sing a song (B) neatness (C) allergies (D) healthy living (E) using water\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what needs to be cleaned. Is it a room, a surface, or an object? Once we know that, we can determine what tools and materials we need to clean it. For example, if we are cleaning a room, we might need a broom, dustpan, vacuum cleaner, and cleaning solution. Next, we need to consider any allergies or sensitivities that we or others may have. If we are allergic to certain cleaning products or dust, we need to choose alternative products or take precautions such as wearing a mask or gloves. We also need to consider the importance of neatness and healthy living. A clean environment promotes good health and well-being, and a neat and organized space can help us be more productive and focused. Finally, using water is often an important part of cleaning, but it's not always necessary. Some surfaces or objects may require dry cleaning methods or specialized cleaning solutions.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: A potato is kept in the cellar, where is likely to be stored? Answer Choices: (A) farmer's market (B) grocery bag (C) pantry (D) bushel basket (E) fridge\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the characteristics of a potato. Potatoes are root vegetables that grow underground and are typically harvested in the fall. They have a relatively long shelf life and can be stored for several months under the right conditions. Given this information, we can eliminate options (A) farmer's market and (B) grocery bag, as these are not storage locations but rather places where potatoes may be sold. Option (E) fridge is also not a likely storage location for potatoes, as they prefer cool, dark, and dry environments. Refrigerators are typically too cold and humid for potatoes and can cause them to spoil more quickly. That leaves us with options (C) pantry and (D) bushel basket. A pantry is a good option for storing potatoes, as it is typically cool and dry. A bushel basket is also a good option, as it allows for air circulation and can help prevent the potatoes from rotting. Therefore, the most likely answer is either (C) pantry or (D) bushel basket, depending on the specific storage conditions available.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where might it be hard to get furniture to? Answer Choices: (A) apartment (B) loft (C) store (D) rug (E) stairs\nA:",
+            "rationale": "Let's think step by step. If we consider the options given, it is unlikely that it would be hard to get furniture to a store or a rug. However, it could be difficult to get furniture to an apartment or a loft if there are narrow hallways or doorways that the furniture cannot fit through.",
+            "pred_ans": "E",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What do you do when you're going to market? Answer Choices: (A) buy food (B) see other people (C) buying vegetables (D) buy a fat pig (E) traveling\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a riddle or a question with a hidden meaning. The answer choices suggest that the question is related to going to the market. Option A suggests buying food, which is a common activity at the market. Option B suggests seeing other people, which is also possible at the market. Option C suggests buying vegetables, which is a common item sold at the market. Option D suggests buying a fat pig, which is a common item sold at some markets. Option E suggests traveling, which may or may not be related to going to the market. Based on the answer choices, the most likely answer is (D) buy a fat pig, as it is a common item sold at some markets. However, without more context or information, it is difficult to determine the correct answer with certainty.",
+            "pred_ans": "D",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where would your hear a bass clarinet along side other wood wind instruments? Answer Choices: (A) opera house (B) school band (C) music store (D) orchestra (E) bathroom stall\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a bass clarinet is and what other woodwind instruments are. A bass clarinet is a musical instrument that belongs to the woodwind family, just like the flute, oboe, clarinet, and saxophone. Next, we need to consider where these instruments are typically played. An opera house is a venue for opera performances, which may or may not include woodwind instruments. A music store is a retail establishment that sells musical instruments, but it is not a place where you would typically hear a live performance. A bathroom stall is not a suitable place for a musical performance. That leaves us with two options: school band and orchestra. Both of these groups typically include a variety of woodwind instruments, including the bass clarinet. However, a school band is typically made up of students and may not have the same level of professionalism as an orchestra, which is made up of professional musicians. Therefore, the most likely answer is (D) orchestra.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: They were searching for rocks, so they missed the birds overhead as they stared at the what? Answer Choices: (A) ground (B) drawer (C) surface of earth (D) pizza (E) waterfall\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what the people were staring at while they were searching for rocks. Next, we can eliminate answer choices that don't make sense. Answer choices (B), (C), (D), and (E) don't seem to fit the context of the sentence, so we can eliminate them. That leaves us with answer choice (A), which is \"ground.\" This makes sense because if the people were searching for rocks, they would likely be looking at the ground.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What does the sky do before a rain? Answer Choices: (A) appear beautiful (B) appear blue (C) shows a rainbow (D) rain water (E) cloud over\nA:",
+            "rationale": "Let's think step by step. Before rain, the sky usually becomes cloudy and dark. So, the correct answer would be (E) cloud over.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What are people likely to want to do with their friends? Answer Choices: (A) own land (B) own home (C) talk to each other (D) believe in god (E) spend time\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question being asked. The question is asking about what people are likely to want to do with their friends. Next, we need to look at the answer choices and eliminate any that are clearly not related to the question. Option A, \"own land,\" and option B, \"own home,\" are both related to property ownership and do not seem to be related to spending time with friends. Option D, \"believe in god,\" is related to religion and may not be relevant to everyone. Option C, \"talk to each other,\" and option E, \"spend time,\" both seem to be related to socializing with friends.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What does someone stop doing when being dead? Answer Choices: (A) moving (B) working (C) breathing (D) alive (E) deadworks\nA:",
+            "rationale": "Let's think step by step. When someone is dead, they are no longer alive. This means that option (D) is correct. Additionally, when someone is dead, their body stops moving and they stop breathing, so options (A) and (C) are also correct. Option (B) may or may not be true, as it depends on whether the person was working at the time of their death. Option (E) is not a valid answer choice as it is not a commonly used term.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Joe and Mac were playing basketball. They did it every day in their back yard.  Why were they playing basketball? Answer Choices: (A) study (B) have fun (C) pain (D) cheers (E) knee injury\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. The question is asking why Joe and Mac were playing basketball. Next, we can eliminate answer choices that don't make sense. For example, (A) study doesn't make sense because playing basketball is not related to studying. (C) pain and (E) knee injury don't make sense because they suggest that Joe and Mac were playing basketball because they were injured or in pain, which is unlikely. That leaves us with (B) have fun and (D) cheers. Both of these options could be possible reasons why Joe and Mac were playing basketball. However, since the question doesn't provide any additional context, we can't say for sure which one is the correct answer. So, the answer is either (B) have fun or (D) cheers.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Kissing is normally an activity reserved for your romantic what? Answer Choices: (A) anus (B) partner (C) arousal (D) trust (E) cooperation\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question type. This appears to be a multiple-choice question. Next, we need to read the question carefully and identify any keywords or clues that can help us determine the correct answer. In this case, the keyword is \"kissing\" and the question is asking for the type of person that kissing is normally reserved for. Looking at the answer choices, we can eliminate options A and C as they are not relevant to the question. Option D, \"trust,\" is a possible answer, but it doesn't fully answer the question as kissing can also be reserved for people you don't necessarily trust. That leaves us with options B and E. Option B, \"partner,\" is the most likely answer as kissing is often associated with romantic relationships. Option E, \"cooperation,\" doesn't seem to fit the context of the question. Therefore, the correct answer is (B) partner.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        }
+    ],
+    "inertia": 673.92431640625
+}

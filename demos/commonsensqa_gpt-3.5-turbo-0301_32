@@ -1,0 +1,197 @@
+{
+    "demo": [
+        {
+            "question": "Q: What do you do when you're going to market? Answer Choices: (A) buy food (B) see other people (C) buying vegetables (D) buy a fat pig (E) traveling\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a riddle or a question with a hidden meaning. The answer choices suggest that the question is related to going to the market. Option A suggests buying food, which is a common activity at the market. Option B suggests seeing other people, which is also possible at the market. Option C suggests buying vegetables, which is a common item sold at the market. Option D suggests buying a fat pig, which is a common item sold at some markets. Option E suggests traveling, which may or may not be related to going to the market. Based on the answer choices, the most likely answer is (D) buy a fat pig, as it is a common item sold at some markets. However, without more context or information, it is difficult to determine the correct answer with certainty.",
+            "pred_ans": "D",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What are people likely to want to do with their friends? Answer Choices: (A) own land (B) own home (C) talk to each other (D) believe in god (E) spend time\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question being asked. The question is asking about what people are likely to want to do with their friends. Next, we need to look at the answer choices and eliminate any that are clearly not related to the question. Option A, \"own land,\" and option B, \"own home,\" are both related to property ownership and do not seem to be related to spending time with friends. Option D, \"believe in god,\" is related to religion and may not be relevant to everyone. Option C, \"talk to each other,\" and option E, \"spend time,\" both seem to be related to socializing with friends.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where can you find a snake in tall grass? Answer Choices: (A) tree (B) in a jar (C) pet shops (D) feild (E) tropical forest\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what type of snake we are looking for. Different species of snakes can be found in different habitats. Assuming we are looking for a wild snake, we can eliminate options (C) and (E) since pet shops and tropical forests are not typically places where wild snakes are found. Option (A) is possible if the snake is a tree-dwelling species, but it is not the most likely scenario. Option (B) is not a natural habitat for a snake and is not a realistic answer. Therefore, the most likely answer is (D) field, as many species of snakes can be found in tall grassy fields.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Her son scraped his knee, she fetched a bottle of peroxide from the what? Answer Choices: (A) supermarket (B) diaper bag (C) liquor store (D) hollow log (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what peroxide is used for. Peroxide is a common antiseptic used to clean wounds. Next, we need to consider where one might typically keep a bottle of peroxide. A supermarket or liquor store would not be likely places to find peroxide, as it is not a food or beverage item. A diaper bag or hollow log also seem unlikely, as they are not typically associated with first aid supplies. Therefore, the most likely answer is (E) medicine cabinet, as this is a common location for storing first aid supplies in a household.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What must a student in engineering do? Answer Choices: (A) answer question (B) learn language (C) do mathematics (D) be able to count (E) begin to study\nA:",
+            "rationale": "Let's think step by step. First, a student in engineering must begin to study by enrolling in an engineering program. Then, they must learn the language of engineering, which includes technical terms and concepts. Additionally, they must be able to count and do mathematics, as engineering involves a lot of calculations and problem-solving. Therefore, the correct answer is (C) do mathematics.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on? Answer Choices: (A) mountain (B) fancy (C) sandplain (D) cliff (E) gorge\nA:",
+            "rationale": "Let's think step by step. First, we know that John rode on something that could move until it reached the ocean. This rules out options (D) cliff and (E) gorge, as they are stationary landforms. Option (A) mountain is also unlikely, as it would be difficult for John to ride on a mountain. Option (B) fancy doesn't make sense in this context, as it is an adjective and not a noun that John could ride on. This leaves us with option (C) sandplain, which is a flat area of land covered in sand. It is possible that John was riding on a vehicle or animal across a sandplain until he reached the ocean.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What do you do when you need to get food? Answer Choices: (A) table (B) disneyland (C) refrigerators (D) pantry (E) shop\nA:",
+            "rationale": "Let's think step by step. First, you need to decide what kind of food you want to eat. Then, you can check if you have any food in your refrigerator or pantry. If you don't have any food or you want something specific that you don't have, you can go to a shop to buy groceries. Once you have the food, you can prepare it and set it on a table to eat. So, the answer is (E) shop.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What could happen to you after you are cleaning house for a long time? Answer Choices: (A) neatness (B) tiredness (C) order (D) exhaustion (E) sneezing\nA:",
+            "rationale": "Let's think step by step. Cleaning house for a long time can be physically demanding, so it is likely that the person cleaning will experience fatigue or tiredness (option B). If they continue to clean for an extended period without taking breaks or resting, they may eventually become exhausted (option D). However, cleaning can also lead to a sense of neatness or order (option A and C) once the task is complete. Additionally, if the person is allergic to dust or other allergens, they may experience sneezing (option E) during or after cleaning.",
+            "pred_ans": "B",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would your hear a bass clarinet along side other wood wind instruments? Answer Choices: (A) opera house (B) school band (C) music store (D) orchestra (E) bathroom stall\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a bass clarinet is and what other woodwind instruments are. A bass clarinet is a musical instrument that belongs to the woodwind family, just like the flute, oboe, clarinet, and saxophone. Next, we need to consider where these instruments are typically played. An opera house is a venue for opera performances, which may or may not include woodwind instruments. A music store is a retail establishment that sells musical instruments, but it is not a place where you would typically hear a live performance. A bathroom stall is not a suitable place for a musical performance. That leaves us with two options: school band and orchestra. Both of these groups typically include a variety of woodwind instruments, including the bass clarinet. However, a school band is typically made up of students and may not have the same level of professionalism as an orchestra, which is made up of professional musicians. Therefore, the most likely answer is (D) orchestra.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What is a treat that you dog will enjoy? Answer Choices: (A) salad (B) petted (C) affection (D) bone (E) lots of attention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that dogs are carnivorous animals and they enjoy chewing on bones. Therefore, option (D) bone is the correct answer. Salad is not a suitable treat for dogs as it may upset their stomach. Petting and affection are not treats but rather ways to show love and care for your dog. While attention is important for dogs, it is not a treat in itself.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you put a dollar if you want to go to a store and buy something with it? Answer Choices: (A) cash drawer (B) teh bank (C) safety deposit box (D) pocket (E) piggy bank\nA:",
+            "rationale": "Let's think step by step. First, you need to have the dollar with you to be able to use it at the store. So, you can put it in your pocket or in a piggy bank if you are saving money. If you are going to use it soon, you can keep it in your pocket. However, if you want to keep it safe, you can put it in a cash drawer or a bank account. A safety deposit box is also an option, but it may not be necessary for just one dollar. So, the answer choices are (A) cash drawer, (B) the bank, (C) safety deposit box, (D) pocket, or (E) piggy bank, depending on your purpose and preference.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What is the hopeful result of going to see a play? Answer Choices: (A) sit (B) being entertained (C) jobless (D) meet (E) laugh\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a play is. A play is a form of entertainment that involves actors performing a story on stage. So, the hopeful result of going to see a play would be to be entertained. Therefore, the correct answer is (B) being entertained.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What happens to a body after death? Answer Choices: (A) rebirth (B) human experience (C) sadness (D) decomposition (E) obesity\nA:",
+            "rationale": "Let's think step by step. After death, the body undergoes a process called decomposition. This is the breakdown of the body's tissues and organs by bacteria and other microorganisms. Over time, the body will break down into its basic components, such as carbon, nitrogen, and water. These components will eventually be recycled back into the environment. There is no scientific evidence to support the concepts of rebirth or human experience after death. Sadness is an emotional response to death, but it does not affect the physical body. Obesity is also not related to what happens to the body after death.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where might it be hard to get furniture to? Answer Choices: (A) apartment (B) loft (C) store (D) rug (E) stairs\nA:",
+            "rationale": "Let's think step by step. If we consider the options given, it is unlikely that it would be hard to get furniture to a store or a rug. However, it could be difficult to get furniture to an apartment or a loft if there are narrow hallways or doorways that the furniture cannot fit through.",
+            "pred_ans": "E",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What might you need to do cleaning? Answer Choices: (A) sing a song (B) neatness (C) allergies (D) healthy living (E) using water\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what needs to be cleaned. Is it a room, a surface, or an object? Once we know that, we can determine what tools and materials we need to clean it. For example, if we are cleaning a room, we might need a broom, dustpan, vacuum cleaner, and cleaning solution. Next, we need to consider any allergies or sensitivities that we or others may have. If we are allergic to certain cleaning products or dust, we need to choose alternative products or take precautions such as wearing a mask or gloves. We also need to consider the importance of neatness and healthy living. A clean environment promotes good health and well-being, and a neat and organized space can help us be more productive and focused. Finally, using water is often an important part of cleaning, but it's not always necessary. Some surfaces or objects may require dry cleaning methods or specialized cleaning solutions.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If I have a pet bird, what does it likely live in? Answer Choices: (A) forest (B) bathroom (C) windowsill (D) countryside (E) cage\nA:",
+            "rationale": "Let's think step by step. First, we need to consider what type of bird it is. Different birds have different habitats and living requirements. However, assuming that the bird is a domesticated pet, it is most likely to live in a cage. Therefore, the answer is (E) cage.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If I'm playing ball, I'm mostly trying to do what? Answer Choices: (A) losing (B) competition (C) having fun (D) win (E) injury\nA:",
+            "rationale": "Let's think step by step. When someone plays ball, they are usually trying to achieve a certain goal. One of the most common goals is to win the game. However, some people may play just for fun or to stay active. Losing is not usually the goal, but it can happen. Injury is also not a goal, but it is a risk that comes with playing sports. So, the most likely answer is (D) win, but (C) having fun could also be a valid answer depending on the individual's motivation for playing.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What would be necessary for getting in shape? Answer Choices: (A) good health (B) exercise (C) muscle tone (D) sweat (E) feel better\nA:",
+            "rationale": "Let's think step by step. First, it is important to have good health in order to start any exercise program. This means that you should consult with a doctor to make sure that you are physically able to exercise. Second, exercise is necessary to get in shape. This can include a variety of activities such as cardio, strength training, and flexibility exercises. Third, building muscle tone can also be helpful in getting in shape. This can be achieved through strength training exercises. Fourth, sweating is a natural part of exercise and can be a sign that you are working hard and burning calories. Finally, feeling better is often a result of regular exercise and can be a great motivator to continue with your fitness routine.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: In what country are the most fast food restaurants? Answer Choices: (A) new york (B) blocks of flats (C) center of town (D) america (E) big cities\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking in which country there are the most fast food restaurants. Next, we can eliminate answer choices that are not countries. Answer choices (A), (B), and (C) are not countries, so we can eliminate them. That leaves us with answer choices (D) and (E). Answer choice (D) is America, which is a country known for having many fast food restaurants. Answer choice (E) is big cities, which could be in any country and may or may not have a high concentration of fast food restaurants.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        }
+    ],
+    "inertia": 673.4658203125
+}

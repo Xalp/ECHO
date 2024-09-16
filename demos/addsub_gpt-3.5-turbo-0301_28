@@ -1,0 +1,167 @@
+{
+    "demo": [
+        {
+            "question": "Q: Wendy ran 19.833333333333332 miles and walked 9.166666666666666 miles . How much farther did Wendy run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the distance Wendy ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 19.833333333333332 - 9.166666666666666 = 10.666666666666666 So Wendy ran 10.666666666666666 miles farther than she walked.",
+            "pred_ans": "10.666666666666666",
+            "gold_ans": "10.666666666666666"
+        },
+        {
+            "question": "Q: Sam has 110 books . Joan has 102 books . How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of books Sam and Joan have: 110 + 102 = 212 So, they have a total of 212 books together.",
+            "pred_ans": "212",
+            "gold_ans": "212"
+        },
+        {
+            "question": "Q: Benny picked 2 apples and Dan picked 9 apples from the apple tree . How many apples were picked in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of apples Benny picked (2) to the number of apples Dan picked (9): 2 + 9 = 11 So, in total, they picked 11 apples.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Dan has 32 green and 38 violet marbles . Mike took 23 of Dan 's green marbles . How many green marbles does Dan now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract 23 from Dan's original number of green marbles: 32 - 23 = 9 So Dan now has 9 green marbles.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: There are 37 short bushes and 30 tall trees currently in the park . Park workers will plant 20 short bushes today . How many short bushes will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the 20 short bushes that the park workers will plant today to the current number of short bushes in the park. 37 (current short bushes) + 20 (newly planted short bushes) = 57 short bushes Therefore, the park will have 57 short bushes when the workers are finished planting.",
+            "pred_ans": "57",
+            "gold_ans": "57"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Sara picked 35 pears and 27 apples from the orchard . She gave 28 pears to Dan . How many pears does Sara have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many pears Sara has after giving 28 to Dan. To do this, we can subtract 28 from the original number of pears she picked: 35 pears - 28 pears = 7 pears So after giving 28 pears to Dan, Sara has 7 pears left.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Jason grew 23 watermelons and 18 turnips . Nancy grew 28 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of watermelons that Jason and Nancy grew. Jason grew 23 watermelons and Nancy grew 28 watermelons, so the total number of watermelons is: 23 + 28 = 51 Therefore, they grew a total of 51 watermelons.",
+            "pred_ans": "51",
+            "gold_ans": "51"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long . Then she sawed 0.33 meters off the end . How long is the piece of wood now ?\nA:",
+            "rationale": "Let's think step by step. The carpenter bought a piece of wood that was 0.41 meters long. Then she sawed off 0.33 meters from the end. To find out how long the piece of wood is now, we need to subtract 0.33 meters from 0.41 meters. 0.41 meters - 0.33 meters = 0.08 meters So the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: Blake filled a bucket with 0.8 gallon of water . Later , he poured out 0.2 gallon of the water . How much water is in the bucket ?\nA:",
+            "rationale": "Let's think step by step. First, we start with 0.8 gallons of water in the bucket. Then, Blake poured out 0.2 gallons of water. To find out how much water is left in the bucket, we can subtract the amount poured out from the original amount: 0.8 - 0.2 = 0.6 Therefore, there is 0.6 gallon of water left in the bucket.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: There were 73 bales of hay in the barn . Jason stacked bales in the barn today . There are now 96 bales of hay in the barn . How many bales did he store in the barn ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bales Jason added to the barn. We can do this by subtracting the original number of bales from the current number of bales: 96 - 73 = 23 So Jason added 23 bales to the barn.",
+            "pred_ans": "23",
+            "gold_ans": "23"
+        },
+        {
+            "question": "Q: A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ?\nA:",
+            "rationale": "Let's think step by step. First, we can add up the amounts of concrete, bricks, and stone: 0.16666666666666666 ton + 0.16666666666666666 ton + 0.5 ton = 0.8333333333333333 ton Therefore, the company ordered a total of 0.8333333333333333 ton of material.",
+            "pred_ans": "0.8333333333333333",
+            "gold_ans": "0.8333333333333334"
+        },
+        {
+            "question": "Q: Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many baseball cards Melanie has after 9 were torn. Melanie had 30 baseball cards - 9 torn = 21 baseball cards. Next, we need to find out how many baseball cards Melanie has after Sara bought 18 of them. Melanie had 21 baseball cards - 18 bought by Sara = 3 baseball cards. Therefore, Melanie has 3 baseball cards now.",
+            "pred_ans": "3",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Alyssa 's cat had 8 kittens and 8 had spots . She gave 4 to her friends . How many kittens does she now have ?\nA:",
+            "rationale": "Let's think step by step. Alyssa originally had 8 kittens, and 8 of them had spots. So, she had 8 spotted kittens. Then, she gave 4 of them to her friends. So, she now has 8 - 4 = 4 spotted kittens left. Therefore, Alyssa now has 4 kittens.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 pint of ice cream on Saturday night . How many pints did they eat in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the amount of ice cream they ate on Friday and Saturday. 3.25 pints + 0.25 pints = 3.5 pints So, they ate a total of 3.5 pints of ice cream.",
+            "pred_ans": "3.5",
+            "gold_ans": "3.5"
+        },
+        {
+            "question": "Q: Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Brennan had 0.25 grams of pepper. He used 0.16 grams of the pepper to make scrambled eggs. So, the amount of pepper Brennan has left can be found by subtracting 0.16 from 0.25. Therefore, Brennan has 0.09 grams of pepper left.",
+            "pred_ans": "0.09",
+            "gold_ans": "0.09"
+        },
+        {
+            "question": "Q: A tailor cut 0.75 inch off a skirt and 0.5 inch off a pair of pants . How much more did the tailor cut off the skirt than the pants ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much the tailor cut off the skirt and the pants in total. The tailor cut 0.75 inches off the skirt and 0.5 inches off the pants. To find out how much more the tailor cut off the skirt than the pants, we need to subtract the amount cut off the pants from the amount cut off the skirt. 0.75 inches - 0.5 inches = 0.25 inches Therefore, the tailor cut 0.25 inches more off the skirt than the pants.",
+            "pred_ans": "0.25",
+            "gold_ans": "0.25"
+        },
+        {
+            "question": "Q: Mary is baking a cake . The recipe calls for 7 cups of flour and 3 cups of sugar . She already put in 2 cups of flour . How many cups of flour does she need to add ?\nA:",
+            "rationale": "Let's think step by step. Mary needs a total of 7 cups of flour for the recipe, and she has already added 2 cups. So, she still needs to add 7 - 2 = 5 cups of flour. Therefore, Mary needs to add 5 cups of flour to complete the recipe.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: A restaurant served 4 pies during lunch and 9 during dinner today . The restaurant served 7 pies and 2 pizzas yesterday . How many pies were served in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add up the number of pies served today: 4 pies during lunch + 9 pies during dinner = 13 pies today. Next, we need to add up the number of pies served yesterday: 7 pies yesterday. Finally, we can add up the total number of pies served: 13 pies today + 7 pies yesterday = 20 pies in total. So, the answer is 20 pies were served in total.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many dimes Sam had before his sister borrowed 4 dimes. Sam had 8 dimes originally. Next, we need to subtract the 4 dimes that his sister borrowed. 8 dimes - 4 dimes = 4 dimes Therefore, Sam now has 4 dimes left in his bank.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Fred went to 36 basketball games this year , but missed 35 . He went to 11 games last year . How many basketball games did Fred go to in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many basketball games Fred went to this year. We know he went to 36 games, but missed 35, so the total number of games he attended this year is: 36 - 35 = 1 game Next, we need to add this to the number of games he attended last year, which was 11. So the total number of games Fred went to is: 1 + 11 = 12 games Therefore, Fred went to a total of 12 basketball games.",
+            "pred_ans": "12",
+            "gold_ans": "47"
+        },
+        {
+            "question": "Q: Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of the two watermelons to find the total weight. 9.91 pounds + 4.11 pounds = 14.02 pounds Therefore, Kevin bought 14.02 pounds of watermelon.",
+            "pred_ans": "14.02",
+            "gold_ans": "14.02"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park . Park workers will plant 104 walnut trees today . How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        }
+    ],
+    "inertia": 124.67866516113281
+}

@@ -1,0 +1,83 @@
+{
+    "demo": [
+        {
+            "question": "Q: Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house. How many more blocks did he use to build the tower than he did to build the house?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many blocks Randy used to build the tower minus how many blocks he used to build the house. Tower blocks: 33 House blocks: 13 33 - 13 = 20 Therefore, Randy used 20 more blocks to build the tower than he did to build the house.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many more kids Julia played with on Monday than on Tuesday. To do this, we need to subtract the number of kids she played with on Tuesday from the number of kids she played with on Monday. So, the calculation would be: 9 kids (on Monday) - 7 kids (on Tuesday) = 2 kids Therefore, Julia played with 2 more kids on Monday than on Tuesday.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar. How many more cups of flour does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 9 cups of flour for the recipe, and she has already added 3 cups. So, she still needs to add 9 - 3 = 6 cups of flour. Therefore, Mary needs to add 6 more cups of flour to complete the recipe.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: Allan brought 5 balloons to the park. If Jake brought 6 more balloons than the number of balloons that Allan brought How many balloons did Jake bring to the park?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. Allan brought 5 balloons to the park. Jake brought 6 more balloons than the number of balloons that Allan brought. So, we need to add 6 to the number of balloons Allan brought to find out how many balloons Jake brought. Therefore, Jake brought 5 + 6 = 11 balloons to the park.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches. How many more apples than peaches does Steven have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many apples and peaches Jake has. We know that Jake has 3 fewer peaches than Steven, so Jake has 15 - 3 = 12 peaches. We also know that Jake has 4 more apples than Steven, so Jake has 19 + 4 = 23 apples. Next, we need to find out how many more apples than peaches Steven has. Steven has 19 apples and 15 peaches, so he has 19 - 15 = 4 more apples than peaches. Therefore, Steven has 4 more apples than peaches.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. We know that the ring toss game made the same amount of money each day for 5 days, and in total, they earned $165. To find out how much they made per day, we can divide the total earnings by the number of days: $165 ÷ 5 = $33 Therefore, they made $33 per day at the ring toss game.",
+            "pred_ans": "33",
+            "gold_ans": "33"
+        },
+        {
+            "question": "Q: Matthew gave equal numbers of crackers to his 18 friends. If he had 36 crackers How many crackers did each person eat?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many crackers Matthew gave to each friend. To do this, we can divide the total number of crackers by the number of friends: 36 crackers ÷ 18 friends = 2 crackers per person So each person ate 2 crackers.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        }
+    ],
+    "inertia": 396.9917907714844
+}

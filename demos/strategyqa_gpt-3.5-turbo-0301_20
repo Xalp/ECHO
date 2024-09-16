@@ -1,0 +1,125 @@
+{
+    "demo": [
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Olivia Newton-John hyphenated celebrity name with most letters?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what is meant by \"hyphenated celebrity name with most letters.\" If we are looking for the hyphenated celebrity name with the most total letters, we would need to search for a celebrity with a hyphenated last name that is longer than any other hyphenated last name. If we are looking for the hyphenated celebrity name with the most letters in the hyphenated portion, we would need to search for a celebrity with a hyphenated last name where both parts of the name are longer than any other hyphenated last name. Assuming we are looking for the hyphenated celebrity name with the most total letters, we would need to research and compare the lengths of various hyphenated celebrity names. However, to answer the specific question asked, Olivia Newton-John is not a hyphenated name. It is a compound surname, which means it is made up of two separate surnames without a hyphen.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are Naruhito's ancestors the focus of Romance of the Three Kingdoms?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that Romance of the Three Kingdoms is a historical novel that focuses on the events that took place in China during the Three Kingdoms period (220-280 AD). Naruhito, on the other hand, is the current Emperor of Japan and his ancestors are the imperial family of Japan. Therefore, it is unlikely that Naruhito's ancestors are the focus of Romance of the Three Kingdoms as the novel is centered on Chinese history and not Japanese history.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could JPMorgan Chase give every American $10?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to know the total amount of money JPMorgan Chase has and the total number of Americans. According to Forbes, JPMorgan Chase's total assets were $2.7 trillion as of 2020. As of 2021, the estimated population of the United States is around 331 million people. If JPMorgan Chase were to give every American $10, they would need to distribute a total of $3.31 billion (331 million x $10). However, $3.31 billion is only a small fraction of JPMorgan Chase's total assets. Therefore, it is possible for JPMorgan Chase to give every American $10, but it would not significantly impact their financial standing.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is the Sea of Japan landlocked within Japan?\nA:",
+            "rationale": "Let's think step by step. The Sea of Japan is not landlocked within Japan. It is located between Japan and the Asian mainland, and is connected to the Pacific Ocean through the Korea Strait and the Tsugaru Strait.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can a snake wear a snowshoe?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what snowshoes are. Snowshoes are footwear that are designed to distribute the weight of a person over a larger area, allowing them to walk on top of deep snow without sinking in. Now, let's consider snakes. Snakes do not have feet or legs, so they cannot wear shoes or any type of footwear. Additionally, snakes are not adapted to walking on snow, as they are cold-blooded and require warm environments to survive. Therefore, it is not possible for a snake to wear a snowshoe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a person be diagnosed with a Great Depression?\nA:",
+            "rationale": "Let's think step by step. The term \"Great Depression\" typically refers to a severe economic downturn that occurred in the 1930s. It is not a medical diagnosis for a person. However, a person can be diagnosed with depression, which is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities. Depression can be treated with therapy, medication, or a combination of both. It is important to seek professional help if you or someone you know is experiencing symptoms of depression.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you get a ride on Amtrak to the Underworld?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I cannot physically ride on Amtrak or any other mode of transportation. However, if you are asking whether Amtrak offers a route to the Underworld, the answer is no. The Underworld is a mythical place in various cultures and is not accessible through any physical means of transportation.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could Arnold Schwarzenegger hypothetically defeat Hafþór Björnsson in a powerlifting competition if both are at their peak strength?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to define what we mean by \"powerlifting competition.\" Powerlifting typically consists of three lifts: the squat, bench press, and deadlift. So we can assume that this hypothetical competition would involve those three lifts. Next, we need to consider the strength of each competitor. Arnold Schwarzenegger was a bodybuilder and powerlifter in his prime, but he was not known for his strength in the squat, bench press, and deadlift specifically. Hafþór Björnsson, on the other hand, is a professional strongman and powerlifter who holds several world records in those lifts. Based on this information, it seems unlikely that Arnold Schwarzenegger would be able to defeat Hafþór Björnsson in a powerlifting competition if both were at their peak strength. However, it's worth noting that there are many factors that could come into play, such as technique, training, and mental toughness. So while it may be unlikely, it's not impossible.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is the Very Large Telescope the most productive telescope in the world?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what we mean by \"productive.\" If we are talking about the number of scientific papers published using data from a telescope, then we can look at the statistics provided by the scientific community. According to the Nature Index, which tracks the number of research papers published in top-tier scientific journals, the most productive telescope in the world is actually the Hubble Space Telescope. However, the Very Large Telescope (VLT) in Chile is also a highly productive telescope, ranking among the top telescopes in terms of scientific output. It's worth noting that different telescopes have different strengths and capabilities, and may be better suited for certain types of observations. So while the VLT may not be the most productive telescope in every category, it is certainly a valuable tool for astronomers and has contributed significantly to our understanding of the universe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3417.08447265625
+}

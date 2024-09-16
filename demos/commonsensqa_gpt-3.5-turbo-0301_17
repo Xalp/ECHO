@@ -1,0 +1,107 @@
+{
+    "demo": [
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What must someone do before they shop? Answer Choices: (A) get money (B) have money (C) bring cash (D) go to market (E) bring cash\nA:",
+            "rationale": "Let's think step by step. Before someone shops, they need to have a plan of what they want to buy and how much money they have available to spend. So, the answer could be (A) get money or (B) have money, depending on whether they need to withdraw cash or if they already have the funds available. Option (C) bring cash is also a possibility if they prefer to use cash instead of other payment methods. Option (D) go to market is not necessarily a requirement as shopping can also be done online or in other stores. Therefore, the most appropriate answer would be (A) get money or (B) have money.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What is the process of going somewhere? Answer Choices: (A) fire (B) energy (C) car (D) transporting (E) staying in place\nA:",
+            "rationale": "Let's think step by step. First, you need to decide where you want to go. Then, you need to determine the mode of transportation you will use to get there. This could be a car, bus, train, plane, or even walking or biking. Once you have chosen your mode of transportation, you need to physically move yourself to that mode of transportation. Then, you need to use that mode of transportation to travel to your destination. Finally, you need to physically move yourself from the mode of transportation to your final destination. The process of going somewhere involves a combination of decision-making, physical movement, and transportation. Therefore, the answer choice that best fits this process is (D) transporting.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where does a child likely sit at a desk? Answer Choices: (A) furniture store (B) schoolroom (C) patio (D) office building (E) library\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a child is likely to sit at a desk. Next, we can eliminate answer choices that are unlikely to have desks for children to sit at. Option A, furniture store, is unlikely to have desks for children to sit at. Option C, patio, is also unlikely to have a desk for a child to sit at. Option D, office building, may have desks, but they are more likely to be used by adults. Option E, library, may have desks for children, but it is less likely than option B, schoolroom. Therefore, the most likely answer is B, schoolroom.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions Answer Choices: (A) newness (B) loss of innocence (C) enlightenment (D) open mind (E) smartness\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what preconceived notions are. Preconceived notions are ideas or opinions that we have formed about something or someone before we have enough information or experience to make a fair judgment. These notions can be based on stereotypes, biases, or limited exposure to different perspectives. To eliminate preconceived notions, it is important to have an open mind. This means being willing to listen to different viewpoints, being receptive to new information, and being willing to challenge our own assumptions. It also means being aware of our own biases and actively working to overcome them. Enlightenment is also important in this context, as it involves gaining a deeper understanding of different cultures and perspectives. This can involve learning about history, traditions, and values that shape different societies. By gaining this knowledge, we can better appreciate and respect the diversity of human experience. Newness and smartness may be helpful in some contexts, but they are not essential for eliminating preconceived notions. Loss of innocence is not relevant in this context.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A meteor travels through galaxies which are a part of what? Answer Choices: (A) republic of ireland (B) sky (C) orbit (D) universe (E) school\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a galaxy is. A galaxy is a large system of stars, gas, and dust that are held together by gravity. Next, we need to understand what the meteor is doing. The question tells us that the meteor is traveling through galaxies. So, what is a galaxy a part of? The answer is (D) universe. A galaxy is just one small part of the vast universe that contains everything we know.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Killing people should not cause what emotion? Answer Choices: (A) vengeance (B) going to prison (C) joy (D) afraid (E) terrible\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that killing people is a serious crime and is not acceptable in any circumstance. Therefore, the answer choices (A) vengeance, (C) joy, and (E) terrible are all inappropriate emotions to feel after killing someone. (B) Going to prison is a consequence of committing a crime, including murder, and is a valid emotion to feel as it is a result of one's actions. (D) Afraid is also a valid emotion to feel after committing a crime as one may fear the consequences of their actions or the potential harm they may face from others seeking justice. However, it is important to note that the best course of action is to not commit any crimes, especially ones as serious as murder.",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Her son scraped his knee, she fetched a bottle of peroxide from the what? Answer Choices: (A) supermarket (B) diaper bag (C) liquor store (D) hollow log (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what peroxide is used for. Peroxide is a common antiseptic used to clean wounds. Next, we need to consider where one might typically keep a bottle of peroxide. A supermarket or liquor store would not be likely places to find peroxide, as it is not a food or beverage item. A diaper bag or hollow log also seem unlikely, as they are not typically associated with first aid supplies. Therefore, the most likely answer is (E) medicine cabinet, as this is a common location for storing first aid supplies in a household.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        }
+    ],
+    "inertia": 713.2678833007812
+}

@@ -1,0 +1,143 @@
+{
+    "demo": [
+        {
+            "question": "Q: In what country are the most fast food restaurants? Answer Choices: (A) new york (B) blocks of flats (C) center of town (D) america (E) big cities\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking in which country there are the most fast food restaurants. Next, we can eliminate answer choices that are not countries. Answer choices (A), (B), and (C) are not countries, so we can eliminate them. That leaves us with answer choices (D) and (E). Answer choice (D) is America, which is a country known for having many fast food restaurants. Answer choice (E) is big cities, which could be in any country and may or may not have a high concentration of fast food restaurants.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A meteor travels through galaxies which are a part of what? Answer Choices: (A) republic of ireland (B) sky (C) orbit (D) universe (E) school\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a galaxy is. A galaxy is a large system of stars, gas, and dust that are held together by gravity. Next, we need to understand what the meteor is doing. The question tells us that the meteor is traveling through galaxies. So, what is a galaxy a part of? The answer is (D) universe. A galaxy is just one small part of the vast universe that contains everything we know.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what? Answer Choices: (A) bed away from home (B) wwii bunker (C) resort (D) las vegas (E) city\nA:",
+            "rationale": "Let's think step by step. The question mentions a farm, which implies that the person was in a rural area. The question also mentions that the person stayed in a hotel, which suggests that they were in a more urban area. Option (E) city seems like the most likely answer, as cities typically have more hotels than rural areas. Option (A) bed away from home could also be a possibility, but it is not as specific as option (E). Option (B) WWII bunker and option (C) resort seem unlikely, as they do not fit the context of the question. Option (D) Las Vegas is possible, but it is not necessarily the only option.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where do all animals live? Answer Choices: (A) the moon (B) fairgrounds (C) surface of earth (D) meadow (E) zoos\nA:",
+            "rationale": "Let's think step by step. First, we can eliminate option A, the moon, as it is not a suitable environment for animals to live. Similarly, option B, fairgrounds, is not a natural habitat for animals. Option D, meadow, is a possible habitat for some animals, but not all. Finally, option E, zoos, is a man-made environment where animals are kept in captivity. Therefore, the correct answer is option C, the surface of the earth, as it is where most animals live in their natural habitats such as forests, oceans, deserts, and grasslands.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What do you do when you're going to market? Answer Choices: (A) buy food (B) see other people (C) buying vegetables (D) buy a fat pig (E) traveling\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a riddle or a question with a hidden meaning. The answer choices suggest that the question is related to going to the market. Option A suggests buying food, which is a common activity at the market. Option B suggests seeing other people, which is also possible at the market. Option C suggests buying vegetables, which is a common item sold at the market. Option D suggests buying a fat pig, which is a common item sold at some markets. Option E suggests traveling, which may or may not be related to going to the market. Based on the answer choices, the most likely answer is (D) buy a fat pig, as it is a common item sold at some markets. However, without more context or information, it is difficult to determine the correct answer with certainty.",
+            "pred_ans": "D",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Loss of someone you love can cause what kind of feeling in your heart? Answer Choices: (A) painful (B) happy (C) blind (D) contagious (E) bring joy\nA:",
+            "rationale": "Let's think step by step. The loss of someone you love is a difficult and emotional experience. It can cause a range of feelings, but the most common feeling associated with loss is pain. Therefore, the answer choice is (A) painful.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If someone rules the universe of what are they in charge? Answer Choices: (A) classroom (B) football game (C) everything (D) text book (E) lawbook\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the term \"universe\" means. The universe refers to everything that exists, including all matter, energy, and space. Therefore, if someone rules the universe, they are in charge of everything that exists. So, the correct answer is (C) everything.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: when communicating with my boss what should i do Answer Choices: (A) misunderstandings (B) transfer of information (C) learning (D) confusion (E) silence\nA:",
+            "rationale": "Let's think step by step. First, it's important to listen carefully to your boss to ensure that you understand their message. This can help prevent misunderstandings (option A) and confusion (option D). Next, when responding, try to provide clear and concise information to facilitate a smooth transfer of information (option B). If there are areas where you need more information or clarification, don't be afraid to ask questions. This can help with learning (option C) and prevent any potential misunderstandings or confusion. Silence (option E) is generally not a helpful approach when communicating with your boss, as it can lead to misunderstandings or missed opportunities to clarify information.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what? Answer Choices: (A) restless (B) active (C) lazybutt (D) productive (E) hard work\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the key information in the question. We know that the man in the white suit was lazy and did nothing useful. We also know that the man in the blue suit put in effort. Next, we need to determine what word best describes the man in the blue suit based on this information. The answer choices are restless, active, lazybutt, productive, and hard work. Restless and active both suggest that the man in the blue suit was constantly moving or unable to sit still, which is not necessarily implied by the information given. Lazybutt is not a real word and does not accurately describe the man in the blue suit. That leaves us with productive and hard work. Both of these words suggest that the man in the blue suit was doing something useful or achieving something through his efforts. However, productive specifically implies that he was achieving a lot, while hard work simply suggests that he was putting in effort. Based on the information given, either productive or hard work could be a valid answer. However, if we had to choose one, productive might be slightly more accurate since it implies that the man in the blue suit was achieving something significant.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would your hear a bass clarinet along side other wood wind instruments? Answer Choices: (A) opera house (B) school band (C) music store (D) orchestra (E) bathroom stall\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a bass clarinet is and what other woodwind instruments are. A bass clarinet is a musical instrument that belongs to the woodwind family, just like the flute, oboe, clarinet, and saxophone. Next, we need to consider where these instruments are typically played. An opera house is a venue for opera performances, which may or may not include woodwind instruments. A music store is a retail establishment that sells musical instruments, but it is not a place where you would typically hear a live performance. A bathroom stall is not a suitable place for a musical performance. That leaves us with two options: school band and orchestra. Both of these groups typically include a variety of woodwind instruments, including the bass clarinet. However, a school band is typically made up of students and may not have the same level of professionalism as an orchestra, which is made up of professional musicians. Therefore, the most likely answer is (D) orchestra.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: The audience listened to the orchestra play, where were they watching the performance? Answer Choices: (A) concert hall (B) museum (C) school (D) hockey game (E) sporting event\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what an orchestra is. An orchestra is a large group of musicians who play together on various instruments, usually including strings, woodwinds, brass, and percussion. Next, we need to consider the context of the sentence. The sentence mentions that the audience is listening to the orchestra play. This suggests that the orchestra is performing live in front of the audience. Based on this information, we can eliminate options (B), (C), (D), and (E) since they are not typically associated with live orchestra performances. Therefore, the correct answer is (A) concert hall, which is a venue specifically designed for live music performances, including orchestras.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What could happen to you after you are cleaning house for a long time? Answer Choices: (A) neatness (B) tiredness (C) order (D) exhaustion (E) sneezing\nA:",
+            "rationale": "Let's think step by step. Cleaning house for a long time can be physically demanding, so it is likely that the person cleaning will experience fatigue or tiredness (option B). If they continue to clean for an extended period without taking breaks or resting, they may eventually become exhausted (option D). However, cleaning can also lead to a sense of neatness or order (option A and C) once the task is complete. Additionally, if the person is allergic to dust or other allergens, they may experience sneezing (option E) during or after cleaning.",
+            "pred_ans": "B",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: The family finished dinner, the child's chore was to load the dirty dishes where? Answer Choices: (A) restaurant kitchen (B) dishwasher (C) son's room (D) cabinet (E) party\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the child's chore was. The question tells us that the child's chore was to load the dirty dishes. Next, we need to determine where the child should load the dirty dishes. We can eliminate options (A), (C), and (E) because they are not logical places to put dirty dishes. That leaves us with options (B) and (D). The most likely answer is (B) dishwasher, as that is where dirty dishes are typically loaded after a meal.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        }
+    ],
+    "inertia": 694.4366455078125
+}

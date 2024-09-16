@@ -1,0 +1,155 @@
+{
+    "demo": [
+        {
+            "question": "Q: What is the process of going somewhere? Answer Choices: (A) fire (B) energy (C) car (D) transporting (E) staying in place\nA:",
+            "rationale": "Let's think step by step. First, you need to decide where you want to go. Then, you need to determine the mode of transportation you will use to get there. This could be a car, bus, train, plane, or even walking or biking. Once you have chosen your mode of transportation, you need to physically move yourself to that mode of transportation. Then, you need to use that mode of transportation to travel to your destination. Finally, you need to physically move yourself from the mode of transportation to your final destination. The process of going somewhere involves a combination of decision-making, physical movement, and transportation. Therefore, the answer choice that best fits this process is (D) transporting.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: After the weight cut he was worried about his energy levels, but this was part of participating in a what? Answer Choices: (A) work (B) wrestle (C) play sports (D) matter (E) sleep\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a weight cut is. In sports like wrestling or mixed martial arts, athletes often need to cut weight in order to compete in a lower weight class. This involves losing a significant amount of weight in a short period of time through methods like dehydration and strict dieting. Based on this information, we can eliminate options (A), (C), (D), and (E) as they do not relate to the context of weight cutting in sports. Therefore, the correct answer is (B) wrestle, as the sentence suggests that the weight cut was necessary for the athlete to participate in wrestling.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What are you getting from you boss at the end of the week? Answer Choices: (A) asking for (B) money (C) food (D) work (E) energy\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. It is asking what the assistant is getting from their boss at the end of the week. Next, we can eliminate answer choices that don't make sense. Option (D) work doesn't make sense because the assistant is already working for their boss. Option (E) energy doesn't make sense because the assistant is an artificial intelligence and doesn't require energy from their boss. Option (A) asking for doesn't make sense because the question is asking about what the assistant is receiving, not what they are asking for. Option (C) food is a possibility, but it seems unlikely that the boss would be giving the assistant food. Therefore, the most likely answer is (B) money. It is common for employees to receive payment for their work at the end of the week.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where might it be hard to get furniture to? Answer Choices: (A) apartment (B) loft (C) store (D) rug (E) stairs\nA:",
+            "rationale": "Let's think step by step. If we consider the options given, it is unlikely that it would be hard to get furniture to a store or a rug. However, it could be difficult to get furniture to an apartment or a loft if there are narrow hallways or doorways that the furniture cannot fit through.",
+            "pred_ans": "E",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on? Answer Choices: (A) mountain (B) fancy (C) sandplain (D) cliff (E) gorge\nA:",
+            "rationale": "Let's think step by step. First, we know that John rode on something that could move until it reached the ocean. This rules out options (D) cliff and (E) gorge, as they are stationary landforms. Option (A) mountain is also unlikely, as it would be difficult for John to ride on a mountain. Option (B) fancy doesn't make sense in this context, as it is an adjective and not a noun that John could ride on. This leaves us with option (C) sandplain, which is a flat area of land covered in sand. It is possible that John was riding on a vehicle or animal across a sandplain until he reached the ocean.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What should I do with a jumping rope? Answer Choices: (A) fatigue (B) sweating (C) get tired (D) tiredness (E) hopping\nA:",
+            "rationale": "Let's think step by step. First, you should hold the jumping rope handles in each hand. Then, swing the rope over your head and jump over it as it comes towards your feet. Repeat this motion continuously for a set amount of time or number of jumps. This will likely cause you to sweat and feel tired, but it is a great form of exercise and can improve your cardiovascular health and coordination. So, the answer would be (E) hopping.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Her son scraped his knee, she fetched a bottle of peroxide from the what? Answer Choices: (A) supermarket (B) diaper bag (C) liquor store (D) hollow log (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what peroxide is used for. Peroxide is a common antiseptic used to clean wounds. Next, we need to consider where one might typically keep a bottle of peroxide. A supermarket or liquor store would not be likely places to find peroxide, as it is not a food or beverage item. A diaper bag or hollow log also seem unlikely, as they are not typically associated with first aid supplies. Therefore, the most likely answer is (E) medicine cabinet, as this is a common location for storing first aid supplies in a household.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions Answer Choices: (A) newness (B) loss of innocence (C) enlightenment (D) open mind (E) smartness\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what preconceived notions are. Preconceived notions are ideas or opinions that we have formed about something or someone before we have enough information or experience to make a fair judgment. These notions can be based on stereotypes, biases, or limited exposure to different perspectives. To eliminate preconceived notions, it is important to have an open mind. This means being willing to listen to different viewpoints, being receptive to new information, and being willing to challenge our own assumptions. It also means being aware of our own biases and actively working to overcome them. Enlightenment is also important in this context, as it involves gaining a deeper understanding of different cultures and perspectives. This can involve learning about history, traditions, and values that shape different societies. By gaining this knowledge, we can better appreciate and respect the diversity of human experience. Newness and smartness may be helpful in some contexts, but they are not essential for eliminating preconceived notions. Loss of innocence is not relevant in this context.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: When wildlife reproduce we often refer to what comes out as what? Answer Choices: (A) raise children (B) have children (C) photo copy (D) offspring (E) accidently got pregnant somehow\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. The question is asking about the term used to refer to the young ones produced by wildlife during reproduction. Next, we can eliminate answer choices (A) and (B) as they refer to human reproduction and not wildlife. Answer choice (C) \"photo copy\" is not a term used to refer to offspring in any context, so we can eliminate it as well. Answer choice (E) \"accidentally got pregnant somehow\" is not a term used to refer to offspring either, so we can eliminate it too. Therefore, the correct answer is (D) \"offspring\".",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What must someone do before they shop? Answer Choices: (A) get money (B) have money (C) bring cash (D) go to market (E) bring cash\nA:",
+            "rationale": "Let's think step by step. Before someone shops, they need to have a plan of what they want to buy and how much money they have available to spend. So, the answer could be (A) get money or (B) have money, depending on whether they need to withdraw cash or if they already have the funds available. Option (C) bring cash is also a possibility if they prefer to use cash instead of other payment methods. Option (D) go to market is not necessarily a requirement as shopping can also be done online or in other stores. Therefore, the most appropriate answer would be (A) get money or (B) have money.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What is the sun ultimately responsible for? Answer Choices: (A) earth warming (B) sun tan (C) light (D) life on earth (E) heat\nA:",
+            "rationale": "Let's think step by step. The sun is a star that emits energy in the form of light and heat. This energy is essential for life on Earth as it provides warmth and light for plants to grow and animals to survive. Therefore, the correct answer is (D) life on earth.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The audience listened to the orchestra play, where were they watching the performance? Answer Choices: (A) concert hall (B) museum (C) school (D) hockey game (E) sporting event\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what an orchestra is. An orchestra is a large group of musicians who play together on various instruments, usually including strings, woodwinds, brass, and percussion. Next, we need to consider the context of the sentence. The sentence mentions that the audience is listening to the orchestra play. This suggests that the orchestra is performing live in front of the audience. Based on this information, we can eliminate options (B), (C), (D), and (E) since they are not typically associated with live orchestra performances. Therefore, the correct answer is (A) concert hall, which is a venue specifically designed for live music performances, including orchestras.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        }
+    ],
+    "inertia": 689.4448852539062
+}

@@ -1,0 +1,95 @@
+{
+    "demo": [
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: Brenda's mother made cookies for 14. If each of them had 30 cookies How many cookies did she prepare?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many cookies Brenda's mother made in total. To do this, we can multiply the number of people she made cookies for (14) by the number of cookies each person received (30). So, 14 x 30 = 420 Therefore, Brenda's mother prepared 420 cookies in total.",
+            "pred_ans": "420",
+            "gold_ans": "420"
+        },
+        {
+            "question": "Q: Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park How many more balloons did Jake have than Allan in the park?\nA:",
+            "rationale": "Let's think step by step. Allan brought 2 balloons to the park and then bought 3 more balloons there, so he had a total of 2 + 3 = 5 balloons in the park. Jake brought 6 balloons to the park, so he had 6 - 5 = 1 more balloon than Allan in the park. Therefore, Jake had 1 more balloon than Allan in the park.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much Dan spent on the candy bar and the chocolate. Dan spent $2 on the candy bar and $3 on the chocolate. Next, we need to find the difference between the amount he spent on the chocolate and the amount he spent on the candy bar. $3 (amount spent on chocolate) - $2 (amount spent on candy bar) = $1 Therefore, Dan spent $1 more on the chocolate than he did on the candy bar.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Rachel had to complete 8 pages of math homework. Next, we know that she had to complete 3 more pages of biology homework than she did for math. So, we can add 3 to the 8 pages of math homework to get the total number of pages of biology homework she had to complete: 8 + 3 = 11 Therefore, Rachel had to complete 8 pages of math homework and 11 pages of biology homework.",
+            "pred_ans": "8",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?\nA:",
+            "rationale": "Let's think step by step. First, we need to calculate the new price of each pack after the discount. To do this, we subtract the discount of 25 dollars from the original price of 76 dollars: 76 - 25 = 51 So the new price of each pack is 51 dollars. Therefore, if you want to buy one pack, you would have to pay 51 dollars.",
+            "pred_ans": "51",
+            "gold_ans": "51"
+        },
+        {
+            "question": "Q: There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many roses Jessica added to the vase. We know that she cut 8 roses from her garden, so we can add 8 to the original 10 roses in the vase: 10 + 8 = 18 Therefore, there are now 18 roses in the vase.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we know that on Monday, Tiffany had 3 bags of cans. Next, we know that the next day, she found 7 more bags of cans. So, she now has 3 + 7 = 10 bags of cans. Finally, we need to add the 44 bags of bottles that she found to the 10 bags of cans that she now has. So, Tiffany has a total of 10 + 44 = 54 bags of cans and bottles altogether. Therefore, Tiffany has 54 bags of cans and bottles altogether.",
+            "pred_ans": "54",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening. How many more emails did Jack receive in the morning than in the afternoon?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. First, we need to find out how many emails Jack received in the morning minus how many he received in the afternoon. To do this, we can subtract the number of emails received in the afternoon from the number of emails received in the morning: 10 - 7 = 3 Therefore, Jack received 3 more emails in the morning than in the afternoon.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many apples Jake has. We know that Jake has 84 more apples than Steven, who has 52 apples. So, Jake has: 52 + 84 = 136 apples Next, we need to find out how many peaches Jake has. We know that Jake has 10 fewer peaches than Steven, who has 13 peaches. So, Jake has: 13 - 10 = 3 peaches Therefore, Jake has 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Jessie weighed 71 kilograms. After she started to go jogging everyday she lost 20 kilograms. How much does she weigh now?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract 20 from 71 to find out how much weight Jessie lost. 71 - 20 = 51 So Jessie lost 20 kilograms and now weighs 51 kilograms.",
+            "pred_ans": "51",
+            "gold_ans": "51"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 14 cups of sugar for the recipe. She has already added 2 cups of sugar, so she still needs to add: 14 cups - 2 cups = 12 cups of sugar Therefore, Mary needs to add 12 more cups of sugar to complete the recipe.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many oranges are harvested in one day. We know that they harvest 66 sacks per day, and each sack contains 25 oranges. So, the total number of oranges harvested in one day is: 66 sacks/day x 25 oranges/sack = 1650 oranges/day Next, we need to find out how many oranges are harvested in 87 days. We can do this by multiplying the number of oranges harvested in one day by the number of days: 1650 oranges/day x 87 days = 143550 oranges Therefore, after 87 days of harvest, they will have 143550 oranges.",
+            "pred_ans": "143550",
+            "gold_ans": "143550"
+        }
+    ],
+    "inertia": 379.994873046875
+}

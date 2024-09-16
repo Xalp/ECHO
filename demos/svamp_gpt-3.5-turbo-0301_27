@@ -1,0 +1,161 @@
+{
+    "demo": [
+        {
+            "question": "Q: Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that Zachary did 59 push-ups and 44 crunches. Step 2: We also know that David did 19 more push-ups than Zachary, so we can add 19 to 59 to get David's push-up count: 59 + 19 = 78 push-ups. Step 3: We also know that David did 27 less crunches than Zachary, so we can subtract 27 from 44 to get David's crunch count: 44 - 27 = 17 crunches. Step 4: Therefore, David did 78 push-ups and 17 crunches.",
+            "pred_ans": "78",
+            "gold_ans": "78"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Emily is making bead necklaces for her friends. She made 11 necklaces and each necklace takes 28 beads. How many beads did Emily have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can use multiplication to find out how many beads Emily used in total. 11 necklaces x 28 beads per necklace = 308 beads So Emily used 308 beads in total for all the necklaces she made.",
+            "pred_ans": "308",
+            "gold_ans": "308"
+        },
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Rachel had to complete 8 pages of math homework. Next, we know that she had to complete 3 more pages of biology homework than she did for math. So, we can add 3 to the 8 pages of math homework to get the total number of pages of biology homework she had to complete: 8 + 3 = 11 Therefore, Rachel had to complete 8 pages of math homework and 11 pages of biology homework.",
+            "pred_ans": "8",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 14 cups of sugar for the recipe. She has already added 2 cups of sugar, so she still needs to add: 14 cups - 2 cups = 12 cups of sugar Therefore, Mary needs to add 12 more cups of sugar to complete the recipe.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of kids Julia played with on Monday and Tuesday. 15 + 18 = 33 So, Julia played with 33 kids on Monday and Tuesday.",
+            "pred_ans": "33",
+            "gold_ans": "33"
+        },
+        {
+            "question": "Q: Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches. How many more apples than peaches does Steven have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many apples and peaches Jake has. We know that Jake has 3 fewer peaches than Steven, so Jake has 15 - 3 = 12 peaches. We also know that Jake has 4 more apples than Steven, so Jake has 19 + 4 = 23 apples. Next, we need to find out how many more apples than peaches Steven has. Steven has 19 apples and 15 peaches, so he has 19 - 15 = 4 more apples than peaches. Therefore, Steven has 4 more apples than peaches.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: There are 16 different books and 14 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies How many more books than movies are there in the ' crazy silly school ' series?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many books and movies are left in the series after reading 19 books and watching 13 movies. Number of books left = 16 - 19 = -3 (We can't have negative books, so we know that we have read all the books in the series) Number of movies left = 14 - 13 = 1 So, there are 3 more books than movies in the 'crazy silly school' series.",
+            "pred_ans": "3",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park How many more balloons did Jake have than Allan in the park?\nA:",
+            "rationale": "Let's think step by step. Allan brought 2 balloons to the park and then bought 3 more balloons there, so he had a total of 2 + 3 = 5 balloons in the park. Jake brought 6 balloons to the park, so he had 6 - 5 = 1 more balloon than Allan in the park. Therefore, Jake had 1 more balloon than Allan in the park.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese. How many more hours does he spend on learning chinese than he does on learning english?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the number of hours Ryan spends on learning Chinese and English. To do this, we can subtract the number of hours he spends on learning English from the number of hours he spends on learning Chinese: 7 hours (Chinese) - 6 hours (English) = 1 hour Therefore, Ryan spends 1 more hour on learning Chinese than he does on learning English.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much Dan spent on the candy bar and the chocolate. Dan spent $2 on the candy bar and $3 on the chocolate. Next, we need to find the difference between the amount he spent on the chocolate and the amount he spent on the candy bar. $3 (amount spent on chocolate) - $2 (amount spent on candy bar) = $1 Therefore, Dan spent $1 more on the chocolate than he did on the candy bar.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. We know that the ring toss game made the same amount of money each day for 5 days, and in total, they earned $165. To find out how much they made per day, we can divide the total earnings by the number of days: $165 ÷ 5 = $33 Therefore, they made $33 per day at the ring toss game.",
+            "pred_ans": "33",
+            "gold_ans": "33"
+        },
+        {
+            "question": "Q: Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many emails Jack received in the afternoon and evening combined. To do this, we can add the number of emails he received in the afternoon (5) to the number of emails he received in the evening (8): 5 + 8 = 13 So Jack received 13 emails in the afternoon and evening combined.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries How many cakes would baker still have?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of pastries sold from the original number of pastries: 61 pastries - 44 pastries = 17 pastries Next, we need to subtract the number of cakes sold from the original number of cakes: 167 cakes - 108 cakes = 59 cakes Therefore, Baker would still have 59 cakes left.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Step 1: Start with the total number of crayons Paul got for his birthday, which is 253. Step 2: Subtract the number of crayons he lost or gave away, which is 70. Step 3: Perform the subtraction: 253 - 70 = 183. Step 4: Answer the question: Paul had 183 crayons left by the end of the school year.",
+            "pred_ans": "183",
+            "gold_ans": "183"
+        },
+        {
+            "question": "Q: There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many roses Jessica added to the vase. We know that she cut 8 roses from her garden, so we can add 8 to the original 10 roses in the vase: 10 + 8 = 18 Therefore, there are now 18 roses in the vase.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps now How many bottle caps did he find at the park?\nA:",
+            "rationale": "Let's think step by step. First, we can start by subtracting the number of bottle caps Danny had initially from the total number of bottle caps he has now. 53 - 21 = 32 This means that Danny found 32 bottle caps at the park.",
+            "pred_ans": "32",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we can add up the number of bottles of each type of soda: 57 regular soda bottles + 26 diet soda bottles + 27 lite soda bottles = 110 total soda bottles So the grocery store had a total of 110 bottles of soda.",
+            "pred_ans": "110",
+            "gold_ans": "110"
+        },
+        {
+            "question": "Q: Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house. How many more blocks did he use to build the tower than he did to build the house?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many blocks Randy used to build the tower minus how many blocks he used to build the house. Tower blocks: 33 House blocks: 13 33 - 13 = 20 Therefore, Randy used 20 more blocks to build the tower than he did to build the house.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of birds that were on the fence before the others joined. We know that there were 6 birds on the fence initially. Next, we need to add the number of birds that joined them. We are told that 4 more birds and 8 more storks came to join them. So, the total number of birds that joined them is 4 + 8 = 12. Finally, we can add the number of birds that were already on the fence to the number of birds that joined them to find the total number of birds on the fence. 6 (initial birds) + 12 (birds that joined) = 18 Therefore, there are 18 birds sitting on the fence.",
+            "pred_ans": "18",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days How many visitors visited the Buckingham palace on that day?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many visitors came to the Buckingham palace on average per day. We can do this by dividing the total number of visitors (829) by the number of days (85): 829/85 = 9.75 So on average, about 9.75 visitors came to the Buckingham palace each day. However, we want to know how many visitors came on the specific day that Rachel visited. We don't have that information, but we do know that 45 visitors came the day before. We can make an assumption that the number of visitors on Rachel's day was similar to the number of visitors the day before. So we can estimate that around 45 visitors came on Rachel's day as well. Therefore, we can estimate that around 45 visitors visited the Buckingham palace on the day Rachel went.",
+            "pred_ans": "45",
+            "gold_ans": "784"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day. How many sacks of ripe oranges will they have after 25 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many sacks of ripe oranges they harvest in 25 days. To do this, we can multiply the number of sacks harvested per day by the number of days: 82 sacks/day x 25 days = 2050 sacks of ripe oranges in 25 days Therefore, they will have 2050 sacks of ripe oranges after 25 days of harvest.",
+            "pred_ans": "2050",
+            "gold_ans": "2050"
+        }
+    ],
+    "inertia": 297.47088623046875
+}

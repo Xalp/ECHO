@@ -1,0 +1,143 @@
+{
+    "demo": [
+        {
+            "question": "Q: Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of carrots they picked by adding Olivia's and her mother's carrots: 20 + 14 = 34 Next, we know that only 19 of the carrots were good, so we can subtract that from the total number of carrots to find the number of bad carrots: 34 - 19 = 15 Therefore, Olivia and her mom had 15 bad carrots.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?\nA:",
+            "rationale": "Let's think step by step. First, Chloe made 28 cupcakes. Then, she sold 25 of them. So, she would have 28 - 25 = 3 cupcakes left. After that, she made 8 more cupcakes. So, she would have 3 + 8 = 11 cupcakes in total.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time. If he had to pick up 10 trays from one table and 2 trays from another, how many trips will he make?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many trips Roger will make to pick up the 10 trays from one table. Since he can only carry 4 trays at a time, he will need to make 3 trips to pick up all 10 trays (4 + 4 + 2). Next, we need to find out how many trips he will make to pick up the 2 trays from the other table. Since he can only carry 4 trays at a time, he will only need to make 1 trip to pick up the 2 trays. So in total, Roger will make 3 + 1 = 4 trips to pick up all the trays.",
+            "pred_ans": "4",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Roger had 16 dollars. For his birthday he got 28 more dollars but spent 25 on a new game. How much money does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the amount of money Roger got for his birthday to the amount he had before. 16 + 28 = 44 Now we need to subtract the amount he spent on the new game. 44 - 25 = 19 Therefore, Roger now has 19 dollars.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: A waiter had 47 customers to wait on. If 41 customers left and he got another 20 customers, how many customers would he have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem into smaller parts. First, the waiter had 47 customers to wait on. Then, 41 customers left. So, the waiter would have 47 - 41 = 6 customers left. Finally, the waiter got another 20 customers. So, the total number of customers he would have is 6 + 20 = 26 customers. Therefore, the waiter would have 26 customers.",
+            "pred_ans": "26",
+            "gold_ans": "26"
+        },
+        {
+            "question": "Q: There are 65 students trying out for the school's trivia teams. If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that there are 65 students trying out for the trivia teams. Step 2: We also know that 17 of them didn't get picked for the team, so the number of students who did get picked is 65 - 17 = 48. Step 3: We need to divide the 48 students into 8 groups. To do this, we can use division: 48 ÷ 8 = 6. Step 4: Therefore, there would be 6 students in each group.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: A pet store has 8 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many birds are in each cage. We know that each cage has 2 parrots and 7 parakeets, so that's a total of 9 birds per cage. Next, we need to find out how many birds are in all of the cages combined. To do this, we can multiply the number of cages by the number of birds per cage: 8 cages x 9 birds per cage = 72 birds So the pet store has a total of 72 birds.",
+            "pred_ans": "72",
+            "gold_ans": "72"
+        },
+        {
+            "question": "Q: Sarah had 4 pages of math homework and 6 pages of reading homework. If each page had 4 problems on it, how many problems did she have to complete total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many problems are on the math homework. Since there are 4 pages and each page has 4 problems, we can multiply 4 x 4 to get 16 math problems. Next, we need to find out how many problems are on the reading homework. Since there are 6 pages and each page has 4 problems, we can multiply 6 x 4 to get 24 reading problems. Finally, we can add the number of math problems and reading problems together to get the total number of problems Sarah has to complete. So, 16 + 24 = 40 problems in total.",
+            "pred_ans": "40",
+            "gold_ans": "40"
+        },
+        {
+            "question": "Q: Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Mike has left after buying the new mower blades. We can do this by subtracting the cost of the blades from the amount of money he made: 69 dollars - 24 dollars = 45 dollars Now we know that Mike has 45 dollars left to spend on games. To find out how many 5 dollar games he can buy, we can divide the amount of money he has left by the cost of each game: 45 dollars ÷ 5 dollars/game = 9 games Therefore, Mike can buy 9 5-dollar games with the money he has left after buying the new mower blades.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of apples ordered by the cafeteria, which is 25 + 17 = 42 apples. Next, we need to find out how many apples each student would get if only 10 students wanted fruit. To do this, we divide the total number of apples by the number of students: 42 ÷ 10 = 4.2 apples per student. Since we can't have a fraction of an apple, we need to round down to the nearest whole number. Each student would get 4 apples. So, if only 10 students wanted fruit, they would need a total of 10 x 4 = 40 apples. Therefore, the cafeteria would end up with 42 - 40 = 2 extra apples.",
+            "pred_ans": "2",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: A trivia team had 5 members total, but during a game 2 members didn't show up. If each member that did show up scored 6 points, how many points were scored total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that the trivia team had 5 members total. But 2 members didn't show up, so that leaves us with 5 - 2 = 3 members who did show up. Next, we know that each member who showed up scored 6 points. So we can multiply the number of members who showed up (3) by the number of points each member scored (6) to get the total number of points: 3 x 6 = 18 Therefore, the total number of points scored by the members who showed up is 18.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of pictures Katie uploaded: 30 + 51 = 81 Next, we need to divide the total number of pictures by the number of albums: 81 ÷ 9 = 9 Therefore, Katie sorted the pictures into 9 different albums with 9 pictures in each album.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Dave had to wash 29 short sleeve shirts and 11 long sleeve shirts before school. If he had only washed 35 of them by the time school started, how many did he not wash?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Dave had to wash a total of 29 + 11 = 40 shirts. He washed 35 of them before school started. Therefore, he did not wash 40 - 35 = 5 shirts. So, Dave did not wash 5 shirts.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Wendy was playing a video game and had 43 lives. In a hard part of the game she lost 8 lives. If she got 39 more lives in the next level, how many lives would she have?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the 8 lives Wendy lost from her original 43 lives: 43 - 8 = 35 Now we add the 39 lives she gained in the next level: 35 + 39 = 74 Therefore, Wendy would have 74 lives after losing 8 lives and gaining 39 more lives.",
+            "pred_ans": "74",
+            "gold_ans": "74"
+        },
+        {
+            "question": "Q: A chef needs to cook 16 potatoes. He has already cooked 7. If each potato takes 5 minutes to cook, how long will it take him to cook the rest?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. The chef needs to cook 16 potatoes, and he has already cooked 7. So, he needs to cook 16 - 7 = 9 more potatoes. If each potato takes 5 minutes to cook, then the total time it will take to cook 9 potatoes is 9 x 5 = 45 minutes. Therefore, it will take the chef 45 minutes to cook the rest of the potatoes.",
+            "pred_ans": "45",
+            "gold_ans": "45"
+        },
+        {
+            "question": "Q: At the arcade Edward won 9 tickets. If he spent 4 tickets on a beanie and later won 4 more tickets, how many would he have?\nA:",
+            "rationale": "Let's think step by step. Edward won 9 tickets initially. He spent 4 tickets on a beanie, so he would have 9 - 4 = 5 tickets left. Later, he won 4 more tickets, so we need to add those to the 5 tickets he already had. 5 + 4 = 9 Therefore, Edward would have 9 tickets in total after spending 4 tickets on a beanie and winning 4 more tickets.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: There were 7 friends playing a video game online when 2 more players joined the game. If each player had 7 lives, how many lives did they have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that there were 7 friends playing the game. So, they had a total of 7 x 7 = 49 lives. Next, 2 more players joined the game. So, we need to add their lives to the total. Each player has 7 lives, so 2 players would have 2 x 7 = 14 lives. Therefore, the total number of lives in the game would be 49 + 14 = 63 lives.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Adam bought 2 boxes of chocolate candy and 5 boxes of caramel candy. If each box has 4 pieces inside it, how much candy did he have total?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of boxes Adam bought, which is 2 + 5 = 7 boxes. Next, we need to find the total number of pieces of candy in all the boxes. Since each box has 4 pieces of candy, we can multiply the total number of boxes by 4 to get the total number of pieces of candy: 7 boxes x 4 pieces per box = 28 pieces of candy Therefore, Adam had a total of 28 pieces of candy.",
+            "pred_ans": "28",
+            "gold_ans": "28"
+        },
+        {
+            "question": "Q: Megan was organizing her book case making sure each of the shelves had exactly 7 books on it. If she had 8 shelves of mystery books and 2 shelves of picture books, how many books did she have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many books Megan has on each shelf. She has 8 shelves of mystery books, and each shelf has 7 books, so she has 8 x 7 = 56 mystery books. Next, we need to find out how many books she has on the picture book shelves. She has 2 shelves of picture books, and each shelf has 7 books, so she has 2 x 7 = 14 picture books. Finally, we can add the number of mystery books and picture books together to find the total number of books Megan has. 56 + 14 = 70 books in total. Therefore, Megan has a total of 70 books.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: A florist had 6 roses. If she sold 5 of them and then later picked 12 more, how many roses would she have?\nA:",
+            "rationale": "Let's think step by step. First, the florist had 6 roses. Then she sold 5 of them, so she would have 6 - 5 = 1 rose left. Later, she picked 12 more roses, so she would have 1 + 12 = 13 roses in total. Therefore, the florist would have 13 roses after selling 5 and picking 12 more.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Bianca had 34 songs on her mp3 player. If she deleted 14 old songs from it and then added 44 new songs, how many songs does she have on her mp3 player?\nA:",
+            "rationale": "Let's think step by step. First, Bianca deleted 14 old songs from her mp3 player. So, the number of songs on her mp3 player decreased by 14. 34 - 14 = 20 Now, Bianca added 44 new songs to her mp3 player. So, the number of songs on her mp3 player increased by 44. 20 + 44 = 64 Therefore, Bianca has 64 songs on her mp3 player after deleting 14 old songs and adding 44 new songs.",
+            "pred_ans": "64",
+            "gold_ans": "64"
+        },
+        {
+            "question": "Q: At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem step by step. First, we know that Kaleb bought 6 tickets and had 3 left after riding the ferris wheel. This means he used 6 - 3 = 3 tickets on the ferris wheel. Next, we know that each ticket costs $9. So, to find out how much Kaleb spent on the ferris wheel, we need to multiply the number of tickets he used by the cost per ticket. 3 tickets x $9/ticket = $27 Therefore, Kaleb spent $27 riding the ferris wheel.",
+            "pred_ans": "27",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: At a restaurant each adult meal costs $2 and kids eat free. If a group of 9 people came in and 2 were kids, how much would it cost for the group to eat?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to figure out how many adults are in the group. We know that there are 9 people in total and 2 of them are kids, so that means there are 9 - 2 = 7 adults. Next, we need to calculate the cost for the adults' meals. Each adult meal costs $2, so for 7 adults, the total cost would be 7 x $2 = $14. Since the kids eat for free, we don't need to factor in any additional costs for them. Therefore, the total cost for the group to eat would be $14.",
+            "pred_ans": "14",
+            "gold_ans": "14"
+        }
+    ],
+    "inertia": 159.1983642578125
+}

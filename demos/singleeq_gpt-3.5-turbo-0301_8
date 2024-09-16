@@ -1,0 +1,53 @@
+{
+    "demo": [
+        {
+            "question": "Q: Nancy has 9 five dollars bills.  How much money does she have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Nancy has 9 five dollar bills. So, we can start by multiplying 9 by 5 to find out how much money she has in total. 9 x 5 = 45 Therefore, Nancy has $45 in total.",
+            "pred_ans": "45",
+            "gold_ans": "45"
+        },
+        {
+            "question": "Q: Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many black balloons Mary has. We know that Mary has 4 times more black balloons than Nancy, so we can start by multiplying Nancy's number of black balloons by 4. 4 x 7 = 28 So Mary has 28 black balloons. Therefore, Mary has 28 black balloons now.",
+            "pred_ans": "28",
+            "gold_ans": "28"
+        },
+        {
+            "question": "Q: Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree. How many lemons were picked in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of lemons Sally picked (7) to the number of lemons Mary picked (9). 7 + 9 = 16 So, in total, 16 lemons were picked.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: A teacher has 344 pieces of candy. If there are 43 students, and the candy is divided evenly, How many pieces will each student get?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to divide the total number of candy pieces (344) by the number of students (43) to find out how many pieces each student will get. So, 344 ÷ 43 = 8 Therefore, each student will get 8 pieces of candy.",
+            "pred_ans": "8",
+            "gold_ans": "8"
+        },
+        {
+            "question": "Q: Joan has 10 books. Tom has 38 books.  How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of books Joan and Tom have. Joan has 10 books and Tom has 38 books, so: 10 + 38 = 48 Therefore, Joan and Tom have 48 books together.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        }
+    ],
+    "inertia": 237.8219451904297
+}

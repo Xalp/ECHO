@@ -1,0 +1,89 @@
+{
+    "demo": [
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What do you do when you're going to market? Answer Choices: (A) buy food (B) see other people (C) buying vegetables (D) buy a fat pig (E) traveling\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a riddle or a question with a hidden meaning. The answer choices suggest that the question is related to going to the market. Option A suggests buying food, which is a common activity at the market. Option B suggests seeing other people, which is also possible at the market. Option C suggests buying vegetables, which is a common item sold at the market. Option D suggests buying a fat pig, which is a common item sold at some markets. Option E suggests traveling, which may or may not be related to going to the market. Based on the answer choices, the most likely answer is (D) buy a fat pig, as it is a common item sold at some markets. However, without more context or information, it is difficult to determine the correct answer with certainty.",
+            "pred_ans": "D",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where does a child likely sit at a desk? Answer Choices: (A) furniture store (B) schoolroom (C) patio (D) office building (E) library\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a child is likely to sit at a desk. Next, we can eliminate answer choices that are unlikely to have desks for children to sit at. Option A, furniture store, is unlikely to have desks for children to sit at. Option C, patio, is also unlikely to have a desk for a child to sit at. Option D, office building, may have desks, but they are more likely to be used by adults. Option E, library, may have desks for children, but it is less likely than option B, schoolroom. Therefore, the most likely answer is B, schoolroom.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Killing people should not cause what emotion? Answer Choices: (A) vengeance (B) going to prison (C) joy (D) afraid (E) terrible\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that killing people is a serious crime and is not acceptable in any circumstance. Therefore, the answer choices (A) vengeance, (C) joy, and (E) terrible are all inappropriate emotions to feel after killing someone. (B) Going to prison is a consequence of committing a crime, including murder, and is a valid emotion to feel as it is a result of one's actions. (D) Afraid is also a valid emotion to feel after committing a crime as one may fear the consequences of their actions or the potential harm they may face from others seeking justice. However, it is important to note that the best course of action is to not commit any crimes, especially ones as serious as murder.",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A meteor travels through galaxies which are a part of what? Answer Choices: (A) republic of ireland (B) sky (C) orbit (D) universe (E) school\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a galaxy is. A galaxy is a large system of stars, gas, and dust that are held together by gravity. Next, we need to understand what the meteor is doing. The question tells us that the meteor is traveling through galaxies. So, what is a galaxy a part of? The answer is (D) universe. A galaxy is just one small part of the vast universe that contains everything we know.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If you're attending school and are falling asleep you're likely experiencing what? Answer Choices: (A) boredom (B) malaria (C) graduate (D) inspiration (E) detention\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what falling asleep in school means. It means that the person is feeling drowsy and is struggling to stay awake. Next, we can eliminate options (B), (C), (D), and (E) as they are not related to the situation described. That leaves us with option (A) boredom. Boredom can cause a lack of interest and engagement in the material being taught, leading to drowsiness and difficulty staying awake.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        }
+    ],
+    "inertia": 725.5591430664062
+}

@@ -30,7 +30,7 @@ def main():
     for nc in range(32, 8 - 1 , -1):
         total_num_token = 0
         token_limit = 4096
-        token_reserved = 512 + 16
+        token_reserved = 512
         with open(args.demo_path + '_' + str(nc), 'r', encoding="utf-8") as f:
             json_data = json.load(f)
             json_data = json_data["demo"]
@@ -75,17 +75,7 @@ def main():
             var = np.std(len_list)
             # alpha = 0.01
             # iters = alpha * var * np.log(inertia) * np.log(avg) / np.log(len(x) + 1)
-            alpha = 0.002
-            iters = alpha * var * np.log(inertia) * np.log(avg) * np.log(len(x))
-
-            print(iters, inertia, np.log(len(x)))
-
-            iters = 8
-
-            iters = int(iters)
-
-            if iters < 1:
-                iters = 1
+            iters = args.iter
 
             print("avg:" + str(avg) + " number of example:" + str(len(x))+ " std:" + str(var) + " iters: " + str(iters))
    
@@ -93,21 +83,17 @@ def main():
             index_list = list(range(len(x)))
 
             for p in range(iters):
-                # fix_seed(args.random_seed)
                 index_list_new = index_list[:]
                 for q in tqdm(range(len(x)), total=len(x)):
                     # print("in" + str(i))
                     i = random.choice(index_list_new)
                     index_list_new.remove(i)
                     remaining_list = index_list[:i] + index_list[i+1:]
-
-                    remaining_list_copy = remaining_list[:]
                     # shuffle remaining_list
-                    random.shuffle(remaining_list_copy)
-
+                    random.shuffle(remaining_list)
                     # create demo text for this instance
                     demo_text = ""
-                    for r in remaining_list_copy:
+                    for r in remaining_list:
                         if args.direct_answer_trigger_for_fewshot not in z[r]:
                             demo_text += x[r] + " " + z[r] + " " + args.direct_answer_trigger_for_fewshot + " " + y[r] + ".\n\n"
                         else:
@@ -176,6 +162,9 @@ def parse_arguments():
     )
     parser.add_argument(
         "--max_length_cot", type=int, default=512, help="maximum length of output tokens by model for reasoning extraction"
+    )
+    parser.add_argument(
+        "--iter", type=int, default=4, help="maximum length of output tokens by model for reasoning extraction"
     )
     parser.add_argument(
         "--max_length_direct", type=int, default=32, help="maximum length of output tokens by model for answer extraction"

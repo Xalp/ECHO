@@ -1,0 +1,185 @@
+{
+    "demo": [
+        {
+            "question": "Q: Hannah's Vegetarian Restaurant bought 0.3333333333333333 of a pound of green peppers and 0.3333333333333333 of a pound of red peppers. How many pounds of peppers did Hannah's Vegetarian Restaurant buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can add the amount of green peppers and red peppers together: 0.3333333333333333 + 0.3333333333333333 = 0.6666666666666666 So, Hannah's Vegetarian Restaurant bought a total of 0.6666666666666666 pounds of peppers. However, if we want to round this to a more manageable number, we can say that they bought approximately 0.67 pounds of peppers.",
+            "pred_ans": "0.67",
+            "gold_ans": "0.6666666666666666"
+        },
+        {
+            "question": "Q: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Ellen bought 12 chairs and each chair costs $15. So, we can multiply the number of chairs by the cost of each chair: 12 x $15 = $180 Therefore, Ellen spent $180 for the 12 chairs she bought.",
+            "pred_ans": "180",
+            "gold_ans": "180"
+        },
+        {
+            "question": "Q: Nancy has 9 five dollars bills.  How much money does she have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Nancy has 9 five dollar bills. So, we can start by multiplying 9 by 5 to find out how much money she has in total. 9 x 5 = 45 Therefore, Nancy has $45 in total.",
+            "pred_ans": "45",
+            "gold_ans": "45"
+        },
+        {
+            "question": "Q: Sally grew 6 carrots. Fred grew 4 carrots. How many carrots did they grow in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of carrots Sally grew (6) to the number of carrots Fred grew (4). 6 + 4 = 10 So, Sally and Fred grew a total of 10 carrots.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we add the cost of the trumpet and the song book: $145.16 + $5.84 = $151 So Mike spent $151 at the music store.",
+            "pred_ans": "151",
+            "gold_ans": "151"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: There were a total of 13 hockey games a month. The season is played for  14 months. How many hockey games are in the seasons ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can find the total number of hockey games in one season by multiplying the number of games per month by the number of months in the season. So, 13 games per month x 14 months = 182 games in one season. Therefore, there are 182 hockey games in the season.",
+            "pred_ans": "182",
+            "gold_ans": "182"
+        },
+        {
+            "question": "Q: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that Mike placed in the drawer to the original number of pencils in the drawer. 41 + 30 = 71 Therefore, there are now 71 pencils in the drawer in total.",
+            "pred_ans": "71",
+            "gold_ans": "71"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?\nA:",
+            "rationale": "Let's think step by step. First, Luke had 20 stickers. Then he bought 12 more stickers, so he had 20 + 12 = 32 stickers. Next, he got 20 stickers for his birthday, so he had 32 + 20 = 52 stickers. Then he gave 5 stickers to his sister, so he had 52 - 5 = 47 stickers. Finally, he used 8 stickers to decorate a greeting card, so he had 47 - 8 = 39 stickers left. Therefore, Luke has 39 stickers left.",
+            "pred_ans": "39",
+            "gold_ans": "39"
+        },
+        {
+            "question": "Q: Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to know how many eggs are in a dozen. A dozen is equal to 12, so 4 dozen would be: 4 x 12 = 48 Therefore, Sally bought 48 eggs from the grocery store.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Alyssa's dog had puppies. She gave 7 to her friends.  She now has 5 puppies left. How many puppies did she have to start with ?\nA:",
+            "rationale": "Let's think step by step. First, we know that Alyssa gave away 7 puppies to her friends. So, if we add those 7 puppies to the 5 puppies she has left, we can find out how many puppies she had in total before giving any away. 7 + 5 = 12 Therefore, Alyssa had 12 puppies to start with.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of marbles Dan gave to Mary from the total number of marbles he had before giving any away. 64 - 14 = 50 Therefore, Dan now has 50 violet marbles.",
+            "pred_ans": "50",
+            "gold_ans": "50"
+        },
+        {
+            "question": "Q: Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Joan and Melanie have. Joan has 40 blue balloons and Melanie has 41 blue balloons. So, the total number of blue balloons they have is: 40 + 41 = 81 Therefore, Joan and Melanie have a total of 81 blue balloons.",
+            "pred_ans": "81",
+            "gold_ans": "81"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Blake filled a bucket with 0.8 of a gallon of water. Later, he poured out 0.2 of a gallon of the water. How much water is left in the bucket?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Blake filled the bucket with 0.8 of a gallon of water. So initially, the bucket had 0.8 gallons of water. Next, we know that Blake poured out 0.2 of a gallon of water. So we need to subtract 0.2 from the initial amount of water in the bucket. 0.8 - 0.2 = 0.6 Therefore, there is 0.6 gallons of water left in the bucket.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: Sandy worked 45 hours in the last 5 days. Assuming that she worked the same amount of hours each day, how long did she work each day ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can start by finding the average number of hours Sandy worked per day. We can do this by dividing the total number of hours she worked (45) by the number of days she worked (5): 45 ÷ 5 = 9 So Sandy worked an average of 9 hours per day. Next, we can assume that she worked the same amount of hours each day. Therefore, she worked 9 hours each day.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: It rained 0.2 inches on Saturday and 0.4 inches on Sunday. How much did it rain on Saturday and Sunday combined?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the amount of rain that fell on Saturday and Sunday. 0.2 inches (Saturday) + 0.4 inches (Sunday) = 0.6 inches Therefore, it rained a total of 0.6 inches on Saturday and Sunday combined.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of students who went on the trip. We know that 375 students went on the trip, and 4 of them traveled in cars. So, the total number of students who traveled by bus is: 375 - 4 = 371 Next, we need to find out how many students were in each bus. We know that there were 7 buses in total, so we can divide the total number of students who traveled by bus by the number of buses: 371 ÷ 7 = 53 Therefore, there were 53 students in each bus.",
+            "pred_ans": "53",
+            "gold_ans": "53"
+        },
+        {
+            "question": "Q: Benny picked 2 apples and Dan picked 9 apples from the apple tree. How many apples were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of apples Benny picked (2) to the number of apples Dan picked (9). 2 + 9 = 11 Therefore, the total number of apples picked is 11.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        },
+        {
+            "question": "Q: Sara has 192 golf balls. How many dozen golf balls does she have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. One dozen is equal to 12 items. So, to find out how many dozen golf balls Sara has, we need to divide the total number of golf balls by 12. 192 ÷ 12 = 16 Therefore, Sara has 16 dozen golf balls.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: Arthur baked 35 muffins. How many more muffins does Arthur have to bake to have 83 muffins?\nA:",
+            "rationale": "Let's think step by step. To find out how many more muffins Arthur needs to bake, we need to subtract the number of muffins he already baked from the total number of muffins he wants to have. So, we can start by subtracting 35 (the number of muffins he already baked) from 83 (the total number of muffins he wants to have): 83 - 35 = 48 Therefore, Arthur needs to bake 48 more muffins to have a total of 83 muffins.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Dina made cookies. She used 0.625 of a cup of flour and 0.25 of a cup of sugar. How much more flour than sugar did Dina use?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the amount of flour and sugar used. To do this, we can subtract the amount of sugar used from the amount of flour used: 0.625 - 0.25 = 0.375 So Dina used 0.375 more cups of flour than sugar.",
+            "pred_ans": "0.375",
+            "gold_ans": "0.375"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: A large bag of balls was kept under Haley’s bed. Her mom placed the balls in bags for children in foster homes. If every bag can contain 4 balls and Haley has 36 balls, how many bags will be used?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many bags can be made from 36 balls. To do this, we can divide the total number of balls by the number of balls in each bag: 36 balls ÷ 4 balls/bag = 9 bags So, 9 bags will be used to pack all the balls for the foster homes.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        }
+    ],
+    "inertia": 193.4535369873047
+}

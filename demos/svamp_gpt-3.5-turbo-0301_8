@@ -1,0 +1,53 @@
+{
+    "demo": [
+        {
+            "question": "Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many children got off the bus. We know that there were 28 children on the bus before the stop, and 82 got on, so there were 28 + 82 = 110 children on the bus at the stop. Next, we subtract the number of children on the bus after the stop (30) from the number of children on the bus at the stop (110) to find out how many got off: 110 - 30 = 80. Therefore, 80 children got off the bus. Finally, we subtract the number of children who got off the bus (80) from the number of children who got on the bus (82) to find out how many more got on than got off: 82 - 80 = 2. Therefore, 2 more children got on the bus than got off.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Bobby had 21 pieces of candy. He ate 5 pieces of candy. Then he ate 9 more. How many pieces of candy does he still have left?\nA:",
+            "rationale": "Let's think step by step. First, Bobby had 21 pieces of candy. Then he ate 5 pieces of candy, so he now has 21 - 5 = 16 pieces of candy left. After that, he ate 9 more pieces of candy, so he now has 16 - 9 = 7 pieces of candy left. Therefore, Bobby has 7 pieces of candy left.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches. How many more apples than peaches does Steven have?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many apples and peaches Jake has. We know that Jake has 3 fewer peaches than Steven, so Jake has 15 - 3 = 12 peaches. We also know that Jake has 4 more apples than Steven, so Jake has 19 + 4 = 23 apples. Next, we need to find out how many more apples than peaches Steven has. Steven has 19 apples and 15 peaches, so he has 19 - 15 = 4 more apples than peaches. Therefore, Steven has 4 more apples than peaches.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar. How many more cups of flour does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 9 cups of flour for the recipe, and she has already added 3 cups. So, she still needs to add 9 - 3 = 6 cups of flour. Therefore, Mary needs to add 6 more cups of flour to complete the recipe.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese. How many more hours does he spend on learning chinese than he does on learning english?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the number of hours Ryan spends on learning Chinese and English. To do this, we can subtract the number of hours he spends on learning English from the number of hours he spends on learning Chinese: 7 hours (Chinese) - 6 hours (English) = 1 hour Therefore, Ryan spends 1 more hour on learning Chinese than he does on learning English.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        }
+    ],
+    "inertia": 439.5946350097656
+}

@@ -1,0 +1,149 @@
+{
+    "demo": [
+        {
+            "question": "Q: If I'm playing ball, I'm mostly trying to do what? Answer Choices: (A) losing (B) competition (C) having fun (D) win (E) injury\nA:",
+            "rationale": "Let's think step by step. When someone plays ball, they are usually trying to achieve a certain goal. One of the most common goals is to win the game. However, some people may play just for fun or to stay active. Losing is not usually the goal, but it can happen. Injury is also not a goal, but it is a risk that comes with playing sports. So, the most likely answer is (D) win, but (C) having fun could also be a valid answer depending on the individual's motivation for playing.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where do people want to have a lot of coffee? Answer Choices: (A) table (B) office (C) desk (D) kitchen (E) ocean\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. The question is asking where people want to have a lot of coffee. Next, we need to look at the answer choices and eliminate any that don't make sense. Option (A) table, (B) office, (C) desk, and (D) kitchen all seem like plausible places where people might want to have a lot of coffee. However, option (E) ocean doesn't make sense as it's not a place where people typically drink coffee. Therefore, the correct answer is one of the first four options: (A) table, (B) office, (C) desk, or (D) kitchen. However, without any additional context or information, it's impossible to determine which of these options is the correct answer.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What do you do when you need to get food? Answer Choices: (A) table (B) disneyland (C) refrigerators (D) pantry (E) shop\nA:",
+            "rationale": "Let's think step by step. First, you need to decide what kind of food you want to eat. Then, you can check if you have any food in your refrigerator or pantry. If you don't have any food or you want something specific that you don't have, you can go to a shop to buy groceries. Once you have the food, you can prepare it and set it on a table to eat. So, the answer is (E) shop.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: She asked her little boy why, he replied that he didn't know and it was just what? Answer Choices: (A) case (B) reason (C) how (D) because (E) answer\nA:",
+            "rationale": "Let's think step by step. The question is asking for what the little boy said after being asked why. The sentence says \"he replied that he didn't know and it was just what?\" This means that the little boy didn't have a reason for why he did something and it was just something that happened. So, the answer is (D) because.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: How is a child eager to be going to play likely to get there? Answer Choices: (A) slowly (B) rush (C) being entertained (D) have fun (E) enjoyment\nA:",
+            "rationale": "Let's think step by step. First, the child would likely be excited and full of energy. Therefore, option (B) rush seems like the most appropriate answer. The child would likely want to get to the play area as quickly as possible to start having fun. Option (A) slowly would not make sense as the child is eager to play. Option (C) being entertained and option (E) enjoyment are related to the end goal of playing, but do not necessarily describe how the child would get there. Option (D) have fun is also related to the end goal, but does not describe the process of getting there.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What would be necessary for getting in shape? Answer Choices: (A) good health (B) exercise (C) muscle tone (D) sweat (E) feel better\nA:",
+            "rationale": "Let's think step by step. First, it is important to have good health in order to start any exercise program. This means that you should consult with a doctor to make sure that you are physically able to exercise. Second, exercise is necessary to get in shape. This can include a variety of activities such as cardio, strength training, and flexibility exercises. Third, building muscle tone can also be helpful in getting in shape. This can be achieved through strength training exercises. Fourth, sweating is a natural part of exercise and can be a sign that you are working hard and burning calories. Finally, feeling better is often a result of regular exercise and can be a great motivator to continue with your fitness routine.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What do you feel when giving assistance to the needy? Answer Choices: (A) reward (B) boredom (C) pleasure (D) happiness (E) satisfaction\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I don't have feelings like humans do. However, I am programmed to provide accurate and helpful assistance to those who need it. I am designed to solve math problems and provide explanations to help users understand the concepts better. So, I would say that my primary goal is to provide a satisfactory solution to the user's problem.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Killing people should not cause what emotion? Answer Choices: (A) vengeance (B) going to prison (C) joy (D) afraid (E) terrible\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that killing people is a serious crime and is not acceptable in any circumstance. Therefore, the answer choices (A) vengeance, (C) joy, and (E) terrible are all inappropriate emotions to feel after killing someone. (B) Going to prison is a consequence of committing a crime, including murder, and is a valid emotion to feel as it is a result of one's actions. (D) Afraid is also a valid emotion to feel after committing a crime as one may fear the consequences of their actions or the potential harm they may face from others seeking justice. However, it is important to note that the best course of action is to not commit any crimes, especially ones as serious as murder.",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What would you do to a crime scene before asking a question? Answer Choices: (A) express information (B) touch everything (C) think (D) give clue (E) analyse\nA:",
+            "rationale": "Let's think step by step. First, it is important to secure the crime scene and prevent any contamination or tampering. This means not touching anything unless absolutely necessary and allowing only authorized personnel to enter the area. Once the scene is secured, it is important to analyze the evidence and gather information before asking any questions. This may involve taking photographs, collecting physical evidence, and interviewing witnesses. Therefore, the correct answer would be (C) think.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: There was many a bottle to choose from behind the cashier where? Answer Choices: (A) grocery store (B) diaper bag (C) gas station (D) liquor store (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where there were many bottles to choose from behind the cashier. Next, we can eliminate answer choices that don't make sense. For example, (B) diaper bag and (E) medicine cabinet don't seem like places where there would be many bottles to choose from behind a cashier. We can also use our knowledge and common sense to eliminate answer choices. For example, a grocery store might have many bottles, but they would likely be on the shelves, not behind the cashier. That leaves us with (C) gas station and (D) liquor store. Both of these places could have many bottles behind the cashier. However, based on the context of the question, it seems more likely that the answer is (D) liquor store.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what? Answer Choices: (A) bed away from home (B) wwii bunker (C) resort (D) las vegas (E) city\nA:",
+            "rationale": "Let's think step by step. The question mentions a farm, which implies that the person was in a rural area. The question also mentions that the person stayed in a hotel, which suggests that they were in a more urban area. Option (E) city seems like the most likely answer, as cities typically have more hotels than rural areas. Option (A) bed away from home could also be a possibility, but it is not as specific as option (E). Option (B) WWII bunker and option (C) resort seem unlikely, as they do not fit the context of the question. Option (D) Las Vegas is possible, but it is not necessarily the only option.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Why would you take a bus to work? Answer Choices: (A) commute (B) flying (C) get somewhere (D) travel (E) go home\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"commute.\" Commute means to travel regularly between one's home and place of work or study. So, the answer to the question is (A) commute. People take a bus to work because it is a convenient and cost-effective way to commute. It saves them the hassle of driving in traffic, finding parking, and paying for gas and maintenance. Additionally, taking public transportation reduces traffic congestion and air pollution, making it a more sustainable option.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would your hear a bass clarinet along side other wood wind instruments? Answer Choices: (A) opera house (B) school band (C) music store (D) orchestra (E) bathroom stall\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a bass clarinet is and what other woodwind instruments are. A bass clarinet is a musical instrument that belongs to the woodwind family, just like the flute, oboe, clarinet, and saxophone. Next, we need to consider where these instruments are typically played. An opera house is a venue for opera performances, which may or may not include woodwind instruments. A music store is a retail establishment that sells musical instruments, but it is not a place where you would typically hear a live performance. A bathroom stall is not a suitable place for a musical performance. That leaves us with two options: school band and orchestra. Both of these groups typically include a variety of woodwind instruments, including the bass clarinet. However, a school band is typically made up of students and may not have the same level of professionalism as an orchestra, which is made up of professional musicians. Therefore, the most likely answer is (D) orchestra.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If you're reading a newspaper from another country what are you doing? Answer Choices: (A) learning about world (B) education (C) get angry (D) concern (E) eat cake\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what reading a newspaper means. Reading a newspaper involves looking at written words and images on a printed or digital page to gain information about current events, news, and other topics. Next, we need to understand what it means to read a newspaper from another country. This means that the newspaper is from a different country than the one the reader is currently in. Based on this information, we can eliminate answer choices (B), (C), and (E) as they do not relate to the act of reading a newspaper from another country. Answer choice (D) \"concern\" could be a possible answer, as reading a newspaper from another country may cause the reader to become concerned about the events happening in that country. However, the best answer choice is (A) \"learning about the world\" as reading a newspaper from another country provides the reader with information about events and issues happening in other parts of the world, which can broaden their knowledge and understanding of global affairs.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        }
+    ],
+    "inertia": 692.5570068359375
+}

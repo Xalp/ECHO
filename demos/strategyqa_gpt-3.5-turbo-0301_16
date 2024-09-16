@@ -1,0 +1,101 @@
+{
+    "demo": [
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the leader of Heaven's Gate consider himself a prophet?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the leader of Heaven's Gate was Marshall Applewhite. He and his followers believed in an extraterrestrial belief system that combined elements of Christianity, New Age philosophy, and science fiction. Applewhite did consider himself a prophet, but he referred to himself as \"Do\" and believed that he was the messenger of the extraterrestrial beings who would lead his followers to a higher level of existence. He claimed to have received messages from these beings and believed that he was chosen to lead his followers to a higher spiritual plane. However, it's important to note that the beliefs of Heaven's Gate were considered by many to be a cult, and their actions ultimately led to a tragic mass suicide in 1997.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a snow leopard swim?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the physical characteristics of a snow leopard. Snow leopards are adapted to live in cold, mountainous regions of Central Asia. They have thick fur to keep them warm and large paws that act as snowshoes to help them walk on snow. While snow leopards are not known for their swimming abilities, they are capable of swimming if necessary. However, they are not as proficient at swimming as other big cats like tigers or jaguars. In the wild, snow leopards may need to cross rivers or streams to hunt or find new territory. They may also swim to escape predators or to reach higher ground during floods. Overall, while snow leopards are not known for their swimming abilities, they are capable of swimming if necessary.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Arnold Schwarzenegger hypothetically defeat Hafþór Björnsson in a powerlifting competition if both are at their peak strength?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to define what we mean by \"powerlifting competition.\" Powerlifting typically consists of three lifts: the squat, bench press, and deadlift. So we can assume that this hypothetical competition would involve those three lifts. Next, we need to consider the strength of each competitor. Arnold Schwarzenegger was a bodybuilder and powerlifter in his prime, but he was not known for his strength in the squat, bench press, and deadlift specifically. Hafþór Björnsson, on the other hand, is a professional strongman and powerlifter who holds several world records in those lifts. Based on this information, it seems unlikely that Arnold Schwarzenegger would be able to defeat Hafþór Björnsson in a powerlifting competition if both were at their peak strength. However, it's worth noting that there are many factors that could come into play, such as technique, training, and mental toughness. So while it may be unlikely, it's not impossible.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Fraktur have a sordid history?\nA:",
+            "rationale": "Let's think step by step. Fraktur is a typeface that was commonly used in German-speaking countries until the mid-20th century. It has a unique and distinctive appearance, with ornate and angular letterforms. However, Fraktur has been associated with some controversial and negative aspects of German history. During the Nazi regime in Germany, Fraktur was promoted as the \"true\" German typeface and was used extensively in propaganda materials. This association with the Nazi party has led to some negative connotations for Fraktur. However, it is important to note that Fraktur has a long and complex history that predates the Nazi era. It was widely used in German printing and literature for centuries, and many important works of literature and philosophy were printed in Fraktur. So while Fraktur may have some negative associations, it is ultimately a typeface with a rich and varied history that cannot be reduced to a single period or ideology.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could largest ship from Voyages of Christopher Columbus haul Statue of Liberty?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the size of the largest ship used by Christopher Columbus. The largest ship in Columbus's fleet was the Santa Maria, which was about 62 feet long and 18 feet wide. Next, we need to determine the size of the Statue of Liberty. The Statue of Liberty is about 151 feet tall from the base to the tip of the torch and weighs approximately 225 tons. Based on these measurements, it is unlikely that the largest ship from Columbus's voyages could haul the Statue of Liberty. The Santa Maria was not designed to carry such a heavy and large object, and it would likely be too small to accommodate the statue's size and weight. Additionally, the Santa Maria was a sailing ship, which would make it difficult to transport the statue across the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can surgery prevent an existential crisis?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand what an existential crisis is. It's a period of intense questioning and uncertainty about the meaning and purpose of life. It's a psychological and philosophical issue, not a physical one. Surgery, on the other hand, is a medical procedure that involves cutting into the body to treat a physical ailment or condition. It's not designed to address psychological or philosophical issues. Therefore, it's unlikely that surgery could prevent an existential crisis. If someone is experiencing an existential crisis, they may benefit from seeking support from a mental health professional or engaging in self-reflection and exploration of their values and beliefs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3462.4619140625
+}

@@ -1,0 +1,83 @@
+{
+    "demo": [
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to know how many eggs are in a dozen. A dozen is equal to 12, so 4 dozen would be: 4 x 12 = 48 Therefore, Sally bought 48 eggs from the grocery store.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of marbles Dan gave to Mary from the total number of marbles he had before giving any away. 64 - 14 = 50 Therefore, Dan now has 50 violet marbles.",
+            "pred_ans": "50",
+            "gold_ans": "50"
+        },
+        {
+            "question": "Q: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Ellen bought 12 chairs and each chair costs $15. So, we can multiply the number of chairs by the cost of each chair: 12 x $15 = $180 Therefore, Ellen spent $180 for the 12 chairs she bought.",
+            "pred_ans": "180",
+            "gold_ans": "180"
+        },
+        {
+            "question": "Q: Alyssa has 36 books. Nancy has 7 times more books than  Alyssa. How many books does Nancy have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many books Nancy has compared to Alyssa. To do this, we can multiply Alyssa's number of books by 7: 36 x 7 = 252 So Nancy has 252 books.",
+            "pred_ans": "252",
+            "gold_ans": "252"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long. Then she sawed 0.33 meters off the end. How long is the piece of wood now?\nA:",
+            "rationale": "Let's think step by step. First, we start with the original length of the wood, which is 0.41 meters. Next, we need to subtract the amount that was sawed off, which is 0.33 meters. So, the length of the wood now is: 0.41 meters - 0.33 meters = 0.08 meters Therefore, the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: There are 9 crayons in the drawer. Benny placed 3 more crayons in the drawer. How many crayons are now there in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many crayons were in the drawer before Benny added more. We know that there were 9 crayons in the drawer, so that's our starting point. Next, we need to add the 3 crayons that Benny placed in the drawer. We can do this by adding 3 to 9: 9 + 3 = 12 So there are now 12 crayons in the drawer in total.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Benny picked 2 apples and Dan picked 9 apples from the apple tree. How many apples were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of apples Benny picked (2) to the number of apples Dan picked (9). 2 + 9 = 11 Therefore, the total number of apples picked is 11.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        }
+    ],
+    "inertia": 223.27337646484375
+}

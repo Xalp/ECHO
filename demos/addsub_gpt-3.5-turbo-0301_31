@@ -1,0 +1,191 @@
+{
+    "demo": [
+        {
+            "question": "Q: Keith picked 3 pears and Jason picked 2 pears from the pear tree . Joan picked 5 apples from the apple tree . How many pears were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of pears that Keith and Jason picked. Keith picked 3 pears and Jason picked 2 pears, so together they picked 3 + 2 = 5 pears. Next, we need to add the number of apples that Joan picked. Joan picked 5 apples, so the total number of fruits picked is 5 + 5 = 10. Therefore, the total number of pears picked is 5.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of the two watermelons to find the total weight. 9.91 pounds + 4.11 pounds = 14.02 pounds Therefore, Kevin bought 14.02 pounds of watermelon.",
+            "pred_ans": "14.02",
+            "gold_ans": "14.02"
+        },
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of dogwood trees currently in the park to the number of trees that will be planted today. So, we can write it as: 34 (current trees) + 49 (newly planted trees) = 83 Therefore, the park will have 83 dogwood trees when the workers are finished planting.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        },
+        {
+            "question": "Q: Nina did a running drill to get in shape for soccer season . First , Nina ran 0.08333333333333333 mile . Then she ran 0.08333333333333333 mile and 0.6666666666666666 mile . How many miles did Nina run in total ?\nA:",
+            "rationale": "Let's think step by step. First, Nina ran 0.08333333333333333 mile. Then, she ran 0.08333333333333333 mile and 0.6666666666666666 mile. To find the total distance Nina ran, we need to add up all the distances. 0.08333333333333333 + 0.08333333333333333 + 0.6666666666666666 = 0.8333333333333333 Therefore, Nina ran a total of 0.8333333333333333 miles.",
+            "pred_ans": "0.8333333333333333",
+            "gold_ans": "0.8333333333333334"
+        },
+        {
+            "question": "Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Tim made by subtracting his initial amount from his final amount. 75 - 12 = 63 This means that Tim made 63 dollars by washing cars over the weekend.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many baseball cards Melanie has after 9 were torn. Melanie had 30 baseball cards - 9 torn = 21 baseball cards. Next, we need to find out how many baseball cards Melanie has after Sara bought 18 of them. Melanie had 21 baseball cards - 18 bought by Sara = 3 baseball cards. Therefore, Melanie has 3 baseball cards now.",
+            "pred_ans": "3",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ?\nA:",
+            "rationale": "Let's think step by step. First, we can add up the amounts of concrete, bricks, and stone: 0.16666666666666666 ton + 0.16666666666666666 ton + 0.5 ton = 0.8333333333333333 ton Therefore, the company ordered a total of 0.8333333333333333 ton of material.",
+            "pred_ans": "0.8333333333333333",
+            "gold_ans": "0.8333333333333334"
+        },
+        {
+            "question": "Q: A restaurant served 6 cakes during lunch and 9 during dinner today . How many cakes were served today ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of cakes served during lunch and dinner. 6 cakes served during lunch + 9 cakes served during dinner = 15 cakes served in total Therefore, 15 cakes were served today.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Tom went to 4 hockey games this year , but missed 7 . He went to 9 games last year . How many hockey games did Tom go to in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many hockey games Tom went to this year. We know he went to 4 games, but he also missed 7 games. So, the total number of games this year would be: 4 + 7 = 11 games Next, we need to add the number of games Tom went to last year, which was 9 games. So, the total number of hockey games Tom went to in all would be: 11 + 9 = 20 games Therefore, Tom went to a total of 20 hockey games.",
+            "pred_ans": "20",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the 25 yellow marbles that Joan took from Sam's original 86 yellow marbles. 86 - 25 = 61 So Sam now has 61 yellow marbles.",
+            "pred_ans": "61",
+            "gold_ans": "61"
+        },
+        {
+            "question": "Q: Dan grew 42 turnips and 38 cantelopes . Jessica grew 47 turnips . How many turnips did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of turnips that Dan and Jessica grew. Dan grew 42 turnips and Jessica grew 47 turnips, so the total number of turnips is: 42 + 47 = 89 Therefore, Dan and Jessica grew a total of 89 turnips.",
+            "pred_ans": "89",
+            "gold_ans": "89"
+        },
+        {
+            "question": "Q: Blake filled a bucket with 0.8 gallon of water . Later , he poured out 0.2 gallon of the water . How much water is in the bucket ?\nA:",
+            "rationale": "Let's think step by step. First, we start with 0.8 gallons of water in the bucket. Then, Blake poured out 0.2 gallons of water. To find out how much water is left in the bucket, we can subtract the amount poured out from the original amount: 0.8 - 0.2 = 0.6 Therefore, there is 0.6 gallon of water left in the bucket.",
+            "pred_ans": "0.6",
+            "gold_ans": "0.6"
+        },
+        {
+            "question": "Q: It rained 0.9 inches on Monday . On Tuesday , it rained 0.7 inches less than on Monday . How much did it rain on Tuesday ?\nA:",
+            "rationale": "Let's think step by step. First, we know that it rained 0.9 inches on Monday. Next, we need to figure out how much it rained on Tuesday. We know that it rained 0.7 inches less than on Monday. To find out how much it rained on Tuesday, we can subtract 0.7 from 0.9: 0.9 - 0.7 = 0.2 So it rained 0.2 inches on Tuesday.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Jessica is baking a cake . The recipe calls for 8 cups of flour and 2 cups of sugar . She already put in 4 cups of flour . How many cups of flour does she need to add ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much flour Jessica has already put in. We know that she has put in 4 cups of flour. Next, we need to find out how much more flour she needs to add. The recipe calls for a total of 8 cups of flour, and she has already put in 4 cups. To find out how much more flour she needs to add, we can subtract the amount she has already put in from the total amount called for in the recipe: 8 cups - 4 cups = 4 cups So Jessica needs to add 4 more cups of flour to the cake.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Sam has 110 books . Joan has 102 books . How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of books Sam and Joan have: 110 + 102 = 212 So, they have a total of 212 books together.",
+            "pred_ans": "212",
+            "gold_ans": "212"
+        },
+        {
+            "question": "Q: An oil pipe in the sea broke . Before engineers started to fix the pipe , 2475 gallons of oil leaked into the water . A total of 6206 gallons of oil leaked before the pipe was fixed . How many gallons of oil leaked while the engineers were fixing the pipe ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much oil leaked after the initial 2475 gallons. We can do this by subtracting 2475 from the total amount of oil leaked: 6206 - 2475 = 3731 So 3731 gallons of oil leaked while the engineers were fixing the pipe.",
+            "pred_ans": "3731",
+            "gold_ans": "3731"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long . Then she sawed 0.33 meters off the end . How long is the piece of wood now ?\nA:",
+            "rationale": "Let's think step by step. The carpenter bought a piece of wood that was 0.41 meters long. Then she sawed off 0.33 meters from the end. To find out how long the piece of wood is now, we need to subtract 0.33 meters from 0.41 meters. 0.41 meters - 0.33 meters = 0.08 meters So the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: Alyssa 's cat had 8 kittens and 8 had spots . She gave 4 to her friends . How many kittens does she now have ?\nA:",
+            "rationale": "Let's think step by step. Alyssa originally had 8 kittens, and 8 of them had spots. So, she had 8 spotted kittens. Then, she gave 4 of them to her friends. So, she now has 8 - 4 = 4 spotted kittens left. Therefore, Alyssa now has 4 kittens.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: A car company produced 3884 cars in North America and 2871 cars in Europe . How many cars is that in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. Step 1: Add the number of cars produced in North America and Europe. 3884 + 2871 = 6755 Step 2: Write the final answer. The car company produced 6755 cars in total.",
+            "pred_ans": "6755",
+            "gold_ans": "6755"
+        },
+        {
+            "question": "Q: Jonah added 0.3 cup of yellow raisins and 0.4 cup of black raisins to a batch of trail mix . How many cups of raisins did Jonah add in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the amount of yellow raisins and black raisins that Jonah added. 0.3 cups (yellow raisins) + 0.4 cups (black raisins) = 0.7 cups (total raisins) Therefore, Jonah added 0.7 cups of raisins in all.",
+            "pred_ans": "0.7",
+            "gold_ans": "0.7"
+        },
+        {
+            "question": "Q: Joan decided to sell all of her old books . She gathered up 33 books to sell . She sold 26 books in a yard sale . How many books does Joan now have ?\nA:",
+            "rationale": "Let's think step by step. Joan started with 33 books. She sold 26 books in a yard sale. To find out how many books Joan now has, we need to subtract the number of books she sold from the number of books she started with: 33 - 26 = 7 Therefore, Joan now has 7 books left after selling 26 books in a yard sale.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Dan had 7 potatoes and 4 cantelopes in the garden . The rabbits ate 4 of the potatoes . How many potatoes does Dan now have ?\nA:",
+            "rationale": "Let's think step by step. Dan had 7 potatoes and 4 cantaloupes in the garden, so he had a total of 7 + 4 = 11 items in the garden. The rabbits ate 4 of the potatoes, so we need to subtract 4 from the original 7 potatoes to find out how many potatoes Dan has left. 7 - 4 = 3 Therefore, Dan now has 3 potatoes left in the garden.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Joan grew 29 carrots and 14 watermelons . Jessica grew 11 carrots . How many carrots did they grow in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of carrots that Joan and Jessica grew. Joan grew 29 carrots and Jessica grew 11 carrots, so together they grew: 29 + 11 = 40 carrots Therefore, they grew a total of 40 carrots.",
+            "pred_ans": "40",
+            "gold_ans": "40"
+        },
+        {
+            "question": "Q: Ella owns 2 dogs . Each day , 1 dog eats 0.125 scoop of dog food and the other dog eats 0.125 scoop . Together , how much dog food do the 2 dogs eat each day ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that each dog eats 0.125 scoop of dog food per day. So, we can add those amounts together to find the total amount of dog food they eat per day. 0.125 + 0.125 = 0.25 Therefore, the two dogs eat a total of 0.25 scoop of dog food per day.",
+            "pred_ans": "0.25",
+            "gold_ans": "0.25"
+        },
+        {
+            "question": "Q: There were 73 bales of hay in the barn . Jason stacked bales in the barn today . There are now 96 bales of hay in the barn . How many bales did he store in the barn ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bales Jason added to the barn. We can do this by subtracting the original number of bales from the current number of bales: 96 - 73 = 23 So Jason added 23 bales to the barn.",
+            "pred_ans": "23",
+            "gold_ans": "23"
+        },
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: A marine biologist measured 1 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the lengths of the two fish. To do this, we can subtract the length of the second fish from the length of the first fish: 0.3 ft - 0.2 ft = 0.1 ft So the first fish is 0.1 feet longer than the second fish.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        }
+    ],
+    "inertia": 120.61189270019531
+}

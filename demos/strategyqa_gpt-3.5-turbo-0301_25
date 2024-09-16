@@ -1,0 +1,155 @@
+{
+    "demo": [
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Pedubastis I know Japanese people?\nA:",
+            "rationale": "Let's think step by step. Pedubastis I was an ancient Egyptian pharaoh who ruled during the Third Intermediate Period. It is unlikely that he had any direct contact with Japanese people, as Japan was located far away from Egypt and there is no evidence of any significant trade or cultural exchange between the two regions during that time period. However, it is possible that he may have heard of Japan or encountered people from other regions who had traveled there.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can dessert be made with vegetables?\nA:",
+            "rationale": "Let's think step by step. Yes, dessert can be made with vegetables. There are many desserts that use vegetables as a main ingredient, such as carrot cake, zucchini bread, sweet potato pie, and pumpkin pie. These desserts are often sweetened with sugar or other sweeteners to balance out the natural savory flavor of the vegetables. Additionally, some vegetables like beets and sweet potatoes can be used to make natural food coloring for desserts. So, it is definitely possible to make delicious desserts using vegetables.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would nickel boil in the outer core of the earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to know the boiling point of nickel. The boiling point of nickel is 2,913°C (5,275°F). Next, we need to know the temperature of the outer core of the Earth. The outer core of the Earth is estimated to have a temperature of around 4,000°C (7,200°F). Based on these values, it is safe to say that nickel would definitely boil in the outer core of the Earth, as its boiling point is much lower than the temperature of the outer core.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I don't have information about the burial plans of Queen Elizabeth. However, I can tell you that the Pantheon is a famous ancient temple in Rome that was converted into a church. It is the final resting place of many famous Italians, including the artist Raphael. It is unlikely that Queen Elizabeth will be buried there as she is not Italian and has no direct connection to the Pantheon.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a student in eleventh grade be unable to run for president of the United States?\nA:",
+            "rationale": "Let's think step by step. In order to run for president of the United States, a person must meet the following requirements: 1. Be a natural-born citizen of the United States 2. Be at least 35 years old 3. Have been a resident of the United States for at least 14 years Therefore, being in eleventh grade would not disqualify someone from running for president, as long as they meet the other requirements. However, it is highly unlikely that someone in eleventh grade would have the necessary experience and qualifications to run for president.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Eminem perform well at the International Mathematical Olympiad?\nA:",
+            "rationale": "Let's think step by step. The International Mathematical Olympiad is a competition for high school students who excel in mathematics. Eminem, on the other hand, is a rapper and songwriter. While he may have some mathematical skills related to music production, it is unlikely that he would perform well at the International Mathematical Olympiad without significant preparation and training in advanced mathematics. However, it is important to note that anyone can improve their mathematical abilities with practice and dedication.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do skeletons have hair?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand that skeletons are the internal framework of bones that support the body of an organism. Hair, on the other hand, is a protein filament that grows from follicles in the skin of mammals. Since skeletons are made up of bones and do not have skin or hair follicles, it is safe to say that skeletons do not have hair.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could someone in a coma experience fear?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a coma is. A coma is a state of unconsciousness where a person is not aware of their surroundings and cannot respond to stimuli. Fear is an emotional response to a perceived threat or danger. It involves the activation of the sympathetic nervous system, which triggers the \"fight or flight\" response. Since a person in a coma is not conscious, they cannot experience emotions such as fear. However, it is possible that their body may still respond to stimuli that could be perceived as threatening, such as changes in heart rate or blood pressure. Overall, while a person in a coma cannot experience fear in the same way as a conscious person, their body may still respond to stimuli that could be perceived as threatening.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Jay-Z ever collaborate with Louis Armstrong?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine if Jay-Z and Louis Armstrong were active in the music industry at the same time. Louis Armstrong was a jazz musician who was active from the 1920s to the 1960s, while Jay-Z is a rapper who became popular in the 1990s and is still active today. Based on this information, it is highly unlikely that Jay-Z and Louis Armstrong ever collaborated on a musical project. Their genres and time periods are quite different, and there is no record of them working together.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the leader of Heaven's Gate consider himself a prophet?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the leader of Heaven's Gate was Marshall Applewhite. He and his followers believed in an extraterrestrial belief system that combined elements of Christianity, New Age philosophy, and science fiction. Applewhite did consider himself a prophet, but he referred to himself as \"Do\" and believed that he was the messenger of the extraterrestrial beings who would lead his followers to a higher level of existence. He claimed to have received messages from these beings and believed that he was chosen to lead his followers to a higher spiritual plane. However, it's important to note that the beliefs of Heaven's Gate were considered by many to be a cult, and their actions ultimately led to a tragic mass suicide in 1997.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can the Very Large Telescope observe the largest mountain on Earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what the largest mountain on Earth is. Mount Everest is the tallest mountain on Earth, but if we consider the mountain with the largest base, then Mauna Kea in Hawaii is the largest. Next, we need to determine if the Very Large Telescope (VLT) is capable of observing mountains on Earth. The VLT is a ground-based telescope located in Chile that is primarily used for astronomical observations. While it is possible for the VLT to observe objects on Earth, it is not its primary function and there may be limitations to what it can observe. Finally, even if the VLT is capable of observing mountains on Earth, it is unlikely that it would be able to observe the largest mountain on Earth due to its distance from Chile and the fact that it is located on the opposite side of the planet. Therefore, it is unlikely that the VLT can observe the largest mountain on Earth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are you likely to hear Rammstein playing in smooth jazz clubs?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Rammstein is and what smooth jazz is. Rammstein is a German industrial metal band known for their heavy and aggressive music style, while smooth jazz is a genre of music that is characterized by its mellow and relaxing sound. Based on this information, it is highly unlikely that Rammstein would be played in smooth jazz clubs. Smooth jazz clubs typically play music that is in line with the genre's characteristics, and Rammstein's music style is not a good fit for that.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3376.268798828125
+}

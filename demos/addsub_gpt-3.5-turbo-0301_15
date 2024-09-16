@@ -1,0 +1,95 @@
+{
+    "demo": [
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the difference between the distance Eve ran and walked. To do this, we can subtract the distance she walked from the distance she ran: 0.7 miles - 0.6 miles = 0.1 miles Therefore, Eve ran 0.1 miles farther than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many baseball cards Melanie has after 9 were torn. Melanie had 30 baseball cards - 9 torn = 21 baseball cards. Next, we need to find out how many baseball cards Melanie has after Sara bought 18 of them. Melanie had 21 baseball cards - 18 bought by Sara = 3 baseball cards. Therefore, Melanie has 3 baseball cards now.",
+            "pred_ans": "3",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Sam and Alyssa have. Sam has 16 blue balloons and Alyssa has 21 blue balloons, so the total number of blue balloons is: 16 + 21 = 37 Therefore, Sam and Alyssa have 37 blue balloons in all.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Sam has 110 books . Joan has 102 books . How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of books Sam and Joan have: 110 + 102 = 212 So, they have a total of 212 books together.",
+            "pred_ans": "212",
+            "gold_ans": "212"
+        },
+        {
+            "question": "Q: Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many total nickels Sam had before his dad gave him more. Sam had 24 nickels to start with, and his dad gave him 39 more nickels. So, Sam now has a total of 24 + 39 = 63 nickels.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Tim made by subtracting his initial amount from his final amount. 75 - 12 = 63 This means that Tim made 63 dollars by washing cars over the weekend.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of dogwood trees currently in the park to the number of trees that will be planted today. So, we can write it as: 34 (current trees) + 49 (newly planted trees) = 83 Therefore, the park will have 83 dogwood trees when the workers are finished planting.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins . How many pounds of snacks did she buy in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: A renovation project required 0.16666666666666666 truck-load of sand , 0.3333333333333333 truck-load of dirt , and 0.16666666666666666 truck-load of cement . How many truck-loads of material were needed in all ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the amount of sand, dirt, and cement: 0.16666666666666666 + 0.3333333333333333 + 0.16666666666666666 = 0.6666666666666666 So, a total of 0.6666666666666666 truck-loads of material were needed for the renovation project.",
+            "pred_ans": "0.6666666666666666",
+            "gold_ans": "0.6666666666666666"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of seashells Mary found to the number of seashells Jessica found. 18 + 41 = 59 So, Mary and Jessica found a total of 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Keith picked 3 pears and Jason picked 2 pears from the pear tree . Joan picked 5 apples from the apple tree . How many pears were picked in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of pears that Keith and Jason picked. Keith picked 3 pears and Jason picked 2 pears, so together they picked 3 + 2 = 5 pears. Next, we need to add the number of apples that Joan picked. Joan picked 5 apples, so the total number of fruits picked is 5 + 5 = 10. Therefore, the total number of pears picked is 5.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Joan grew 8 watermelons and 4 turnips . Tom grew 9 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of watermelons that Joan and Tom grew. Joan grew 8 watermelons and Tom grew 9 watermelons, so the total number of watermelons is: 8 + 9 = 17 Therefore, Joan and Tom grew a total of 17 watermelons.",
+            "pred_ans": "17",
+            "gold_ans": "17"
+        },
+        {
+            "question": "Q: Last year , egg producers in Douglas County produced 1416 eggs . This year , those same farms produced 4636 eggs . How many more eggs did the farms produce this year ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the difference between the number of eggs produced last year and this year. To do this, we can subtract the number of eggs produced last year from the number of eggs produced this year: 4636 - 1416 = 3220 Therefore, the farms produced 3220 more eggs this year than they did last year.",
+            "pred_ans": "3220",
+            "gold_ans": "3220"
+        },
+        {
+            "question": "Q: There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that were already in the drawer (33) to the number of pencils Joan placed in the drawer (27). 33 + 27 = 60 So there are now 60 pencils in the drawer.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        },
+        {
+            "question": "Q: There were a total of 8 football games this year , 4 are played at night . Keith missed 4 of the games . How many football games did Keith go to in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many games Keith did not miss. We know that there were a total of 8 games, and Keith missed 4 of them. So, he must have gone to 8 - 4 = 4 games. However, we also know that 4 of the games were played at night. We don't know if Keith missed any of the night games, but we do know that he went to all of the day games. So, the total number of games that Keith went to is 4 (the number of day games) plus the number of night games that he attended. We don't know how many night games he attended, but we do know that it's less than or equal to 4 (since he missed 4 games in total).",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        }
+    ],
+    "inertia": 142.88299560546875
+}

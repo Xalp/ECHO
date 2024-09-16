@@ -1,0 +1,155 @@
+{
+    "demo": [
+        {
+            "question": "Q: Scarlett made a fruit salad with 0.25 of a pound of melon and 0.375 of a pound of berries. How many pounds of fruit did Scarlett use in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of melon and berries to find the total weight of fruit used by Scarlett. 0.25 + 0.375 = 0.625 So, Scarlett used 0.625 pounds of fruit in all.",
+            "pred_ans": "0.625",
+            "gold_ans": "0.625"
+        },
+        {
+            "question": "Q: Alyssa's dog had puppies. She gave 7 to her friends.  She now has 5 puppies left. How many puppies did she have to start with ?\nA:",
+            "rationale": "Let's think step by step. First, we know that Alyssa gave away 7 puppies to her friends. So, if we add those 7 puppies to the 5 puppies she has left, we can find out how many puppies she had in total before giving any away. 7 + 5 = 12 Therefore, Alyssa had 12 puppies to start with.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of blue balloons that Joan and Melanie have. Joan has 40 blue balloons and Melanie has 41 blue balloons. So, the total number of blue balloons they have is: 40 + 41 = 81 Therefore, Joan and Melanie have a total of 81 blue balloons.",
+            "pred_ans": "81",
+            "gold_ans": "81"
+        },
+        {
+            "question": "Q: Melanie goes fishing with Tom. Melanie catches 8 trout. Tom catches 2 times as many trout as Melanie. How many trout did Tom catch ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. First, we know that Melanie caught 8 trout. Next, we need to figure out how many trout Tom caught. We're told that Tom caught 2 times as many trout as Melanie. So, we can start by multiplying Melanie's catch by 2: 8 x 2 = 16 Therefore, Tom caught 16 trout.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Sam had 9 dimes in his bank. His dad gave him 7 more dimes. How many dimes does Sam have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many dimes Sam has after his dad gave him 7 more dimes. To do this, we can add the number of dimes Sam had before (9) to the number of dimes his dad gave him (7): 9 + 7 = 16 So Sam now has 16 dimes.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of marbles Dan gave to Mary from the total number of marbles he had before giving any away. 64 - 14 = 50 Therefore, Dan now has 50 violet marbles.",
+            "pred_ans": "50",
+            "gold_ans": "50"
+        },
+        {
+            "question": "Q: Sally grew 6 carrots. Fred grew 4 carrots. How many carrots did they grow in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of carrots Sally grew (6) to the number of carrots Fred grew (4). 6 + 4 = 10 So, Sally and Fred grew a total of 10 carrots.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Dina made cookies. She used 0.625 of a cup of flour and 0.25 of a cup of sugar. How much more flour than sugar did Dina use?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the amount of flour and sugar used. To do this, we can subtract the amount of sugar used from the amount of flour used: 0.625 - 0.25 = 0.375 So Dina used 0.375 more cups of flour than sugar.",
+            "pred_ans": "0.375",
+            "gold_ans": "0.375"
+        },
+        {
+            "question": "Q: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Ellen bought 12 chairs and each chair costs $15. So, we can multiply the number of chairs by the cost of each chair: 12 x $15 = $180 Therefore, Ellen spent $180 for the 12 chairs she bought.",
+            "pred_ans": "180",
+            "gold_ans": "180"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: In Yardley it snowed 0.125 of an inch in the morning and 0.5 of an inch in the afternoon. What was the total amount of snowfall?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to add the amount of snowfall in the morning and afternoon. 0.125 + 0.5 = 0.625 So the total amount of snowfall in Yardley was 0.625 inches.",
+            "pred_ans": "0.625",
+            "gold_ans": "0.625"
+        },
+        {
+            "question": "Q: There are 9 crayons in the drawer. Benny placed 3 more crayons in the drawer. How many crayons are now there in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many crayons were in the drawer before Benny added more. We know that there were 9 crayons in the drawer, so that's our starting point. Next, we need to add the 3 crayons that Benny placed in the drawer. We can do this by adding 3 to 9: 9 + 3 = 12 So there are now 12 crayons in the drawer in total.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Sandy worked 45 hours in the last 5 days. Assuming that she worked the same amount of hours each day, how long did she work each day ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can start by finding the average number of hours Sandy worked per day. We can do this by dividing the total number of hours she worked (45) by the number of days she worked (5): 45 ÷ 5 = 9 So Sandy worked an average of 9 hours per day. Next, we can assume that she worked the same amount of hours each day. Therefore, she worked 9 hours each day.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: A construction company ordered 0.16666666666666666 of a ton of concrete, 0.16666666666666666 of a ton of bricks, and 0.5 of a ton of stone. How many tons of material did the company order in all?\nA:",
+            "rationale": "Let's think step by step. First, we can add up the fractions to get a total amount of material ordered: 0.16666666666666666 + 0.16666666666666666 + 0.5 = 0.8333333333333333 So the company ordered a total of 0.8333333333333333 tons of material.",
+            "pred_ans": "0.8333333333333333",
+            "gold_ans": "0.8333333333333334"
+        },
+        {
+            "question": "Q: Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to know how many eggs are in a dozen. A dozen is equal to 12, so 4 dozen would be: 4 x 12 = 48 Therefore, Sally bought 48 eggs from the grocery store.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: Christian’s father and the senior ranger gathered firewood as they walked towards the lake in the park and brought with them sacks. If every sack can contain around 20 pieces of wood, how many sacks were they able to fill if they gathered 80 pieces of wood?\nA:",
+            "rationale": "Let's think step by step. First, we need to figure out how many sacks are needed to hold 80 pieces of wood. To do this, we can divide the total number of pieces of wood by the number of pieces of wood that can fit in one sack: 80 pieces of wood ÷ 20 pieces of wood per sack = 4 sacks Therefore, Christian's father and the senior ranger were able to fill 4 sacks with the firewood they gathered.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: There are 960 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to figure out how many classrooms are needed to accommodate all 960 students. To do this, we can divide the total number of students by the number of students per classroom: 960 ÷ 30 = 32 So we need 32 classrooms to accommodate all 960 students.",
+            "pred_ans": "32",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Sara picked 45 pears and Sally picked 11 pears from the pear tree. How many pears were picked in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pears picked by Sara and Sally. 45 + 11 = 56 So, in total, 56 pears were picked.",
+            "pred_ans": "56",
+            "gold_ans": "56"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        }
+    ],
+    "inertia": 199.6033172607422
+}

@@ -1,0 +1,65 @@
+{
+    "demo": [
+        {
+            "question": "Q: Wendy uploaded 45 pictures to Facebook. She put 27 pics into one album and put the rest into 9 different albums. How many pictures were in each album?\nA:",
+            "rationale": "Let's think step by step. First, we know that Wendy put 27 pictures into one album. So, we subtract 27 from the total number of pictures to find out how many pictures were left to be distributed among the 9 albums. 45 - 27 = 18 Now we need to divide the remaining 18 pictures equally among the 9 albums. 18 ÷ 9 = 2 Therefore, there were 2 pictures in each of the 9 albums.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Mike has left after buying the new mower blades. We can do this by subtracting the cost of the blades from the amount of money he made: 69 dollars - 24 dollars = 45 dollars Now we know that Mike has 45 dollars left to spend on games. To find out how many 5 dollar games he can buy, we can divide the amount of money he has left by the cost of each game: 45 dollars ÷ 5 dollars/game = 9 games Therefore, Mike can buy 9 5-dollar games with the money he has left after buying the new mower blades.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?\nA:",
+            "rationale": "Let's think step by step. First, Chloe made 28 cupcakes. Then, she sold 25 of them. So, she would have 28 - 25 = 3 cupcakes left. After that, she made 8 more cupcakes. So, she would have 3 + 8 = 11 cupcakes in total.",
+            "pred_ans": "11",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: There were 7 friends playing a video game online when 2 more players joined the game. If each player had 7 lives, how many lives did they have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that there were 7 friends playing the game. So, they had a total of 7 x 7 = 49 lives. Next, 2 more players joined the game. So, we need to add their lives to the total. Each player has 7 lives, so 2 players would have 2 x 7 = 14 lives. Therefore, the total number of lives in the game would be 49 + 14 = 63 lives.",
+            "pred_ans": "63",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: There are 65 students trying out for the school's trivia teams. If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that there are 65 students trying out for the trivia teams. Step 2: We also know that 17 of them didn't get picked for the team, so the number of students who did get picked is 65 - 17 = 48. Step 3: We need to divide the 48 students into 8 groups. To do this, we can use division: 48 ÷ 8 = 6. Step 4: Therefore, there would be 6 students in each group.",
+            "pred_ans": "6",
+            "gold_ans": "6"
+        },
+        {
+            "question": "Q: Sarah had 4 pages of math homework and 6 pages of reading homework. If each page had 4 problems on it, how many problems did she have to complete total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many problems are on the math homework. Since there are 4 pages and each page has 4 problems, we can multiply 4 x 4 to get 16 math problems. Next, we need to find out how many problems are on the reading homework. Since there are 6 pages and each page has 4 problems, we can multiply 6 x 4 to get 24 reading problems. Finally, we can add the number of math problems and reading problems together to get the total number of problems Sarah has to complete. So, 16 + 24 = 40 problems in total.",
+            "pred_ans": "40",
+            "gold_ans": "40"
+        },
+        {
+            "question": "Q: Megan was organizing her book case making sure each of the shelves had exactly 7 books on it. If she had 8 shelves of mystery books and 2 shelves of picture books, how many books did she have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many books Megan has on each shelf. She has 8 shelves of mystery books, and each shelf has 7 books, so she has 8 x 7 = 56 mystery books. Next, we need to find out how many books she has on the picture book shelves. She has 2 shelves of picture books, and each shelf has 7 books, so she has 2 x 7 = 14 picture books. Finally, we can add the number of mystery books and picture books together to find the total number of books Megan has. 56 + 14 = 70 books in total. Therefore, Megan has a total of 70 books.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of apples ordered by the cafeteria, which is 25 + 17 = 42 apples. Next, we need to find out how many apples each student would get if only 10 students wanted fruit. To do this, we divide the total number of apples by the number of students: 42 ÷ 10 = 4.2 apples per student. Since we can't have a fraction of an apple, we need to round down to the nearest whole number. Each student would get 4 apples. So, if only 10 students wanted fruit, they would need a total of 10 x 4 = 40 apples. Therefore, the cafeteria would end up with 42 - 40 = 2 extra apples.",
+            "pred_ans": "2",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: A pet store has 8 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find out how many birds are in each cage. We know that each cage has 2 parrots and 7 parakeets, so that's a total of 9 birds per cage. Next, we need to find out how many birds are in all of the cages combined. To do this, we can multiply the number of cages by the number of birds per cage: 8 cages x 9 birds per cage = 72 birds So the pet store has a total of 72 birds.",
+            "pred_ans": "72",
+            "gold_ans": "72"
+        },
+        {
+            "question": "Q: At lunch a waiter had 7 customers and 4 of them didn't leave a tip. If he got $9 each from the ones who did tip, how much money did he earn?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. The waiter had 7 customers in total. Out of these 7 customers, 4 didn't leave a tip. So, the number of customers who left a tip is 7 - 4 = 3. The waiter got $9 each from the customers who left a tip. So, the total amount of money he earned from these customers is 3 x $9 = $27. Therefore, the waiter earned $27 in total.",
+            "pred_ans": "27",
+            "gold_ans": "27"
+        }
+    ],
+    "inertia": 222.94924926757812
+}

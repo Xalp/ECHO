@@ -1,0 +1,125 @@
+{
+    "demo": [
+        {
+            "question": "Q: What might you need to do cleaning? Answer Choices: (A) sing a song (B) neatness (C) allergies (D) healthy living (E) using water\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what needs to be cleaned. Is it a room, a surface, or an object? Once we know that, we can determine what tools and materials we need to clean it. For example, if we are cleaning a room, we might need a broom, dustpan, vacuum cleaner, and cleaning solution. Next, we need to consider any allergies or sensitivities that we or others may have. If we are allergic to certain cleaning products or dust, we need to choose alternative products or take precautions such as wearing a mask or gloves. We also need to consider the importance of neatness and healthy living. A clean environment promotes good health and well-being, and a neat and organized space can help us be more productive and focused. Finally, using water is often an important part of cleaning, but it's not always necessary. Some surfaces or objects may require dry cleaning methods or specialized cleaning solutions.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where might it be hard to get furniture to? Answer Choices: (A) apartment (B) loft (C) store (D) rug (E) stairs\nA:",
+            "rationale": "Let's think step by step. If we consider the options given, it is unlikely that it would be hard to get furniture to a store or a rug. However, it could be difficult to get furniture to an apartment or a loft if there are narrow hallways or doorways that the furniture cannot fit through.",
+            "pred_ans": "E",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What kind of feelings does buying presents for others create? Answer Choices: (A) tears (B) please (C) like (D) thank (E) make happy\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. The question is asking about the feelings that buying presents for others creates. Next, we can eliminate answer choices that don't make sense. For example, \"tears\" doesn't make sense because buying presents for others usually doesn't make them cry. We can also eliminate answer choices that are too similar. \"Please\" and \"like\" are both positive emotions, so we can assume that only one of them is correct. That leaves us with \"thank\" and \"make happy.\" Both of these are positive emotions that could be associated with buying presents for others. However, \"make happy\" is a more common phrase and seems like a better fit for the question.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The audience listened to the orchestra play, where were they watching the performance? Answer Choices: (A) concert hall (B) museum (C) school (D) hockey game (E) sporting event\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what an orchestra is. An orchestra is a large group of musicians who play together on various instruments, usually including strings, woodwinds, brass, and percussion. Next, we need to consider the context of the sentence. The sentence mentions that the audience is listening to the orchestra play. This suggests that the orchestra is performing live in front of the audience. Based on this information, we can eliminate options (B), (C), (D), and (E) since they are not typically associated with live orchestra performances. Therefore, the correct answer is (A) concert hall, which is a venue specifically designed for live music performances, including orchestras.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What do you do when you need to get food? Answer Choices: (A) table (B) disneyland (C) refrigerators (D) pantry (E) shop\nA:",
+            "rationale": "Let's think step by step. First, you need to decide what kind of food you want to eat. Then, you can check if you have any food in your refrigerator or pantry. If you don't have any food or you want something specific that you don't have, you can go to a shop to buy groceries. Once you have the food, you can prepare it and set it on a table to eat. So, the answer is (E) shop.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Why would you take a bus to work? Answer Choices: (A) commute (B) flying (C) get somewhere (D) travel (E) go home\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"commute.\" Commute means to travel regularly between one's home and place of work or study. So, the answer to the question is (A) commute. People take a bus to work because it is a convenient and cost-effective way to commute. It saves them the hassle of driving in traffic, finding parking, and paying for gas and maintenance. Additionally, taking public transportation reduces traffic congestion and air pollution, making it a more sustainable option.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: How can someone die from eating hamburger? Answer Choices: (A) gas (B) getting full (C) mad cow disease (D) death (E) feel full\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that hamburgers are generally safe to eat if they are cooked properly and handled safely. However, there are some potential risks associated with eating hamburgers. One possible answer to the question is (C) mad cow disease. Mad cow disease, also known as bovine spongiform encephalopathy (BSE), is a rare but serious disease that can be transmitted to humans who eat contaminated beef products, including hamburgers. The disease affects the brain and nervous system and can be fatal. Another possible answer is (D) death, which could result from a severe allergic reaction to an ingredient in the hamburger, such as a food additive or a type of meat. In rare cases, food allergies can be life-threatening. Answer choices (A) and (E) are not accurate as they do not describe a direct cause of death from eating a hamburger. Answer choice (B) is also not accurate as getting full from eating a hamburger would not cause death.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where do all animals live? Answer Choices: (A) the moon (B) fairgrounds (C) surface of earth (D) meadow (E) zoos\nA:",
+            "rationale": "Let's think step by step. First, we can eliminate option A, the moon, as it is not a suitable environment for animals to live. Similarly, option B, fairgrounds, is not a natural habitat for animals. Option D, meadow, is a possible habitat for some animals, but not all. Finally, option E, zoos, is a man-made environment where animals are kept in captivity. Therefore, the correct answer is option C, the surface of the earth, as it is where most animals live in their natural habitats such as forests, oceans, deserts, and grasslands.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If I'm playing ball, I'm mostly trying to do what? Answer Choices: (A) losing (B) competition (C) having fun (D) win (E) injury\nA:",
+            "rationale": "Let's think step by step. When someone plays ball, they are usually trying to achieve a certain goal. One of the most common goals is to win the game. However, some people may play just for fun or to stay active. Losing is not usually the goal, but it can happen. Injury is also not a goal, but it is a risk that comes with playing sports. So, the most likely answer is (D) win, but (C) having fun could also be a valid answer depending on the individual's motivation for playing.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where do you go on a night out before going to the bar? Answer Choices: (A) new york city (B) las vegas (C) restaurant (D) nightclub (E) park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be asking where someone might go before going to a bar on a night out. Next, we can eliminate answer choices that don't make sense. Option A and B are cities, so they don't fit the question. Option D is also unlikely, as a nightclub is often a destination in itself rather than a stop before going to a bar. That leaves us with options C and E. Going to a restaurant for dinner before heading to a bar is a common choice, so option C seems like a good answer. Option E, going to a park, is less likely as it doesn't really fit the context of a night out before going to a bar.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what? Answer Choices: (A) bed away from home (B) wwii bunker (C) resort (D) las vegas (E) city\nA:",
+            "rationale": "Let's think step by step. The question mentions a farm, which implies that the person was in a rural area. The question also mentions that the person stayed in a hotel, which suggests that they were in a more urban area. Option (E) city seems like the most likely answer, as cities typically have more hotels than rural areas. Option (A) bed away from home could also be a possibility, but it is not as specific as option (E). Option (B) WWII bunker and option (C) resort seem unlikely, as they do not fit the context of the question. Option (D) Las Vegas is possible, but it is not necessarily the only option.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What does the sky do before a rain? Answer Choices: (A) appear beautiful (B) appear blue (C) shows a rainbow (D) rain water (E) cloud over\nA:",
+            "rationale": "Let's think step by step. Before rain, the sky usually becomes cloudy and dark. So, the correct answer would be (E) cloud over.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        }
+    ],
+    "inertia": 703.7030639648438
+}

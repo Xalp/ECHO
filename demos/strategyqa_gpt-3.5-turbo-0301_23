@@ -1,0 +1,143 @@
+{
+    "demo": [
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Mary, mother of Jesus have hypothetically prayed to Artemis if she was Greek?\nA:",
+            "rationale": "Let's think step by step. First, we need to establish that Mary was a Jewish woman, not a Greek woman. Therefore, it is unlikely that she would have prayed to Artemis, who was a Greek goddess. Secondly, Judaism is a monotheistic religion, meaning that they believe in one God. Therefore, Mary would not have prayed to any other gods or goddesses, including Artemis. In conclusion, it is highly unlikely that Mary, mother of Jesus, would have hypothetically prayed to Artemis if she was Greek.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can the Very Large Telescope observe the largest mountain on Earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what the largest mountain on Earth is. Mount Everest is the tallest mountain on Earth, but if we consider the mountain with the largest base, then Mauna Kea in Hawaii is the largest. Next, we need to determine if the Very Large Telescope (VLT) is capable of observing mountains on Earth. The VLT is a ground-based telescope located in Chile that is primarily used for astronomical observations. While it is possible for the VLT to observe objects on Earth, it is not its primary function and there may be limitations to what it can observe. Finally, even if the VLT is capable of observing mountains on Earth, it is unlikely that it would be able to observe the largest mountain on Earth due to its distance from Chile and the fact that it is located on the opposite side of the planet. Therefore, it is unlikely that the VLT can observe the largest mountain on Earth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can a Goblin shark hypothetically ride a bike if it had limbs?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the physical characteristics of a Goblin shark. Goblin sharks are deep-sea creatures that have a long, flattened snout and a protruding jaw with sharp teeth. They do not have limbs or fins that resemble those of land animals. Assuming that a Goblin shark had limbs that were capable of pedaling a bike, it would still face several challenges. The first challenge would be the shark's body shape, which is not designed for sitting on a bike seat. The second challenge would be the shark's weight, which would make it difficult to balance on a bike. Therefore, it is highly unlikely that a Goblin shark could ride a bike even if it had limbs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is the current Chief Justice of the United States forbidden from buying alcohol?\nA:",
+            "rationale": "Let's think step by step. There is no law or regulation that specifically forbids the Chief Justice of the United States from buying alcohol. However, it is possible that the Chief Justice may choose to abstain from alcohol due to personal or ethical reasons. Additionally, some states may have laws that restrict the sale of alcohol to certain individuals, such as those with certain criminal convictions or those under a certain age. Ultimately, it would depend on the specific circumstances and laws in place.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can second row of QWERTY keyboard spell Abdastartus's kingdom?\nA:",
+            "rationale": "Let's think step by step. Abdastartus's kingdom contains the letters A, B, D, S, T, R, U, and K. Looking at the second row of the QWERTY keyboard, we can see that it contains the letters A, S, D, F, G, H, J, K, L. So, we can spell Abdastartus's kingdom using the second row of the QWERTY keyboard by typing: ASDFJKL; (which corresponds to ABDSRTUK) However, we are missing the letter \"U\" in this sequence. Therefore, we cannot spell Abdastartus's kingdom using only the second row of the QWERTY keyboard.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the first Duke of Valentinois play a key role in the Hundred Years' War?\nA:",
+            "rationale": "Let's think step by step. The first Duke of Valentinois was Cesare Borgia, who lived in the late 15th and early 16th centuries. The Hundred Years' War, on the other hand, took place between 1337 and 1453, which was before Borgia's time. Therefore, it is unlikely that he played a key role in the Hundred Years' War.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you drown in a Swan Lake performance?\nA:",
+            "rationale": "Let's think step by step. Firstly, drowning is defined as suffocation due to being underwater and unable to breathe. Secondly, a Swan Lake performance is a ballet performance that takes place on a stage, typically with a shallow pool or lake as a prop. Therefore, it is highly unlikely that someone could drown in a Swan Lake performance as the water is typically shallow and the performers are trained professionals who know how to swim and perform safely in the water. Additionally, there are usually safety measures in place to prevent accidents from happening.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Amtrak operate four wheel vehicles?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I can help you with math problems. However, regarding your question, Amtrak is a passenger railroad service that operates trains, not four-wheel vehicles. They have locomotives and passenger cars that run on tracks.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a student in eleventh grade be unable to run for president of the United States?\nA:",
+            "rationale": "Let's think step by step. In order to run for president of the United States, a person must meet the following requirements: 1. Be a natural-born citizen of the United States 2. Be at least 35 years old 3. Have been a resident of the United States for at least 14 years Therefore, being in eleventh grade would not disqualify someone from running for president, as long as they meet the other requirements. However, it is highly unlikely that someone in eleventh grade would have the necessary experience and qualifications to run for president.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can a person be diagnosed with a Great Depression?\nA:",
+            "rationale": "Let's think step by step. The term \"Great Depression\" typically refers to a severe economic downturn that occurred in the 1930s. It is not a medical diagnosis for a person. However, a person can be diagnosed with depression, which is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities. Depression can be treated with therapy, medication, or a combination of both. It is important to seek professional help if you or someone you know is experiencing symptoms of depression.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Eminem perform well at the International Mathematical Olympiad?\nA:",
+            "rationale": "Let's think step by step. The International Mathematical Olympiad is a competition for high school students who excel in mathematics. Eminem, on the other hand, is a rapper and songwriter. While he may have some mathematical skills related to music production, it is unlikely that he would perform well at the International Mathematical Olympiad without significant preparation and training in advanced mathematics. However, it is important to note that anyone can improve their mathematical abilities with practice and dedication.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3395.190673828125
+}

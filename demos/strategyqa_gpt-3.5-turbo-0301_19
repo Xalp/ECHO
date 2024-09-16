@@ -1,0 +1,119 @@
+{
+    "demo": [
+        {
+            "question": "Q: Could B be mistaken for an Arabic numeral?\nA:",
+            "rationale": "Let's think step by step. B is a letter in the English alphabet and is not typically used as an Arabic numeral. However, if someone were to write B in a certain way, it could potentially be mistaken for the Arabic numeral 6. This is because the lowercase letter b has a similar shape to the numeral 6. However, in most cases, B would not be mistaken for an Arabic numeral.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would Rime of the Ancient Mariner make a good sonnet?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a sonnet is. A sonnet is a 14-line poem with a specific rhyme scheme and structure. It typically has ten syllables per line and follows either the Italian or English sonnet form. Next, we need to consider the content of \"Rime of the Ancient Mariner.\" It is a long narrative poem that tells the story of a sailor who kills an albatross and is cursed as a result. The poem explores themes of guilt, redemption, and the supernatural. Based on these factors, it is possible to adapt \"Rime of the Ancient Mariner\" into a sonnet, but it would require significant editing and restructuring of the original text. The narrative structure of the poem would need to be condensed and the language would need to be refined to fit the constraints of the sonnet form. Overall, while it is possible to create a sonnet based on \"Rime of the Ancient Mariner,\" it would be a challenging task that would require a skilled poet to execute effectively.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can you get a ride on Amtrak to the Underworld?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I cannot physically ride on Amtrak or any other mode of transportation. However, if you are asking whether Amtrak offers a route to the Underworld, the answer is no. The Underworld is a mythical place in various cultures and is not accessible through any physical means of transportation.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would drinking a glass of lemonade provide Vitamin C?\nA:",
+            "rationale": "Let's think step by step. Yes, drinking a glass of lemonade can provide Vitamin C. Lemons are a good source of Vitamin C, and lemonade is made from lemons. However, the amount of Vitamin C in the lemonade will depend on the amount of lemon juice used to make it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify who the 40th president of the United States was. The 40th president was Ronald Reagan. Next, we need to determine if forwarding lolcats to friends was something that was possible during Reagan's presidency. Lolcats, or funny cat pictures with captions, became popular on the internet in the early 2000s, which was after Reagan's presidency ended in 1989. Therefore, it is unlikely that Reagan forwarded lolcats to his friends during his presidency. In conclusion, it is highly unlikely that the 40th president of the United States forwarded lolcats to his friends.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is the United States the largest exporter of Fair Trade products?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what Fair Trade products are. Fair Trade is a movement that aims to promote fair labor practices and sustainable farming methods in developing countries. Fair Trade products are goods that have been certified by Fair Trade organizations as meeting certain social, economic, and environmental standards. Now, to answer your question, we need to look at the data on Fair Trade exports. According to the latest available data from the World Fair Trade Organization, the largest Fair Trade exporter in the world is the Netherlands, followed by the United Kingdom and Germany. The United States is not among the top three Fair Trade exporters. However, it's worth noting that the United States is still a significant player in the Fair Trade movement, with many Fair Trade products being sold in American stores and online retailers. Additionally, some American companies are also involved in Fair Trade certification and advocacy efforts.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Were French people involved in the American Civil War?\nA:",
+            "rationale": "Let's think step by step. The American Civil War was fought between 1861 and 1865 between the Union (Northern states) and the Confederacy (Southern states). France did not officially participate in the war, but there were some French individuals who played a role in the conflict. For example, General Louis-Joseph de Montcalm-Grozon, a Frenchman who had previously served in the French army, fought for the Confederacy. Additionally, the French government was involved in diplomatic efforts to try to end the war, but they did not take any military action.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is the Mona Lisa in the same museum as the Venus de Milo?\nA:",
+            "rationale": "Let's think step by step. The Mona Lisa is located in the Louvre Museum in Paris, France. The Venus de Milo is also located in the Louvre Museum. Therefore, both artworks are in the same museum.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Arnold Schwarzenegger hypothetically defeat Hafþór Björnsson in a powerlifting competition if both are at their peak strength?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to define what we mean by \"powerlifting competition.\" Powerlifting typically consists of three lifts: the squat, bench press, and deadlift. So we can assume that this hypothetical competition would involve those three lifts. Next, we need to consider the strength of each competitor. Arnold Schwarzenegger was a bodybuilder and powerlifter in his prime, but he was not known for his strength in the squat, bench press, and deadlift specifically. Hafþór Björnsson, on the other hand, is a professional strongman and powerlifter who holds several world records in those lifts. Based on this information, it seems unlikely that Arnold Schwarzenegger would be able to defeat Hafþór Björnsson in a powerlifting competition if both were at their peak strength. However, it's worth noting that there are many factors that could come into play, such as technique, training, and mental toughness. So while it may be unlikely, it's not impossible.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can surgery prevent an existential crisis?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand what an existential crisis is. It's a period of intense questioning and uncertainty about the meaning and purpose of life. It's a psychological and philosophical issue, not a physical one. Surgery, on the other hand, is a medical procedure that involves cutting into the body to treat a physical ailment or condition. It's not designed to address psychological or philosophical issues. Therefore, it's unlikely that surgery could prevent an existential crisis. If someone is experiencing an existential crisis, they may benefit from seeking support from a mental health professional or engaging in self-reflection and exploration of their values and beliefs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3428.79931640625
+}

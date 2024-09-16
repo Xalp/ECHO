@@ -1,0 +1,185 @@
+{
+    "demo": [
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Rachel picked 4 apples from her tree. If the tree had 7 apples initially. How many apples are still there on the tree?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Rachel picked 4 apples from the tree, so we can subtract 4 from the initial number of apples on the tree: 7 - 4 = 3 Therefore, there are 3 apples still on the tree.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left How many pieces of candy did Bobby eat?\nA:",
+            "rationale": "Let's think step by step. First, we can start by subtracting the number of pieces of candy Bobby has left from the original amount he had: 32 - 20 = 12 This tells us that Bobby ate 12 pieces of candy.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars. How much money did Fred earn over the weekend?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money each person earned over the weekend. To do this, we can subtract the amount of money they had before the weekend from the amount they had after the weekend. Fred earned: 40 - 19 = 21 dollars Jason earned: 69 - 16 = 53 dollars Therefore, Fred earned 21 dollars over the weekend.",
+            "pred_ans": "21",
+            "gold_ans": "21"
+        },
+        {
+            "question": "Q: Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Rachel had to complete 8 pages of math homework. Next, we know that she had to complete 3 more pages of biology homework than she did for math. So, we can add 3 to the 8 pages of math homework to get the total number of pages of biology homework she had to complete: 8 + 3 = 11 Therefore, Rachel had to complete 8 pages of math homework and 11 pages of biology homework.",
+            "pred_ans": "8",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 14 cups of sugar for the recipe. She has already added 2 cups of sugar, so she still needs to add: 14 cups - 2 cups = 12 cups of sugar Therefore, Mary needs to add 12 more cups of sugar to complete the recipe.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day. How many sacks of ripe oranges will they have after 25 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many sacks of ripe oranges they harvest in 25 days. To do this, we can multiply the number of sacks harvested per day by the number of days: 82 sacks/day x 25 days = 2050 sacks of ripe oranges in 25 days Therefore, they will have 2050 sacks of ripe oranges after 25 days of harvest.",
+            "pred_ans": "2050",
+            "gold_ans": "2050"
+        },
+        {
+            "question": "Q: Julia played tag with 14 kids on tuesday. If she played tag with 8 more kids on monday than on tuesday How many kids did she play with on monday?\nA:",
+            "rationale": "Let's think step by step. First, we know that Julia played tag with 14 kids on Tuesday. Next, we know that she played with 8 more kids on Monday than on Tuesday. So, we can add 8 to 14 to find out how many kids she played with on Monday. 14 + 8 = 22 Therefore, Julia played tag with 22 kids on Monday.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Step 1: Start with the total number of crayons Paul got for his birthday, which is 253. Step 2: Subtract the number of crayons he lost or gave away, which is 70. Step 3: Perform the subtraction: 253 - 70 = 183. Step 4: Answer the question: Paul had 183 crayons left by the end of the school year.",
+            "pred_ans": "183",
+            "gold_ans": "183"
+        },
+        {
+            "question": "Q: There are 16 different books and 14 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies How many more books than movies are there in the ' crazy silly school ' series?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many books and movies are left in the series after reading 19 books and watching 13 movies. Number of books left = 16 - 19 = -3 (We can't have negative books, so we know that we have read all the books in the series) Number of movies left = 14 - 13 = 1 So, there are 3 more books than movies in the 'crazy silly school' series.",
+            "pred_ans": "3",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening. How many emails did Jack receive in the day?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add up the number of emails Jack received in the morning, afternoon, and evening. So, 6 (morning) + 3 (afternoon) + 5 (evening) = 14 Therefore, Jack received 14 emails in the day.",
+            "pred_ans": "14",
+            "gold_ans": "14"
+        },
+        {
+            "question": "Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many children got off the bus. We know that there were 28 children on the bus before the stop, and 82 got on, so there were 28 + 82 = 110 children on the bus at the stop. Next, we subtract the number of children on the bus after the stop (30) from the number of children on the bus at the stop (110) to find out how many got off: 110 - 30 = 80. Therefore, 80 children got off the bus. Finally, we subtract the number of children who got off the bus (80) from the number of children who got on the bus (82) to find out how many more got on than got off: 82 - 80 = 2. Therefore, 2 more children got on the bus than got off.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: 44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening. How many more campers went rowing in the morning than in the afternoon?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many campers went rowing in the morning minus how many campers went rowing in the afternoon. To do this, we can subtract the number of campers who went rowing in the afternoon from the number of campers who went rowing in the morning: 44 - 39 = 5 Therefore, 5 more campers went rowing in the morning than in the afternoon.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese. How many more hours does he spend on learning chinese than he does on learning english?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the number of hours Ryan spends on learning Chinese and English. To do this, we can subtract the number of hours he spends on learning English from the number of hours he spends on learning Chinese: 7 hours (Chinese) - 6 hours (English) = 1 hour Therefore, Ryan spends 1 more hour on learning Chinese than he does on learning English.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: Jake has 7 fewer peaches than Steven who has 14 more peaches than Jill. Steven has 15 peaches. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we know that Steven has 14 more peaches than Jill, and we also know that Steven has 15 peaches. So, we can use this information to find out how many peaches Jill has. If Steven has 15 peaches and 14 more than Jill, then Jill has 15 - 14 = 1 peach. Now that we know Jill has 1 peach, we can use the first piece of information to find out how many peaches Jake has. If Jake has 7 fewer peaches than Steven, and Steven has 15 peaches, then Jake has 15 - 7 = 8 peaches. Therefore, Jake has 8 peaches.",
+            "pred_ans": "8",
+            "gold_ans": "8"
+        },
+        {
+            "question": "Q: Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house. How many more blocks did he use to build the tower than he did to build the house?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many blocks Randy used to build the tower minus how many blocks he used to build the house. Tower blocks: 33 House blocks: 13 33 - 13 = 20 Therefore, Randy used 20 more blocks to build the tower than he did to build the house.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of birds that were on the fence before the others joined. We know that there were 6 birds on the fence initially. Next, we need to add the number of birds that joined them. We are told that 4 more birds and 8 more storks came to join them. So, the total number of birds that joined them is 4 + 8 = 12. Finally, we can add the number of birds that were already on the fence to the number of birds that joined them to find the total number of birds on the fence. 6 (initial birds) + 12 (birds that joined) = 18 Therefore, there are 18 birds sitting on the fence.",
+            "pred_ans": "18",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?\nA:",
+            "rationale": "Let's think step by step. Step 1: We know that Zachary did 59 push-ups and 44 crunches. Step 2: We also know that David did 19 more push-ups than Zachary, so we can add 19 to 59 to get David's push-up count: 59 + 19 = 78 push-ups. Step 3: We also know that David did 27 less crunches than Zachary, so we can subtract 27 from 44 to get David's crunch count: 44 - 27 = 17 crunches. Step 4: Therefore, David did 78 push-ups and 17 crunches.",
+            "pred_ans": "78",
+            "gold_ans": "78"
+        },
+        {
+            "question": "Q: A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we can add up the number of bottles of each type of soda: 57 regular soda bottles + 26 diet soda bottles + 27 lite soda bottles = 110 total soda bottles So the grocery store had a total of 110 bottles of soda.",
+            "pred_ans": "110",
+            "gold_ans": "110"
+        },
+        {
+            "question": "Q: In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many more girls than boys does the school have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of girls in the school after 465 more girls joined. 632 (original number of girls) + 465 (new girls) = 1097 girls Next, we can find the difference between the number of girls and boys: 1097 (girls) - 410 (boys) = 687 Therefore, the school has 687 more girls than boys.",
+            "pred_ans": "687",
+            "gold_ans": "687"
+        },
+        {
+            "question": "Q: Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park How many more balloons did Jake have than Allan in the park?\nA:",
+            "rationale": "Let's think step by step. Allan brought 2 balloons to the park and then bought 3 more balloons there, so he had a total of 2 + 3 = 5 balloons in the park. Jake brought 6 balloons to the park, so he had 6 - 5 = 1 more balloon than Allan in the park. Therefore, Jake had 1 more balloon than Allan in the park.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries How many cakes would baker still have?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of pastries sold from the original number of pastries: 61 pastries - 44 pastries = 17 pastries Next, we need to subtract the number of cakes sold from the original number of cakes: 167 cakes - 108 cakes = 59 cakes Therefore, Baker would still have 59 cakes left.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: Katie had 84 new games and 19 old games. Her friends had 8 new games and 69 old games. How many new games do they have together?\nA:",
+            "rationale": "Let's think step by step. First, we need to add up the number of new games Katie and her friends have. Katie has 84 new games and her friends have 8 new games, so together they have: 84 + 8 = 92 new games Therefore, Katie and her friends have a total of 92 new games together.",
+            "pred_ans": "92",
+            "gold_ans": "92"
+        },
+        {
+            "question": "Q: Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the marbles Josh found to his collection: 22 + 13 = 35 Next, we need to subtract the marbles he lost: 35 - 5 = 30 Therefore, Josh now has 30 marbles in his collection.",
+            "pred_ans": "30",
+            "gold_ans": "30"
+        },
+        {
+            "question": "Q: Because of the decision Sofia asked the students to suggest specific types of food. If 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes How many more students suggested mashed potatoes than those that suggested bacon?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the difference between the number of students who suggested mashed potatoes and those who suggested bacon. To do this, we can subtract the number of students who suggested bacon from the number of students who suggested mashed potatoes: 257 - 120 = 137 Therefore, 137 more students suggested mashed potatoes than those who suggested bacon.",
+            "pred_ans": "137",
+            "gold_ans": "137"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: After resting they decided to go for a swim. The depth of the water is 16 times Ron's height. Dean is 9 feet taller than Ron. If Ron stands at 13 feet How deep was the water?\nA:",
+            "rationale": "Let's think step by step. First, we need to find Dean's height. We know that Dean is 9 feet taller than Ron, who is 13 feet tall. So, Dean's height is: 13 + 9 = 22 feet Next, we need to find the depth of the water, which is 16 times Ron's height. Ron's height is 13 feet, so: Depth of water = 16 x 13 = 208 feet Therefore, the depth of the water is 208 feet.",
+            "pred_ans": "208",
+            "gold_ans": "208"
+        },
+        {
+            "question": "Q: There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many roses Jessica added to the vase. We know that she cut 8 roses from her garden, so we can add 8 to the original 10 roses in the vase: 10 + 8 = 18 Therefore, there are now 18 roses in the vase.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        }
+    ],
+    "inertia": 269.13818359375
+}

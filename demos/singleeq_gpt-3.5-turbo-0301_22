@@ -1,0 +1,137 @@
+{
+    "demo": [
+        {
+            "question": "Q: While making pastries, a bakery used 0.2 of a bag of wheat flour and 0.1 of a bag of white flour. How many bags of flour did the bakery use in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The bakery used 0.2 of a bag of wheat flour and 0.1 of a bag of white flour. To find the total amount of flour used, we need to add these two amounts together. 0.2 + 0.1 = 0.3 So the bakery used 0.3 bags of flour in total.",
+            "pred_ans": "0.3",
+            "gold_ans": "0.3"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Melanie has 3 baseball cards, Benny has 3 baseball cards, Sally has 3 baseball cards, and Jessica has 3 baseball cards. To find out how many baseball cards they have in all, we can add up the number of cards each person has: 3 + 3 + 3 + 3 = 12 So, in total, they have 12 baseball cards.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of quarters Sara has after her dad gave her 49 more quarters. To do this, we can add the number of quarters she had before to the number of quarters her dad gave her. So, the total number of quarters Sara has now is: 21 + 49 = 70 Therefore, Sara has 70 quarters now.",
+            "pred_ans": "70",
+            "gold_ans": "70"
+        },
+        {
+            "question": "Q: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of pencils that Mike placed in the drawer to the original number of pencils in the drawer. 41 + 30 = 71 Therefore, there are now 71 pencils in the drawer in total.",
+            "pred_ans": "71",
+            "gold_ans": "71"
+        },
+        {
+            "question": "Q: She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. How many boxes does she need?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many boxes are needed to hold all the crayons. To do this, we can divide the total number of crayons by the number of crayons that can fit in each box. So, 80 crayons ÷ 8 crayons per box = 10 boxes Therefore, she needs 10 boxes to hold all her crayons.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pears Alyssa picked and the number of pears Nancy picked. 42 + 17 = 59 So, in total, they picked 59 pears.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: A restaurant served 6 cakes during lunch and 9 during dinner today. How many cakes were served today ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of cakes served during lunch and dinner. 6 cakes during lunch + 9 cakes during dinner = 15 cakes So, the restaurant served 15 cakes today.",
+            "pred_ans": "15",
+            "gold_ans": "15"
+        },
+        {
+            "question": "Q: There were 28 bales of hay in the barn. Tim stacked more bales in the barn today. There are now 54 bales of hay in the barn. How many bales did he store in the barn ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. We know that there were 28 bales of hay in the barn before Tim stacked more bales today. And now there are 54 bales of hay in the barn. So, we need to find out how many bales Tim stacked in the barn. To do that, we can subtract the initial number of bales from the current number of bales. 54 - 28 = 26 Therefore, Tim stacked 26 bales of hay in the barn today.",
+            "pred_ans": "26",
+            "gold_ans": "26"
+        },
+        {
+            "question": "Q: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we add the cost of the trumpet and the song book: $145.16 + $5.84 = $151 So Mike spent $151 at the music store.",
+            "pred_ans": "151",
+            "gold_ans": "151"
+        },
+        {
+            "question": "Q: Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. How many blue marbles does Mary have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. So, Mary has 2 x 5 = 10 more blue marbles than Dan. Therefore, Mary has 5 + 10 = 15 blue marbles.",
+            "pred_ans": "15",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: At the beach, Miki and her sister both built sandcastles and then measured their heights. Miki's sandcastle was 0.8333333333333334 of a foot tall and her sister's was 0.5 of a foot tall. How much taller was Miki's sandcastle than her sister's?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the heights of the two sandcastles. We can do this by subtracting the height of Miki's sister's sandcastle from the height of Miki's sandcastle. 0.8333333333333334 - 0.5 = 0.3333333333333334 So, Miki's sandcastle is 0.3333333333333334 feet taller than her sister's sandcastle.",
+            "pred_ans": "0.3333333333333334",
+            "gold_ans": "0.3333333333333333"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many calories are in one candy bar. We know that there are 31 calories in one candy bar. Next, we need to find out how many calories are in 11 candy bars. To do this, we can multiply the number of calories in one candy bar (31) by the number of candy bars we want to find the total calories for (11). So, 31 x 11 = 341. Therefore, there are 341 calories in 11 candy bars.",
+            "pred_ans": "341",
+            "gold_ans": "341"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Sandy grew 6 carrots. Sam grew 3 carrots. How many carrots did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to add the number of carrots Sandy grew (6) to the number of carrots Sam grew (3). 6 + 3 = 9 So, they grew a total of 9 carrots.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Sara has 9 dozen golf balls. How many golf balls does she have ?\nA:",
+            "rationale": "Let's think step by step. One dozen is equal to 12, so 9 dozen is equal to 9 x 12 = 108. Therefore, Sara has 108 golf balls.",
+            "pred_ans": "108",
+            "gold_ans": "108"
+        },
+        {
+            "question": "Q: Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many black balloons Mary has. We know that Mary has 4 times more black balloons than Nancy, so we can start by multiplying Nancy's number of black balloons by 4. 4 x 7 = 28 So Mary has 28 black balloons. Therefore, Mary has 28 black balloons now.",
+            "pred_ans": "28",
+            "gold_ans": "28"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Sandy worked 45 hours in the last 5 days. Assuming that she worked the same amount of hours each day, how long did she work each day ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we can start by finding the average number of hours Sandy worked per day. We can do this by dividing the total number of hours she worked (45) by the number of days she worked (5): 45 ÷ 5 = 9 So Sandy worked an average of 9 hours per day. Next, we can assume that she worked the same amount of hours each day. Therefore, she worked 9 hours each day.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        }
+    ],
+    "inertia": 205.21543884277344
+}

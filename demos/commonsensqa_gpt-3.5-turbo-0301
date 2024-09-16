@@ -1,0 +1,46 @@
+{
+    "demo": [
+        {
+            "question": "Q: If you are hungry and going fishing, why would you be going fishing? Answer Choices: (A) to see the fish (B) have fun (C) catching fish (D) wet clothes (E) killing\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the purpose of fishing. Fishing is typically done to catch fish for food or sport. So, if someone is hungry and going fishing, it is likely that they are going fishing to catch fish to eat. Therefore, the answer would be (C) catching fish.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: There was many a bottle to choose from behind the cashier where? Answer Choices: (A) grocery store (B) diaper bag (C) gas station (D) liquor store (E) medicine cabinet\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where there were many bottles to choose from behind the cashier. Next, we can eliminate answer choices that don't make sense. For example, (B) diaper bag and (E) medicine cabinet don't seem like places where there would be many bottles to choose from behind a cashier. We can also use our knowledge and common sense to eliminate answer choices. For example, a grocery store might have many bottles, but they would likely be on the shelves, not behind the cashier. That leaves us with (C) gas station and (D) liquor store. Both of these places could have many bottles behind the cashier. However, based on the context of the question, it seems more likely that the answer is (D) liquor store.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If a person were going to bed, what would be their goal? Answer Choices: (A) lazy (B) insomnia (C) rest (D) falling asleep (E) dreaming of\nA:",
+            "rationale": "Let's think step by step. When a person goes to bed, their goal is usually to get some rest and fall asleep. So the correct answer would be (C) rest and (D) falling asleep.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        }
+    ]
+}

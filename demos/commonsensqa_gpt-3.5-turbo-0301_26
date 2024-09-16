@@ -1,0 +1,161 @@
+{
+    "demo": [
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Why would you take a bus to work? Answer Choices: (A) commute (B) flying (C) get somewhere (D) travel (E) go home\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"commute.\" Commute means to travel regularly between one's home and place of work or study. So, the answer to the question is (A) commute. People take a bus to work because it is a convenient and cost-effective way to commute. It saves them the hassle of driving in traffic, finding parking, and paying for gas and maintenance. Additionally, taking public transportation reduces traffic congestion and air pollution, making it a more sustainable option.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where does a child likely sit at a desk? Answer Choices: (A) furniture store (B) schoolroom (C) patio (D) office building (E) library\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a child is likely to sit at a desk. Next, we can eliminate answer choices that are unlikely to have desks for children to sit at. Option A, furniture store, is unlikely to have desks for children to sit at. Option C, patio, is also unlikely to have a desk for a child to sit at. Option D, office building, may have desks, but they are more likely to be used by adults. Option E, library, may have desks for children, but it is less likely than option B, schoolroom. Therefore, the most likely answer is B, schoolroom.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: If you own a cat where is the last place you'd want to find it? Answer Choices: (A) trouble (B) dog's mouth (C) backyard (D) nature (E) home\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but a riddle. The answer is (B) dog's mouth, as it implies that the cat has been caught and possibly injured or killed by a dog.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What must someone do before they shop? Answer Choices: (A) get money (B) have money (C) bring cash (D) go to market (E) bring cash\nA:",
+            "rationale": "Let's think step by step. Before someone shops, they need to have a plan of what they want to buy and how much money they have available to spend. So, the answer could be (A) get money or (B) have money, depending on whether they need to withdraw cash or if they already have the funds available. Option (C) bring cash is also a possibility if they prefer to use cash instead of other payment methods. Option (D) go to market is not necessarily a requirement as shopping can also be done online or in other stores. Therefore, the most appropriate answer would be (A) get money or (B) have money.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: A person with digestion issues eats a meat-filled breakfast, what does he feel? Answer Choices: (A) heartburn (B) overeating (C) happiness (D) being satisfied (E) gain energy\nA:",
+            "rationale": "Let's think step by step. When a person with digestion issues eats a meat-filled breakfast, the following things happen: 1. The person's stomach produces more acid to break down the protein in the meat. 2. The person may experience bloating and discomfort due to the slow digestion of meat. 3. The person may feel a burning sensation in their chest due to acid reflux, which is commonly known as heartburn. Therefore, the correct answer is (A) heartburn.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What do you do when you need to get food? Answer Choices: (A) table (B) disneyland (C) refrigerators (D) pantry (E) shop\nA:",
+            "rationale": "Let's think step by step. First, you need to decide what kind of food you want to eat. Then, you can check if you have any food in your refrigerator or pantry. If you don't have any food or you want something specific that you don't have, you can go to a shop to buy groceries. Once you have the food, you can prepare it and set it on a table to eat. So, the answer is (E) shop.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What do you want someone to do when you illustrate point? Answer Choices: (A) did not understand (B) accepting (C) make clear (D) understood (E) understanding\nA:",
+            "rationale": "Let's think step by step. First, you want someone to pay attention to your illustration. Then, you want them to try to understand what you are trying to convey. If they did not understand, you may need to explain it in a different way or provide more examples. If they are accepting, it means they understand and agree with your point. If they make clear, it means they are helping you clarify your point. If they understood, it means they comprehended your point. And if they have understanding, it means they have a clear grasp of your point. So, to answer your question, when you illustrate a point, you want someone to understand it.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What happens when to ice when it is in the sun? Answer Choices: (A) carved (B) melted (C) ice cream (D) antarctica (E) sculptured\nA:",
+            "rationale": "Let's think step by step. When ice is exposed to the sun, it absorbs heat energy from the sun. This causes the ice to start melting and eventually turn into water. Therefore, the answer is (B) melted.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The audience listened to the orchestra play, where were they watching the performance? Answer Choices: (A) concert hall (B) museum (C) school (D) hockey game (E) sporting event\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what an orchestra is. An orchestra is a large group of musicians who play together on various instruments, usually including strings, woodwinds, brass, and percussion. Next, we need to consider the context of the sentence. The sentence mentions that the audience is listening to the orchestra play. This suggests that the orchestra is performing live in front of the audience. Based on this information, we can eliminate options (B), (C), (D), and (E) since they are not typically associated with live orchestra performances. Therefore, the correct answer is (A) concert hall, which is a venue specifically designed for live music performances, including orchestras.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where do you go on a night out before going to the bar? Answer Choices: (A) new york city (B) las vegas (C) restaurant (D) nightclub (E) park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be asking where someone might go before going to a bar on a night out. Next, we can eliminate answer choices that don't make sense. Option A and B are cities, so they don't fit the question. Option D is also unlikely, as a nightclub is often a destination in itself rather than a stop before going to a bar. That leaves us with options C and E. Going to a restaurant for dinner before heading to a bar is a common choice, so option C seems like a good answer. Option E, going to a park, is less likely as it doesn't really fit the context of a night out before going to a bar.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What would be necessary for getting in shape? Answer Choices: (A) good health (B) exercise (C) muscle tone (D) sweat (E) feel better\nA:",
+            "rationale": "Let's think step by step. First, it is important to have good health in order to start any exercise program. This means that you should consult with a doctor to make sure that you are physically able to exercise. Second, exercise is necessary to get in shape. This can include a variety of activities such as cardio, strength training, and flexibility exercises. Third, building muscle tone can also be helpful in getting in shape. This can be achieved through strength training exercises. Fourth, sweating is a natural part of exercise and can be a sign that you are working hard and burning calories. Finally, feeling better is often a result of regular exercise and can be a great motivator to continue with your fitness routine.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A child wants to play, what would they likely want? Answer Choices: (A) fall down (B) breathe (C) play tag (D) be dismembered by a chainsaw (E) become adult\nA:",
+            "rationale": "Let's think step by step. First, we can eliminate options (B) and (E) as they are not related to playing. Option (D) is inappropriate and violent, so we can eliminate it as well. That leaves us with options (A) and (C). While some children may enjoy falling down, playing tag is a more common and popular activity among children. Therefore, the likely answer is (C) play tag.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If you're reading a newspaper from another country what are you doing? Answer Choices: (A) learning about world (B) education (C) get angry (D) concern (E) eat cake\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what reading a newspaper means. Reading a newspaper involves looking at written words and images on a printed or digital page to gain information about current events, news, and other topics. Next, we need to understand what it means to read a newspaper from another country. This means that the newspaper is from a different country than the one the reader is currently in. Based on this information, we can eliminate answer choices (B), (C), and (E) as they do not relate to the act of reading a newspaper from another country. Answer choice (D) \"concern\" could be a possible answer, as reading a newspaper from another country may cause the reader to become concerned about the events happening in that country. However, the best answer choice is (A) \"learning about the world\" as reading a newspaper from another country provides the reader with information about events and issues happening in other parts of the world, which can broaden their knowledge and understanding of global affairs.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: The family finished dinner, the child's chore was to load the dirty dishes where? Answer Choices: (A) restaurant kitchen (B) dishwasher (C) son's room (D) cabinet (E) party\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the child's chore was. The question tells us that the child's chore was to load the dirty dishes. Next, we need to determine where the child should load the dirty dishes. We can eliminate options (A), (C), and (E) because they are not logical places to put dirty dishes. That leaves us with options (B) and (D). The most likely answer is (B) dishwasher, as that is where dirty dishes are typically loaded after a meal.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Kissing is normally an activity reserved for your romantic what? Answer Choices: (A) anus (B) partner (C) arousal (D) trust (E) cooperation\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question type. This appears to be a multiple-choice question. Next, we need to read the question carefully and identify any keywords or clues that can help us determine the correct answer. In this case, the keyword is \"kissing\" and the question is asking for the type of person that kissing is normally reserved for. Looking at the answer choices, we can eliminate options A and C as they are not relevant to the question. Option D, \"trust,\" is a possible answer, but it doesn't fully answer the question as kissing can also be reserved for people you don't necessarily trust. That leaves us with options B and E. Option B, \"partner,\" is the most likely answer as kissing is often associated with romantic relationships. Option E, \"cooperation,\" doesn't seem to fit the context of the question. Therefore, the correct answer is (B) partner.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        }
+    ],
+    "inertia": 684.4776611328125
+}

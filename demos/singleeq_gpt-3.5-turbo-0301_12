@@ -1,0 +1,77 @@
+{
+    "demo": [
+        {
+            "question": "Q: Nancy has 9 five dollars bills.  How much money does she have ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Nancy has 9 five dollar bills. So, we can start by multiplying 9 by 5 to find out how much money she has in total. 9 x 5 = 45 Therefore, Nancy has $45 in total.",
+            "pred_ans": "45",
+            "gold_ans": "45"
+        },
+        {
+            "question": "Q: Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?\nA:",
+            "rationale": "Let's think step by step. First, we can find out how many books Bryan has in one bookshelf by multiplying the number of books in each bookshelf by the number of bookshelves: 56 books/bookshelf x 9 bookshelves = 504 books So Bryan has 504 books in total.",
+            "pred_ans": "504",
+            "gold_ans": "504"
+        },
+        {
+            "question": "Q: Jason has 3 Pokemon cards. Benny bought 2 of Jason's  Pokemon cards. How many Pokemon cards does Jason have now ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many Pokemon cards Jason has after Benny bought 2 of them. If Jason had 3 Pokemon cards and Benny bought 2 of them, then Jason would have 1 Pokemon card left. Therefore, Jason has 1 Pokemon card now.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. We know that Alyssa attended 13 hockey games out of 31 total games played by her high school team. To find out how many games she missed, we can subtract the number of games she attended from the total number of games played: 31 - 13 = 18 Therefore, Alyssa missed 18 hockey games.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. First, we need to add the number of walnut trees currently in the park (107) to the number of walnut trees the workers will plant today (104). So, 107 + 104 = 211 Therefore, the park will have 211 walnut trees when the workers are finished planting.",
+            "pred_ans": "211",
+            "gold_ans": "211"
+        },
+        {
+            "question": "Q: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of marbles Dan gave to Mary from the total number of marbles he had before giving any away. 64 - 14 = 50 Therefore, Dan now has 50 violet marbles.",
+            "pred_ans": "50",
+            "gold_ans": "50"
+        },
+        {
+            "question": "Q: On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus ?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of students who went on the trip. We know that 375 students went on the trip, and 4 of them traveled in cars. So, the total number of students who traveled by bus is: 375 - 4 = 371 Next, we need to find out how many students were in each bus. We know that there were 7 buses in total, so we can divide the total number of students who traveled by bus by the number of buses: 371 ÷ 7 = 53 Therefore, there were 53 students in each bus.",
+            "pred_ans": "53",
+            "gold_ans": "53"
+        },
+        {
+            "question": "Q: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the weight of peanuts and raisins to find the total weight of snacks. 0.1 pounds (peanuts) + 0.4 pounds (raisins) = 0.5 pounds Therefore, Kelly bought 0.5 pounds of snacks in all.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+            "rationale": "Let's think step by step. Tom had 5 seashells initially. He gave 2 seashells to Jessica. So, the number of seashells Tom has now is: 5 - 2 = 3 Therefore, Tom now has 3 seashells.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to add the number of pears Alyssa picked and the number of pears Nancy picked. 42 + 17 = 59 So, in total, they picked 59 pears.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: A carpenter bought a piece of wood that was 0.41 meters long. Then she sawed 0.33 meters off the end. How long is the piece of wood now?\nA:",
+            "rationale": "Let's think step by step. First, we start with the original length of the wood, which is 0.41 meters. Next, we need to subtract the amount that was sawed off, which is 0.33 meters. So, the length of the wood now is: 0.41 meters - 0.33 meters = 0.08 meters Therefore, the piece of wood is now 0.08 meters long.",
+            "pred_ans": "0.08",
+            "gold_ans": "0.08"
+        },
+        {
+            "question": "Q: Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. First, we need to find the difference between the distance Stanley ran and walked. To do this, we can subtract the distance he walked from the distance he ran: 0.4 - 0.2 = 0.2 So Stanley ran 0.2 miles farther than he walked.",
+            "pred_ans": "0.2",
+            "gold_ans": "0.2"
+        }
+    ],
+    "inertia": 225.72018432617188
+}

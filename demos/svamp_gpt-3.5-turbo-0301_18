@@ -1,0 +1,113 @@
+{
+    "demo": [
+        {
+            "question": "Q: There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find out how many roses Jessica added to the vase. We know that she cut 8 roses from her garden, so we can add 8 to the original 10 roses in the vase: 10 + 8 = 18 Therefore, there are now 18 roses in the vase.",
+            "pred_ans": "18",
+            "gold_ans": "18"
+        },
+        {
+            "question": "Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many bottle caps and wrappers Danny had at first. We can do this by adding the number of bottle caps and wrappers he found at the park to the number he has in his collection now: Initial number of bottle caps = 22 + 17 = 39 Initial number of wrappers = 30 + 57 = 87 Therefore, Danny had 87 wrappers at first.",
+            "pred_ans": "87",
+            "gold_ans": "27"
+        },
+        {
+            "question": "Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total number of birds that were on the fence before the others joined. We know that there were 6 birds on the fence initially. Next, we need to add the number of birds that joined them. We are told that 4 more birds and 8 more storks came to join them. So, the total number of birds that joined them is 4 + 8 = 12. Finally, we can add the number of birds that were already on the fence to the number of birds that joined them to find the total number of birds on the fence. 6 (initial birds) + 12 (birds that joined) = 18 Therefore, there are 18 birds sitting on the fence.",
+            "pred_ans": "18",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left How many pieces of candy did Bobby eat?\nA:",
+            "rationale": "Let's think step by step. First, we can start by subtracting the number of pieces of candy Bobby has left from the original amount he had: 32 - 20 = 12 This tells us that Bobby ate 12 pieces of candy.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many children got off the bus. We know that there were 28 children on the bus before the stop, and 82 got on, so there were 28 + 82 = 110 children on the bus at the stop. Next, we subtract the number of children on the bus after the stop (30) from the number of children on the bus at the stop (110) to find out how many got off: 110 - 30 = 80. Therefore, 80 children got off the bus. Finally, we subtract the number of children who got off the bus (80) from the number of children who got on the bus (82) to find out how many more got on than got off: 82 - 80 = 2. Therefore, 2 more children got on the bus than got off.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Josh had 9 marbles in his collection. He lost some marbles. If he has 4 marbles now How many marbles did he lose?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Step 1: Start with the initial number of marbles Josh had in his collection, which is 9. Step 2: Subtract the current number of marbles Josh has, which is 4. Step 3: The result of the subtraction will give us the number of marbles Josh lost. So, 9 - 4 = 5. Therefore, Josh lost 5 marbles from his collection.",
+            "pred_ans": "5",
+            "gold_ans": "5"
+        },
+        {
+            "question": "Q: Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries How many cakes would baker still have?\nA:",
+            "rationale": "Let's think step by step. First, we need to subtract the number of pastries sold from the original number of pastries: 61 pastries - 44 pastries = 17 pastries Next, we need to subtract the number of cakes sold from the original number of cakes: 167 cakes - 108 cakes = 59 cakes Therefore, Baker would still have 59 cakes left.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        },
+        {
+            "question": "Q: Julia played tag with some kids on monday. She played tag with 14 kids on tuesday. If she played with a total of 16 kids How many kids did she play with on monday?\nA:",
+            "rationale": "Let's think step by step. First, we know that Julia played with 14 kids on Tuesday. Next, we know that the total number of kids she played with is 16. So, we can subtract 14 from 16 to find out how many kids she played with on Monday: 16 - 14 = 2 Therefore, Julia played with 2 kids on Monday.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Mary needs a total of 14 cups of sugar for the recipe. She has already added 2 cups of sugar, so she still needs to add: 14 cups - 2 cups = 12 cups of sugar Therefore, Mary needs to add 12 more cups of sugar to complete the recipe.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find out how many emails Jack received in the afternoon and evening combined. To do this, we can add the number of emails he received in the afternoon (5) to the number of emails he received in the evening (8): 5 + 8 = 13 So Jack received 13 emails in the afternoon and evening combined.",
+            "pred_ans": "13",
+            "gold_ans": "13"
+        },
+        {
+            "question": "Q: Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. Paco had 36 cookies. He gave 14 cookies to his friend, so he now has 36 - 14 = 22 cookies left. He also ate 10 cookies, so he now has 22 - 10 = 12 cookies left. Therefore, Paco has 12 cookies left.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        },
+        {
+            "question": "Q: There are 16 different books and 14 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies How many more books than movies are there in the ' crazy silly school ' series?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many books and movies are left in the series after reading 19 books and watching 13 movies. Number of books left = 16 - 19 = -3 (We can't have negative books, so we know that we have read all the books in the series) Number of movies left = 14 - 13 = 1 So, there are 3 more books than movies in the 'crazy silly school' series.",
+            "pred_ans": "3",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese. How many more hours does he spend on learning chinese than he does on learning english?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to find the difference between the number of hours Ryan spends on learning Chinese and English. To do this, we can subtract the number of hours he spends on learning English from the number of hours he spends on learning Chinese: 7 hours (Chinese) - 6 hours (English) = 1 hour Therefore, Ryan spends 1 more hour on learning Chinese than he does on learning English.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many apples Jake has. We know that Jake has 84 more apples than Steven, who has 52 apples. So, Jake has: 52 + 84 = 136 apples Next, we need to find out how many peaches Jake has. We know that Jake has 10 fewer peaches than Steven, who has 13 peaches. So, Jake has: 13 - 10 = 3 peaches Therefore, Jake has 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?\nA:",
+            "rationale": "Let's think step by step. Sure, let's solve this problem step by step. First, we need to find the total number of books Jerry had on the shelf before adding 10 more books. We know that he had 9 books on the shelf initially, so we add that to the number of books he added later: 9 + 10 = 19 So, Jerry had 19 books on the shelf after adding 10 more books.",
+            "pred_ans": "19",
+            "gold_ans": "19"
+        },
+        {
+            "question": "Q: The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches. How much farther did the frog jump than the grasshopper?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down step by step. Step 1: Find the difference between the two jumps. To find how much farther the frog jumped than the grasshopper, we need to subtract the length of the grasshopper's jump from the length of the frog's jump. 39 inches - 17 inches = 22 inches Therefore, the frog jumped 22 inches farther than the grasshopper.",
+            "pred_ans": "22",
+            "gold_ans": "22"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how many oranges are harvested in one day. We know that they harvest 66 sacks per day, and each sack contains 25 oranges. So, the total number of oranges harvested in one day is: 66 sacks/day x 25 oranges/sack = 1650 oranges/day Next, we need to find out how many oranges are harvested in 87 days. We can do this by multiplying the number of oranges harvested in one day by the number of days: 1650 oranges/day x 87 days = 143550 oranges Therefore, after 87 days of harvest, they will have 143550 oranges.",
+            "pred_ans": "143550",
+            "gold_ans": "143550"
+        },
+        {
+            "question": "Q: Last week Fred had 114 dollars and Jason had 22 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 78 dollars. How much money did Jason make over the weekend?\nA:",
+            "rationale": "Let's think step by step. First, we need to find out how much money Fred lost and how much money Jason gained. Fred lost 114 - 21 = 93 dollars. Jason gained 78 - 22 = 56 dollars. Therefore, Jason made 56 dollars over the weekend.",
+            "pred_ans": "56",
+            "gold_ans": "56"
+        }
+    ],
+    "inertia": 353.3037414550781
+}

@@ -1,0 +1,65 @@
+{
+    "demo": [
+        {
+            "question": "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify who the 40th president of the United States was. The 40th president was Ronald Reagan. Next, we need to determine if forwarding lolcats to friends was something that was possible during Reagan's presidency. Lolcats, or funny cat pictures with captions, became popular on the internet in the early 2000s, which was after Reagan's presidency ended in 1989. Therefore, it is unlikely that Reagan forwarded lolcats to his friends during his presidency. In conclusion, it is highly unlikely that the 40th president of the United States forwarded lolcats to his friends.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I don't have information about the burial plans of Queen Elizabeth. However, I can tell you that the Pantheon is a famous ancient temple in Rome that was converted into a church. It is the final resting place of many famous Italians, including the artist Raphael. It is unlikely that Queen Elizabeth will be buried there as she is not Italian and has no direct connection to the Pantheon.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can sunlight travel to the deepest part of the Black Sea?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to understand how sunlight travels through water. Sunlight is made up of different colors of light, and as it passes through water, these colors are absorbed at different rates. The first color to be absorbed is red, followed by orange, yellow, green, blue, indigo, and violet. Now, let's consider the Black Sea. The Black Sea is one of the largest inland seas in the world, and it is known for its deep, dark waters. The depth of the Black Sea varies, but it can reach up to 2,200 meters (7,200 feet) in some places. Given this information, we can conclude that sunlight cannot travel to the deepest part of the Black Sea. This is because the water is too deep and too dark for sunlight to penetrate all the way down. The red, orange, and yellow colors of light are absorbed within the first few meters of the water's surface, and the remaining colors are absorbed at deeper depths. By the time the sunlight reaches the bottom of the Black Sea, there is no visible light left. So, in short, sunlight cannot travel to the deepest part of the Black Sea.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does rock star Keith Richards play a captain of a boat in a movie?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I don't have access to information about every movie that Keith Richards has appeared in. However, I can try to help you find the answer to your question. First, we need to determine if Keith Richards has ever acted in a movie. The answer is yes, he has appeared in several movies, including \"Pirates of the Caribbean: At World's End\" and \"Pirates of the Caribbean: On Stranger Tides.\" Next, we need to determine if he played the captain of a boat in any of those movies. In \"Pirates of the Caribbean: At World's End,\" Richards played the role of Captain Teague, who is the father of the main character, Captain Jack Sparrow. While Captain Teague is a pirate, he is not the captain of a boat in the traditional sense. In \"Pirates of the Caribbean: On Stranger Tides,\" Richards reprised his role as Captain Teague, but he did not play the captain of a boat in that movie either. So, based on the information available, it does not appear that Keith Richards has played the captain of a boat in a movie.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can dessert be made with vegetables?\nA:",
+            "rationale": "Let's think step by step. Yes, dessert can be made with vegetables. There are many desserts that use vegetables as a main ingredient, such as carrot cake, zucchini bread, sweet potato pie, and pumpkin pie. These desserts are often sweetened with sugar or other sweeteners to balance out the natural savory flavor of the vegetables. Additionally, some vegetables like beets and sweet potatoes can be used to make natural food coloring for desserts. So, it is definitely possible to make delicious desserts using vegetables.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a goblin shark eat at Crossroads Kitchen?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a goblin shark is and what it eats. A goblin shark is a deep-sea shark that primarily feeds on fish and cephalopods. Next, we need to understand what Crossroads Kitchen is. Crossroads Kitchen is a vegan restaurant in Los Angeles that serves plant-based dishes. Based on this information, it is highly unlikely that a goblin shark would eat at Crossroads Kitchen since it primarily feeds on fish and cephalopods, which are not served at the restaurant. Additionally, since Crossroads Kitchen is a vegan restaurant, it does not serve any animal products, which would not be suitable for a goblin shark's diet.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3554.516357421875
+}

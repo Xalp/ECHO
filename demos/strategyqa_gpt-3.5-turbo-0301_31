@@ -1,0 +1,191 @@
+{
+    "demo": [
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Are queen bees unnecessary for growing apples?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand the role of queen bees in the pollination process. Queen bees are responsible for laying eggs, which hatch into worker bees. Worker bees are the ones that collect nectar and pollen from flowers, including apple blossoms. When worker bees collect pollen from apple blossoms, they transfer the pollen to other apple blossoms, which fertilizes the flowers and allows the apple tree to produce fruit. Without pollination, the apple tree would not produce fruit. So, to answer the question, queen bees are not directly necessary for growing apples, but they are essential for the pollination process that leads to apple growth. Without queen bees, there would be no worker bees to pollinate the apple blossoms, and the apple tree would not produce fruit.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Emma Stone pursue a higher education?\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I don't have access to Emma Stone's personal information. However, I can tell you that pursuing higher education is a personal choice and not everyone chooses to do so. Some people may choose to pursue a career in the entertainment industry without obtaining a higher education degree.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christopher Nolan indebted to Bob Kane?\nA:",
+            "rationale": "Let's think step by step. Christopher Nolan is a film director, producer, and screenwriter who is best known for his work on the Batman film trilogy, which includes Batman Begins, The Dark Knight, and The Dark Knight Rises. Bob Kane, on the other hand, is the creator of the Batman character, having first introduced him in Detective Comics #27 in 1939. While Nolan's Batman films are based on the Batman character created by Bob Kane, it is unclear whether Nolan is indebted to Kane in any way. Nolan has certainly paid homage to Kane's creation by including elements of the original Batman comics in his films, but it is unlikely that he owes any financial or legal debt to Kane or his estate. Ultimately, the relationship between Christopher Nolan and Bob Kane is one of creative inspiration and homage, rather than one of financial or legal obligation.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Elizabeth II reign over the Balearic Islands?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what \"reign\" means. \"Reign\" refers to the period of time during which a monarch rules over a country or territory. Next, we need to determine what the Balearic Islands are. The Balearic Islands are an archipelago located in the western Mediterranean Sea, near the eastern coast of the Iberian Peninsula. Finally, we need to determine if Elizabeth II, the current Queen of the United Kingdom, reigns over the Balearic Islands. The Balearic Islands are not part of the United Kingdom or any of its territories, so Elizabeth II does not reign over the Balearic Islands.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a northern fur seal pass a driving test?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I don't think this question is related to math. However, to answer your question, a northern fur seal is a marine mammal and does not have the ability to drive a vehicle. Therefore, it would not be able to pass a driving test.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Lionel Richie ever have dinner with Abraham Lincoln?\nA:",
+            "rationale": "Let's think step by step. There is no historical record of Lionel Richie ever having dinner with Abraham Lincoln. Lionel Richie was born in 1949, while Abraham Lincoln was assassinated in 1865. Therefore, it is impossible for them to have met and had dinner together.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could you drive a Rowe 550 to the 2008 Summer Olympics?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what a Rowe 550 is. After some research, it appears that a Rowe 550 is a type of vending machine. Next, we need to determine the location of the 2008 Summer Olympics. The 2008 Summer Olympics were held in Beijing, China. Based on this information, it is not possible to drive a vending machine to the 2008 Summer Olympics in Beijing. Vending machines are not designed for transportation and would not be able to travel the distance required to reach Beijing. Additionally, there would be no need for a vending machine at the Olympics as there would be plenty of food and beverage options available for athletes and spectators.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Was the son of Tsar Nicholas a daredevil?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I am not sure how this question is related to math. However, to answer your question, Tsar Nicholas II had five children, four daughters, and one son named Alexei. Alexei suffered from hemophilia, a genetic disorder that affects the body's ability to control blood clotting. There is no evidence to suggest that Alexei was a daredevil.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does the United States of America touch the Indian Ocean?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the location of the United States of America and the Indian Ocean. The United States is located in North America, while the Indian Ocean is located in the southern hemisphere, bordered by Africa, Asia, Australia, and Antarctica. Based on this information, we can conclude that the United States of America does not touch the Indian Ocean as they are located on different continents and are separated by thousands of miles of land and water.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Hades appear in a Disney Channel musical movie?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this is not a math problem. However, to answer your question, yes, Hades appears in the Disney Channel musical movie \"Descendants\" and its sequels.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could JPMorgan Chase give every American $10?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to know the total amount of money JPMorgan Chase has and the total number of Americans. According to Forbes, JPMorgan Chase's total assets were $2.7 trillion as of 2020. As of 2021, the estimated population of the United States is around 331 million people. If JPMorgan Chase were to give every American $10, they would need to distribute a total of $3.31 billion (331 million x $10). However, $3.31 billion is only a small fraction of JPMorgan Chase's total assets. Therefore, it is possible for JPMorgan Chase to give every American $10, but it would not significantly impact their financial standing.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Amazon afford The Mona Lisa?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the current value of The Mona Lisa. According to Forbes, it is estimated to be worth around $830 million. Next, we need to consider Amazon's financial situation. As of 2021, Amazon's net worth is around $1.7 trillion. Based on these numbers, it is technically possible for Amazon to afford The Mona Lisa. However, it is unlikely that they would choose to spend such a large portion of their assets on a single piece of art.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can monkeys use QWERTY keyboards?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a QWERTY keyboard is. It is a keyboard layout that is commonly used for English language typing. Next, we need to consider the physical abilities of monkeys. While monkeys are intelligent animals, they do not have the same level of fine motor skills as humans. They may struggle to accurately press individual keys on a keyboard. Additionally, monkeys may not have the cognitive ability to understand the purpose of a keyboard or how to use it to input information. Therefore, it is unlikely that monkeys would be able to effectively use a QWERTY keyboard.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a greyhound be able to outrun a greyhound bus?\nA:",
+            "rationale": "Let's think step by step. First, we need to know the average speed of a greyhound and a greyhound bus. According to Google, the average speed of a greyhound is around 45 miles per hour (mph). On the other hand, the average speed of a greyhound bus is around 60 mph. So, it seems that a greyhound bus would be able to outrun a greyhound in a race.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Alice's Adventures in Wonderland inspire Macbeth?\nA:",
+            "rationale": "Let's think step by step. There is no direct evidence to suggest that Alice's Adventures in Wonderland inspired Macbeth. Alice's Adventures in Wonderland is a children's novel written by Lewis Carroll, while Macbeth is a tragedy written by William Shakespeare. The two works are vastly different in terms of genre, style, and content. However, it is possible that both works were influenced by similar cultural and literary trends of their time. For example, both works explore themes of identity, reality, and the nature of power. Additionally, both works use fantastical elements to challenge the reader's perception of the world. Ultimately, while there may be some similarities between the two works, it is unlikely that Alice's Adventures in Wonderland directly inspired Macbeth.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Firefighters be included in a September 11th memorial?\nA:",
+            "rationale": "Let's think step by step. Yes, firefighters would be included in a September 11th memorial. The attacks on September 11th, 2001, resulted in the deaths of 343 firefighters who were responding to the World Trade Center. They are considered heroes and are honored in memorials and tributes to the victims of the attacks.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Were there footprints on the moon in 1960?\nA:",
+            "rationale": "Let's think step by step. First, the first manned mission to the moon was in 1969, not 1960. Second, during the Apollo missions, astronauts did leave footprints on the moon's surface.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Saturn named after king of gods in Greek mythology?\nA:",
+            "rationale": "Let's think step by step. Saturn is indeed named after the Roman god of agriculture and wealth, who was also known as Cronus in Greek mythology. Cronus was the son of Uranus and Gaia and was known for overthrowing his father and becoming the ruler of the universe. So, while Saturn is not directly named after the king of gods in Greek mythology, it is named after a figure from Roman mythology who shares many similarities with Cronus.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Al-Farabi ever meet Mohammed?\nA:",
+            "rationale": "Let's think step by step. Al-Farabi was born in 872 CE, while Prophet Mohammed passed away in 632 CE. Therefore, it is impossible for Al-Farabi to have met Mohammed in person. However, Al-Farabi was born in the Islamic Golden Age and lived in the same region where Islam was founded, so he would have been familiar with the teachings of Mohammed and the Islamic faith.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: If Martin Luther did one theses a day would he run out in half a year?\nA:",
+            "rationale": "Let's think step by step. Martin Luther wrote 95 theses in total. If he did one thesis a day, he would write 1 x 365 = 365 theses in a year. Therefore, he would write half of the theses in 6 months, which is 365/2 = 182.5 theses. Since he cannot write half a thesis, we can round down to 182 theses. So, if Martin Luther did one thesis a day, he would not run out in half a year, as he would still have 95 - 182 = -87 theses left to write.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is it foolish to stand on giraffe's head to see over Eiffel Tower?\nA:",
+            "rationale": "Let's think step by step. Firstly, it is not safe to stand on a giraffe's head as it can cause harm to the animal and to yourself. Secondly, even if you were able to stand on a giraffe's head, it would not be tall enough to see over the Eiffel Tower as the tower is approximately 324 meters tall. Therefore, it is not a practical solution to see over the Eiffel Tower. It would be better to find a higher vantage point or use binoculars.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could someone in a coma experience fear?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a coma is. A coma is a state of unconsciousness where a person is not aware of their surroundings and cannot respond to stimuli. Fear is an emotional response to a perceived threat or danger. It involves the activation of the sympathetic nervous system, which triggers the \"fight or flight\" response. Since a person in a coma is not conscious, they cannot experience emotions such as fear. However, it is possible that their body may still respond to stimuli that could be perceived as threatening, such as changes in heart rate or blood pressure. Overall, while a person in a coma cannot experience fear in the same way as a conscious person, their body may still respond to stimuli that could be perceived as threatening.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3335.144287109375
+}

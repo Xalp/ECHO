@@ -1,0 +1,77 @@
+{
+    "demo": [
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Was P. G. Wodehouse's favorite book The Hunger Games?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that P. G. Wodehouse was a British author who lived from 1881 to 1975. The Hunger Games, on the other hand, is a young adult dystopian novel written by Suzanne Collins and published in 2008. Given the significant time difference between the two, it is highly unlikely that The Hunger Games was P. G. Wodehouse's favorite book. Additionally, there is no evidence to suggest that he ever mentioned or wrote about The Hunger Games. Therefore, based on the available information, we cannot conclude that The Hunger Games was P. G. Wodehouse's favorite book.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I don't have information about the burial plans of Queen Elizabeth. However, I can tell you that the Pantheon is a famous ancient temple in Rome that was converted into a church. It is the final resting place of many famous Italians, including the artist Raphael. It is unlikely that Queen Elizabeth will be buried there as she is not Italian and has no direct connection to the Pantheon.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could a giant squid fit aboard the deck of the titanic?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the size of a giant squid. The largest giant squid ever recorded was about 43 feet long, including its tentacles. Next, we need to determine the size of the Titanic's deck. The Titanic was approximately 882 feet long and 92 feet wide. Based on these measurements, it is safe to say that a giant squid could fit aboard the deck of the Titanic, as it is much smaller than the ship itself. However, it is important to note that giant squids are deep-sea creatures and would not typically be found on the surface of the ocean where the Titanic was sailing.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would Eminem perform well at the International Mathematical Olympiad?\nA:",
+            "rationale": "Let's think step by step. The International Mathematical Olympiad is a competition for high school students who excel in mathematics. Eminem, on the other hand, is a rapper and songwriter. While he may have some mathematical skills related to music production, it is unlikely that he would perform well at the International Mathematical Olympiad without significant preparation and training in advanced mathematics. However, it is important to note that anyone can improve their mathematical abilities with practice and dedication.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could someone in Tokyo take a taxi to the The Metropolitan Museum of Art?\nA:",
+            "rationale": "Let's think step by step. Sure, we can break down the problem into smaller parts to find the answer. First, we need to determine the distance between Tokyo and The Metropolitan Museum of Art. The Metropolitan Museum of Art is located in New York City, USA, so we need to find the distance between Tokyo and New York City. The distance between Tokyo and New York City is approximately 6,735 miles (10,840 kilometers). Next, we need to determine if it is possible to take a taxi from Tokyo to The Metropolitan Museum of Art. Unfortunately, it is not possible to take a taxi from Tokyo to The Metropolitan Museum of Art as they are located on different continents and separated by an ocean. Therefore, it is not possible for someone in Tokyo to take a taxi to The Metropolitan Museum of Art.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3523.8291015625
+}

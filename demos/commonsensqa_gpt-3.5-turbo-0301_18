@@ -1,0 +1,113 @@
+{
+    "demo": [
+        {
+            "question": "Q: The computer was difficult for he to understand at the store, so what did she sign up for to learn more? Answer Choices: (A) classroom (B) facebook (C) school (D) apartment (E) demonstration\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what the person signed up for to learn more about the computer. Next, we can eliminate answer choices that don't make sense. Option (B) Facebook and option (D) apartment don't seem like logical choices for learning about computers. Option (E) demonstration could be a possibility, but it doesn't necessarily imply a structured learning environment. That leaves us with options (A) classroom and (C) school. Both of these options suggest a more formal setting for learning, but option (C) school is a broader term that could encompass a variety of classes and programs. Therefore, the most likely answer is (C) school.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: If there is a pond with trees around it, where it it likely located? Answer Choices: (A) ground (B) bathroom (C) forest (D) countryside (E) rural area\nA:",
+            "rationale": "Let's think step by step. First, we know that there is a pond. Ponds are typically found in areas with water, such as lakes, rivers, or wetlands. Next, we know that there are trees around the pond. Trees are commonly found in areas with a lot of vegetation, such as forests or wooded areas. Putting these two pieces of information together, it is likely that the pond with trees around it is located in a forest or wooded area.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What do you do when you're going to market? Answer Choices: (A) buy food (B) see other people (C) buying vegetables (D) buy a fat pig (E) traveling\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a riddle or a question with a hidden meaning. The answer choices suggest that the question is related to going to the market. Option A suggests buying food, which is a common activity at the market. Option B suggests seeing other people, which is also possible at the market. Option C suggests buying vegetables, which is a common item sold at the market. Option D suggests buying a fat pig, which is a common item sold at some markets. Option E suggests traveling, which may or may not be related to going to the market. Based on the answer choices, the most likely answer is (D) buy a fat pig, as it is a common item sold at some markets. However, without more context or information, it is difficult to determine the correct answer with certainty.",
+            "pred_ans": "D",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What do you do when you need to get food? Answer Choices: (A) table (B) disneyland (C) refrigerators (D) pantry (E) shop\nA:",
+            "rationale": "Let's think step by step. First, you need to decide what kind of food you want to eat. Then, you can check if you have any food in your refrigerator or pantry. If you don't have any food or you want something specific that you don't have, you can go to a shop to buy groceries. Once you have the food, you can prepare it and set it on a table to eat. So, the answer is (E) shop.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What would be necessary for getting in shape? Answer Choices: (A) good health (B) exercise (C) muscle tone (D) sweat (E) feel better\nA:",
+            "rationale": "Let's think step by step. First, it is important to have good health in order to start any exercise program. This means that you should consult with a doctor to make sure that you are physically able to exercise. Second, exercise is necessary to get in shape. This can include a variety of activities such as cardio, strength training, and flexibility exercises. Third, building muscle tone can also be helpful in getting in shape. This can be achieved through strength training exercises. Fourth, sweating is a natural part of exercise and can be a sign that you are working hard and burning calories. Finally, feeling better is often a result of regular exercise and can be a great motivator to continue with your fitness routine.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: How can someone die from eating hamburger? Answer Choices: (A) gas (B) getting full (C) mad cow disease (D) death (E) feel full\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that hamburgers are generally safe to eat if they are cooked properly and handled safely. However, there are some potential risks associated with eating hamburgers. One possible answer to the question is (C) mad cow disease. Mad cow disease, also known as bovine spongiform encephalopathy (BSE), is a rare but serious disease that can be transmitted to humans who eat contaminated beef products, including hamburgers. The disease affects the brain and nervous system and can be fatal. Another possible answer is (D) death, which could result from a severe allergic reaction to an ingredient in the hamburger, such as a food additive or a type of meat. In rare cases, food allergies can be life-threatening. Answer choices (A) and (E) are not accurate as they do not describe a direct cause of death from eating a hamburger. Answer choice (B) is also not accurate as getting full from eating a hamburger would not cause death.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If somebody is working at a reception desk, they are located at the front entrance of the what? Answer Choices: (A) motel (B) hostel (C) building (D) lobby (E) office park\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a reception desk is. A reception desk is a place where a receptionist sits to greet and assist visitors. Next, we need to identify where this reception desk is located. The question tells us that the person is located at the front entrance. Finally, we need to choose the answer choice that best fits the location of the reception desk. Based on this information, the correct answer is (D) lobby. A lobby is a room in a building where people can wait or meet before going to other parts of the building.",
+            "pred_ans": "D",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Where can you find a place to eat in an urban area close to local nightlife? Answer Choices: (A) city (B) downtown (C) mall (D) shopping center (E) own house\nA:",
+            "rationale": "Let's think step by step. First, we need to find a place in an urban area. This rules out option (E) own house. Next, we need a place that is close to local nightlife. This rules out options (C) mall and (D) shopping center, as they are not typically associated with nightlife. That leaves us with options (A) city and (B) downtown. Both of these options are typically associated with nightlife and have a variety of restaurants to choose from.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What does someone do to relax at night? Answer Choices: (A) find time (B) check mail (C) listen to music (D) go to bed (E) stop worrying\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what someone does to relax at night. Next, we can look at the answer choices and eliminate any that don't make sense. Option A, \"find time,\" doesn't really answer the question and is too vague. Option B, \"check mail,\" is not necessarily a relaxing activity and may even cause more stress. Option D, \"go to bed,\" is a possibility, but it doesn't necessarily indicate what someone does to relax before going to bed. That leaves us with options C and E. Option C, \"listen to music,\" is a common way for people to relax and unwind at night. Option E, \"stop worrying,\" is also a good answer as it suggests that someone needs to let go of their worries in order to relax.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What is the process of going somewhere? Answer Choices: (A) fire (B) energy (C) car (D) transporting (E) staying in place\nA:",
+            "rationale": "Let's think step by step. First, you need to decide where you want to go. Then, you need to determine the mode of transportation you will use to get there. This could be a car, bus, train, plane, or even walking or biking. Once you have chosen your mode of transportation, you need to physically move yourself to that mode of transportation. Then, you need to use that mode of transportation to travel to your destination. Finally, you need to physically move yourself from the mode of transportation to your final destination. The process of going somewhere involves a combination of decision-making, physical movement, and transportation. Therefore, the answer choice that best fits this process is (D) transporting.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on? Answer Choices: (A) mountain (B) fancy (C) sandplain (D) cliff (E) gorge\nA:",
+            "rationale": "Let's think step by step. First, we know that John rode on something that could move until it reached the ocean. This rules out options (D) cliff and (E) gorge, as they are stationary landforms. Option (A) mountain is also unlikely, as it would be difficult for John to ride on a mountain. Option (B) fancy doesn't make sense in this context, as it is an adjective and not a noun that John could ride on. This leaves us with option (C) sandplain, which is a flat area of land covered in sand. It is possible that John was riding on a vehicle or animal across a sandplain until he reached the ocean.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: John went to a party that lasted all night.  Because of this, he didn't have time for what? Answer Choices: (A) meeting (B) blowing off steam (C) stay home (D) partying hard (E) studying\nA:",
+            "rationale": "Option A: Meeting - This could be a possibility, but we don't have enough information to confirm it. Option B: Blowing off steam - This doesn't seem likely since going to a party is a way of blowing off steam. Option C: Stay home - This is the opposite of what John did, so it doesn't make sense. Option D: Partying hard - This is what John did, so it doesn't make sense. Option E: Studying - This is a possibility since going to a party all night would leave little time for studying.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        }
+    ],
+    "inertia": 710.8662719726562
+}

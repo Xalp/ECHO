@@ -1,0 +1,95 @@
+{
+    "demo": [
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could JPMorgan Chase give every American $10?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to know the total amount of money JPMorgan Chase has and the total number of Americans. According to Forbes, JPMorgan Chase's total assets were $2.7 trillion as of 2020. As of 2021, the estimated population of the United States is around 331 million people. If JPMorgan Chase were to give every American $10, they would need to distribute a total of $3.31 billion (331 million x $10). However, $3.31 billion is only a small fraction of JPMorgan Chase's total assets. Therefore, it is possible for JPMorgan Chase to give every American $10, but it would not significantly impact their financial standing.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can surgery prevent an existential crisis?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand what an existential crisis is. It's a period of intense questioning and uncertainty about the meaning and purpose of life. It's a psychological and philosophical issue, not a physical one. Surgery, on the other hand, is a medical procedure that involves cutting into the body to treat a physical ailment or condition. It's not designed to address psychological or philosophical issues. Therefore, it's unlikely that surgery could prevent an existential crisis. If someone is experiencing an existential crisis, they may benefit from seeking support from a mental health professional or engaging in self-reflection and exploration of their values and beliefs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a goblin shark eat at Crossroads Kitchen?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a goblin shark is and what it eats. A goblin shark is a deep-sea shark that primarily feeds on fish and cephalopods. Next, we need to understand what Crossroads Kitchen is. Crossroads Kitchen is a vegan restaurant in Los Angeles that serves plant-based dishes. Based on this information, it is highly unlikely that a goblin shark would eat at Crossroads Kitchen since it primarily feeds on fish and cephalopods, which are not served at the restaurant. Additionally, since Crossroads Kitchen is a vegan restaurant, it does not serve any animal products, which would not be suitable for a goblin shark's diet.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the leader of Heaven's Gate consider himself a prophet?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the leader of Heaven's Gate was Marshall Applewhite. He and his followers believed in an extraterrestrial belief system that combined elements of Christianity, New Age philosophy, and science fiction. Applewhite did consider himself a prophet, but he referred to himself as \"Do\" and believed that he was the messenger of the extraterrestrial beings who would lead his followers to a higher level of existence. He claimed to have received messages from these beings and believed that he was chosen to lead his followers to a higher spiritual plane. However, it's important to note that the beliefs of Heaven's Gate were considered by many to be a cult, and their actions ultimately led to a tragic mass suicide in 1997.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the height requirement for the Candymonium roller coaster at Hershey Park. According to the Hershey Park website, riders must be at least 54 inches tall to ride. Next, we need to find out how tall Marco Rubio is. According to public records, Marco Rubio is 5 feet 10 inches tall, which is equivalent to 70 inches. Since Marco Rubio is taller than the height requirement of 54 inches, he would be able to ride the Candymonium roller coaster at Hershey Park.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would Hapshetsut be considered a monarch?\nA:",
+            "rationale": "Let's think step by step. Yes, Hatshepsut was a monarch. She was the fifth pharaoh of the Eighteenth Dynasty of Egypt and ruled for over 20 years during the New Kingdom period.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is the Very Large Telescope the most productive telescope in the world?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what we mean by \"productive.\" If we are talking about the number of scientific papers published using data from a telescope, then we can look at the statistics provided by the scientific community. According to the Nature Index, which tracks the number of research papers published in top-tier scientific journals, the most productive telescope in the world is actually the Hubble Space Telescope. However, the Very Large Telescope (VLT) in Chile is also a highly productive telescope, ranking among the top telescopes in terms of scientific output. It's worth noting that different telescopes have different strengths and capabilities, and may be better suited for certain types of observations. So while the VLT may not be the most productive telescope in every category, it is certainly a valuable tool for astronomers and has contributed significantly to our understanding of the universe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could an escapee swim nonstop from Alcatraz island to Siberia?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the distance between Alcatraz Island and Siberia. Alcatraz Island is located in San Francisco Bay, California, USA, while Siberia is a vast region in Russia. The distance between the two locations is approximately 5,000 miles (8,000 kilometers). Next, we need to consider the physical ability of the escapee. Swimming nonstop for such a long distance is extremely challenging and requires exceptional physical fitness and endurance. It is highly unlikely that an average person could swim such a distance without stopping. Additionally, there are other factors to consider, such as the water temperature, currents, and potential dangers in the open ocean. The water temperature in the Pacific Ocean can be quite cold, and the currents can be strong and unpredictable. There is also the risk of encountering dangerous marine life, such as sharks or jellyfish. Therefore, it is highly unlikely that an escapee could swim nonstop from Alcatraz Island to Siberia. It would be an incredibly difficult and dangerous feat to attempt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3475.661865234375
+}

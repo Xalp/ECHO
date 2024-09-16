@@ -5,6 +5,7 @@ Adapted from https://github.com/kojima-takeshi188/zero_shot_cot
 from statistics import mean
 from torch.utils.data import Dataset
 import openai
+from openai import OpenAI
 import os
 import multiprocessing
 import json
@@ -88,9 +89,10 @@ def decoder_for_gpt3(args, input, max_length):
     elif args.model == "gpt-3.5-turbo-16k-0613":
         engine = "gpt-3.5-turbo-16k-0613"
     else:
-        raise ValueError("model is not properly defined ...")
+        engine = args.model
     while True:
         try:
+            client = OpenAI()
             if ("few_shot" in args.method or "auto" in args.method)  and engine == "code-davinci-002":
                 response = openai.Completion.create(
                 engine=engine,
@@ -102,21 +104,21 @@ def decoder_for_gpt3(args, input, max_length):
                 presence_penalty=0,
                 stop=["\n"]
                 )
-            elif "turbo" in engine:
-                response = openai.ChatCompletion.create(
-                model=engine,
-                temperature=args.temperature,
-                max_tokens=max_length,
-                top_p=1,
-                frequency_penalty=0,
-                presence_penalty=0,
-                stop=None,
-                messages=[
-                        {"role": "system", "content": "You are a helpful assistant that solves math problems."},
-                        {"role": "user", "content": input},
-                    ]
+            elif "turbo" in engine or "gpt4" in engine or "gpt-4" in engine:
+                response = client.chat.completions.create(
+                    model=engine,
+                    temperature=args.temperature,
+                    max_tokens=max_length,
+                    top_p=1,
+                    frequency_penalty=0,
+                    presence_penalty=0,
+                    stop=None,
+                    messages=[
+                            {"role": "system", "content": "You are a helpful assistant that solves math problems."},
+                            {"role": "user", "content": input},
+                        ]
                 )
-                return ' ' + response["choices"][0]["message"]["content"]
+                return ' ' + response.choices[0].message.content
             else:
                 response = openai.Completion.create(
                     engine=engine,
@@ -129,7 +131,7 @@ def decoder_for_gpt3(args, input, max_length):
                     stop=None
                 )
 
-            return response["choices"][0]["text"]
+            return response.choices[0].text
         
         except KeyboardInterrupt:
             print('Interrupted')

@@ -1,0 +1,173 @@
+{
+    "demo": [
+        {
+            "question": "Q: Would you spend less on your food at Aldi than at Whole Foods?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to compare the prices of similar items at Aldi and Whole Foods. It is generally known that Aldi is a discount grocery store, while Whole Foods is a high-end grocery store. Therefore, it is likely that Aldi will have lower prices than Whole Foods. However, the exact price difference will depend on the specific items being compared. To determine if you would spend less on your food at Aldi than at Whole Foods, you could make a list of the items you typically buy and compare the prices at both stores. You could also consider the quality of the products and the overall shopping experience at each store. In general, if you are looking to save money on groceries, Aldi is likely to be a more affordable option than Whole Foods. However, if you prioritize high-quality, organic, or specialty items, you may prefer to shop at Whole Foods despite the higher prices.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Kenny G hold the qualifications to be a tax collector?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what qualifications are required to be a tax collector. In most places, tax collectors are government officials who are responsible for collecting taxes from individuals and businesses. They may be required to have a degree in accounting, finance, or a related field, as well as experience in tax law and regulations. As for Kenny G, he is a musician known for playing the saxophone. While he may have other talents and skills, there is no indication that he has any experience or qualifications in tax collection. Therefore, it is unlikely that he would be qualified to be a tax collector.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Sugar Ray Robinson win a fight against Canelo Alvarez?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine if Sugar Ray Robinson and Canelo Alvarez ever fought each other. Sugar Ray Robinson was a professional boxer from 1940 to 1965, while Canelo Alvarez is a current professional boxer who started his career in 2005. Therefore, it is impossible for them to have fought each other. Secondly, we need to clarify that winning a fight is determined by the outcome of the match. Since Sugar Ray Robinson and Canelo Alvarez never fought each other, there was no match to determine a winner. In conclusion, Sugar Ray Robinson and Canelo Alvarez never fought each other, so there was no fight to determine a winner.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Will the torso be safe from blows to the largest and smallest bones in body?\nA:",
+            "rationale": "Let's think step by step. The largest bone in the body is the femur (thigh bone) and the smallest bone is the stapes bone in the ear. The torso is the central part of the body that includes the chest and abdomen. If someone receives a blow to the femur or stapes bone, it is unlikely to directly affect the torso. However, if the force of the blow is strong enough, it could cause the person to lose balance and fall, potentially injuring the torso or other parts of the body. So, while the torso may not be directly affected by blows to the largest and smallest bones in the body, it is still important to take precautions to avoid falls and other injuries.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Queen Elizabeth The Queen Mother and her daughter share name with Tudor queen?\nA:",
+            "rationale": "Let's think step by step. Queen Elizabeth The Queen Mother was born Elizabeth Angela Marguerite Bowes-Lyon. Her daughter, Queen Elizabeth II, was named Elizabeth Alexandra Mary. There were two Tudor queens named Elizabeth: Elizabeth I and her half-sister, Mary I (also known as \"Bloody Mary\"). Neither of them shared the exact same name as Queen Elizabeth The Queen Mother or Queen Elizabeth II. So, to answer your question, no, Queen Elizabeth The Queen Mother and her daughter did not share a name with a Tudor queen.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Do gorillas fight with panda bears?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that this question is not related to math. However, to answer your question, gorillas and panda bears do not live in the same geographic regions and their habitats do not overlap. Therefore, it is highly unlikely that they would encounter each other in the wild and fight.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can you swim to Miami from New York?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the distance between New York and Miami. The distance between New York and Miami is approximately 1,280 miles. Next, we need to consider the fact that swimming such a long distance is not feasible for most people. Even the most experienced swimmers would struggle to swim such a long distance without rest. Additionally, swimming in open water for such a long distance would expose a person to various risks such as dehydration, hypothermia, and exhaustion. Therefore, it is not recommended to attempt to swim from New York to Miami. It would be safer and more practical to travel by plane, car, or boat.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Bill Nye vote for Franklin Delano Roosevelt?\nA:",
+            "rationale": "Let's think step by step. Bill Nye is a science educator and television personality, known for his work in popularizing science. He was born in 1955, which means he was not alive during the presidency of Franklin Delano Roosevelt, who served from 1933 to 1945. Therefore, it is impossible for Bill Nye to have voted for Roosevelt.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could you drive a Rowe 550 to the 2008 Summer Olympics?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what a Rowe 550 is. After some research, it appears that a Rowe 550 is a type of vending machine. Next, we need to determine the location of the 2008 Summer Olympics. The 2008 Summer Olympics were held in Beijing, China. Based on this information, it is not possible to drive a vending machine to the 2008 Summer Olympics in Beijing. Vending machines are not designed for transportation and would not be able to travel the distance required to reach Beijing. Additionally, there would be no need for a vending machine at the Olympics as there would be plenty of food and beverage options available for athletes and spectators.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can sunlight travel to the deepest part of the Black Sea?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to understand how sunlight travels through water. Sunlight is made up of different colors of light, and as it passes through water, these colors are absorbed at different rates. The first color to be absorbed is red, followed by orange, yellow, green, blue, indigo, and violet. Now, let's consider the Black Sea. The Black Sea is one of the largest inland seas in the world, and it is known for its deep, dark waters. The depth of the Black Sea varies, but it can reach up to 2,200 meters (7,200 feet) in some places. Given this information, we can conclude that sunlight cannot travel to the deepest part of the Black Sea. This is because the water is too deep and too dark for sunlight to penetrate all the way down. The red, orange, and yellow colors of light are absorbed within the first few meters of the water's surface, and the remaining colors are absorbed at deeper depths. By the time the sunlight reaches the bottom of the Black Sea, there is no visible light left. So, in short, sunlight cannot travel to the deepest part of the Black Sea.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Pedubastis I know Japanese people?\nA:",
+            "rationale": "Let's think step by step. Pedubastis I was an ancient Egyptian pharaoh who ruled during the Third Intermediate Period. It is unlikely that he had any direct contact with Japanese people, as Japan was located far away from Egypt and there is no evidence of any significant trade or cultural exchange between the two regions during that time period. However, it is possible that he may have heard of Japan or encountered people from other regions who had traveled there.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Cholera alive?\nA:",
+            "rationale": "Let's think step by step. Cholera is a disease caused by a bacterium called Vibrio cholerae. Bacteria are living organisms, so in that sense, cholera is alive. However, once the bacterium is outside of a host organism, it cannot survive for very long and can be considered dead. So, the answer to your question depends on the context in which you are asking it.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would Lord Voldemort hypothetically be an effective fighter after Final Fantasy silence is cast?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Final Fantasy silence does. In the Final Fantasy series, silence is a status effect that prevents a character from using magic spells or abilities. Assuming that we apply this concept to Lord Voldemort, who is a powerful wizard, if he were affected by Final Fantasy silence, he would not be able to use his magic spells and abilities. This would significantly reduce his effectiveness as a fighter since he heavily relies on his magical powers. However, it's important to note that Lord Voldemort is also skilled in non-magical combat, such as dueling with a wand or physical combat. So, while he may not be as effective without his magic, he could still potentially be a formidable fighter. Overall, it would depend on the specific circumstances and the abilities of his opponent.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can the majority of vowels be typed on the first line of a QWERTY keyboard?\nA:",
+            "rationale": "Let's think step by step. First, let's identify the vowels in the English language: A, E, I, O, U. Next, let's look at the first line of a QWERTY keyboard: Q, W, E, R, T, Y, U, I, O, P. We can see that the vowels E, U, I, and O are all located on the first line of the QWERTY keyboard. However, the vowels A is not on the first line. Therefore, we can conclude that the majority of vowels (80%) can be typed on the first line of a QWERTY keyboard.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would an eleventh-grader be eligible for Medicare?\nA:",
+            "rationale": "Let's think step by step. Medicare is a federal health insurance program that primarily serves people who are 65 years or older, or those with certain disabilities or medical conditions. Therefore, an eleventh-grader who is typically around 16-17 years old would not be eligible for Medicare unless they have a qualifying disability or medical condition.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Saturn named after king of gods in Greek mythology?\nA:",
+            "rationale": "Let's think step by step. Saturn is indeed named after the Roman god of agriculture and wealth, who was also known as Cronus in Greek mythology. Cronus was the son of Uranus and Gaia and was known for overthrowing his father and becoming the ruler of the universe. So, while Saturn is not directly named after the king of gods in Greek mythology, it is named after a figure from Roman mythology who shares many similarities with Cronus.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could you watch a new Seinfeld episode every day for a year?\nA:",
+            "rationale": "Let's think step by step. Assuming that there are 9 seasons of Seinfeld, with a total of 180 episodes, you would need to watch approximately 0.49 episodes per day to complete the series in one year. This means that you could easily watch one new episode every day for a year, with some days having to watch two episodes to catch up.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is Olivia Newton-John hyphenated celebrity name with most letters?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what is meant by \"hyphenated celebrity name with most letters.\" If we are looking for the hyphenated celebrity name with the most total letters, we would need to search for a celebrity with a hyphenated last name that is longer than any other hyphenated last name. If we are looking for the hyphenated celebrity name with the most letters in the hyphenated portion, we would need to search for a celebrity with a hyphenated last name where both parts of the name are longer than any other hyphenated last name. Assuming we are looking for the hyphenated celebrity name with the most total letters, we would need to research and compare the lengths of various hyphenated celebrity names. However, to answer the specific question asked, Olivia Newton-John is not a hyphenated name. It is a compound surname, which means it is made up of two separate surnames without a hyphen.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is the Mona Lisa in the same museum as the Venus de Milo?\nA:",
+            "rationale": "Let's think step by step. The Mona Lisa is located in the Louvre Museum in Paris, France. The Venus de Milo is also located in the Louvre Museum. Therefore, both artworks are in the same museum.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3354.71923828125
+}

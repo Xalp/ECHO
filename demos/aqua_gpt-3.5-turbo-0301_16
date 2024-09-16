@@ -1,0 +1,65 @@
+{
+    "demo": [
+        {
+            "question": "Q: In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim? Answer Choices: (A) 7 (B) 3 (C) 2 (D) 1 (E) 6\nA:",
+            "rationale": "Let's think step by step. First, we know that Susan must be on the left of Tim, so we can fix Susan in the leftmost chair. Then, we have two options for the middle chair: either Tim sits there or Zen sits there. Once we have chosen who sits in the middle chair, the last person will sit in the rightmost chair. Therefore, there are only 2 possible arrangements: Susan-Tim-Zen or Susan-Zen-Tim. So the answer is (C) 2.",
+            "pred_ans": "C",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? Answer Choices: (A) 8.75 (B) 8.79 (C) 8.75 (D) 8.71 (E) 8.72\nA:",
+            "rationale": "Let's think step by step. First, we need to find the area of the square paper. The formula for the area of a square is side x side, so the area of the paper is 20 x 20 = 400 cm². Next, we need to find the area of the two semi-circles. The formula for the area of a circle is πr², but since we only have semi-circles, we need to divide the result by 2. The diameter of the semi-circles is 20 cm, so the radius is 10 cm. Therefore, the area of one semi-circle is 1/2 x π x 10² = 50π/2 = 25π cm². The area of two semi-circles is 50π cm². Finally, we need to subtract the area of the two semi-circles from the area of the square paper to find the remaining area. So, the remaining area is 400 - 50π ≈ 8.79 cm².",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: 5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is Answer Choices: (A) 1/5 (B) 2/5 (C) 3/5 (D) 4/5 (E) 6/5\nA:",
+            "rationale": "Let's think step by step. There are a total of 5 horses in the race, so there are 5C2 ways to select any two horses out of the five. Out of these 5C2 ways, there is only one way to select the winning horse. Therefore, the probability that Mr. Jain selected the winning horse is 1/5C2. Simplifying this expression, we get 1/10. So the answer is (A) 1/5.",
+            "pred_ans": "A",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift? Answer Choices: (A) D/ (M-3)  (B) MD/3 (C) M/ (D-3)  (D) 3D/ (M2-3M)  (E) None of these\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. We know that initially, M men agreed to purchase a gift for Rs. D. Therefore, each man would have to contribute D/M rupees towards the gift. Now, if 3 men drop out, the total number of men left would be M-3. The total amount of money required to purchase the gift would still be D rupees. Therefore, each man would now have to contribute D/(M-3) rupees towards the gift. So, the answer is (A) D/(M-3).",
+            "pred_ans": "A",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure? Answer Choices: (A) 58.3% (B) 62.5% (C) 63.5% (D) 64.5% (E) 65.5%\nA:",
+            "rationale": "Let's think step by step. First, let's assume the man's income is $100. Then, he spends 70% of it, which is $70. If his income increases by 20%, then his new income will be $120. To find his new expenditure, we need to find 70% of $120, which is $84. Therefore, his new expenditure is $84 out of $120, which is 70%. So the answer is (A) 58.3%.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again? Answer Choices: (A) After 6 minutes (B) After 12 minutes (C) After 18 minutes (D) After 24 minutes (E) none\nA:",
+            "rationale": "Let's think step by step. First, we need to find the time it takes for all three bells to ring together. To do this, we need to find the least common multiple (LCM) of 36, 40, and 48. The prime factorization of 36 is 2^2 x 3^2. The prime factorization of 40 is 2^3 x 5. The prime factorization of 48 is 2^4 x 3. To find the LCM, we need to take the highest power of each prime factor that appears in any of the numbers. So the LCM is 2^4 x 3^2 x 5 = 720 seconds.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups? Answer Choices: (A) 90 (B) 105 (C) 126 (D) 252 (E) 525\nA:",
+            "rationale": "Let's think step by step. First, we need to choose 5 bottles out of the 10 for the first group. This can be done in 10 choose 5 ways, which is equal to 252. After the first group has been served, there will be 5 bottles left for the second group. We need to choose 5 bottles out of these 5 for the second group. This can be done in only 1 way. Therefore, the total number of ways to create the 2 groups is 252 x 1 = 252. So the answer is (D) 252.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What is the units digit of 9^3-7? Answer Choices: (A) 1 (B) 3 (C) 5 (D) 2 (E) 4\nA:",
+            "rationale": "Let's think step by step. Sure! We can start by finding the units digit of $9^3$. The units digit of $9^1$ is 9, the units digit of $9^2$ is 1, and the units digit of $9^3$ is 9. So, $9^3$ has a units digit of 9. Next, we subtract 7 from $9^3$. Since 9 minus 7 is 2, the units digit of $9^3-7$ is $\\boxed{\\textbf{(D)}\\ 2}$.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? Answer Choices: (A) A) 59 (B) B) 69 (C) C) 79 (D) D) 89 (E) E) 99\nA:",
+            "rationale": "Let's think step by step. When you were 2 years old, your brother was half your age, which means he was 1 year old. Now you are 60 years old, and since your brother was 1 year younger than you, he is 60 - 1 = 59 years old.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What should come in place of the question mark(?) in each of the following questions ?\nA:",
+            "rationale": "Let's think step by step. First, we need to simplify the left-hand side of the equation: a2 - b2/(a + b)2 = (a + b)(a - b)/(a + b)2 Next, we can cancel out the (a + b) terms in the numerator and denominator: (a - b)/(a + b) This simplifies to (A) (a + b).",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        }
+    ],
+    "inertia": 129.4811248779297
+}

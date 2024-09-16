@@ -1,0 +1,53 @@
+{
+    "demo": [
+        {
+            "question": "Q: In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim? Answer Choices: (A) 7 (B) 3 (C) 2 (D) 1 (E) 6\nA:",
+            "rationale": "Let's think step by step. First, we know that Susan must be on the left of Tim, so we can fix Susan in the leftmost chair. Then, we have two options for the middle chair: either Tim sits there or Zen sits there. Once we have chosen who sits in the middle chair, the last person will sit in the rightmost chair. Therefore, there are only 2 possible arrangements: Susan-Tim-Zen or Susan-Zen-Tim. So the answer is (C) 2.",
+            "pred_ans": "C",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: If 120 is reduced to 96, what is the reduction percent? Answer Choices: (A) 30% (B) 40% (C) 20% (D) 10% (E) 5%\nA:",
+            "rationale": "Let's think step by step. First, we need to find the difference between the original value and the reduced value: 120 - 96 = 24 Next, we need to find what percentage of the original value the difference represents: (24/120) x 100% = 20% Therefore, the reduction percent is 20%, which corresponds to answer choice (C).",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? Answer Choices: (A) 8.75 (B) 8.79 (C) 8.75 (D) 8.71 (E) 8.72\nA:",
+            "rationale": "Let's think step by step. First, we need to find the area of the square paper. The formula for the area of a square is side x side, so the area of the paper is 20 x 20 = 400 cm². Next, we need to find the area of the two semi-circles. The formula for the area of a circle is πr², but since we only have semi-circles, we need to divide the result by 2. The diameter of the semi-circles is 20 cm, so the radius is 10 cm. Therefore, the area of one semi-circle is 1/2 x π x 10² = 50π/2 = 25π cm². The area of two semi-circles is 50π cm². Finally, we need to subtract the area of the two semi-circles from the area of the square paper to find the remaining area. So, the remaining area is 400 - 50π ≈ 8.79 cm².",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending? Answer Choices: (A) 6 (B) 8 (C) 10 (D) 12 (E) 14\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Jill needed 10 bottles of soda for a party with 8 people. So, on average, each person drank 10/8 = 1.25 bottles of soda. Now, we need to figure out how many bottles of soda Jill will need for a party with 12 people. If each person drinks an average of 1.25 bottles of soda, then for 12 people, Jill will need 12 x 1.25 = 15 bottles of soda. However, the answer choices don't include 15, so we need to round to the nearest option. The closest option is (E) 14, which is only one bottle less than what we calculated. So, the answer is (E) 14.",
+            "pred_ans": "E",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What is the units digit of 9^3-7? Answer Choices: (A) 1 (B) 3 (C) 5 (D) 2 (E) 4\nA:",
+            "rationale": "Let's think step by step. Sure! We can start by finding the units digit of $9^3$. The units digit of $9^1$ is 9, the units digit of $9^2$ is 1, and the units digit of $9^3$ is 9. So, $9^3$ has a units digit of 9. Next, we subtract 7 from $9^3$. Since 9 minus 7 is 2, the units digit of $9^3-7$ is $\\boxed{\\textbf{(D)}\\ 2}$.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again? Answer Choices: (A) After 6 minutes (B) After 12 minutes (C) After 18 minutes (D) After 24 minutes (E) none\nA:",
+            "rationale": "Let's think step by step. First, we need to find the time it takes for all three bells to ring together. To do this, we need to find the least common multiple (LCM) of 36, 40, and 48. The prime factorization of 36 is 2^2 x 3^2. The prime factorization of 40 is 2^3 x 5. The prime factorization of 48 is 2^4 x 3. To find the LCM, we need to take the highest power of each prime factor that appears in any of the numbers. So the LCM is 2^4 x 3^2 x 5 = 720 seconds.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family? Answer Choices: (A) 2 (B) 3 (C) 4 (D) 5 (E) 6\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. First, we know that the median income is $3000. This means that half of the family members earn less than $3000 and half earn more than $3000. Next, we know that the total income of the family is $9000. If we divide this by the median income of $3000, we get 3. This means that there are 3 family members who earn $3000 each. However, we also know that there are family members who earn less than $3000 and family members who earn more than $3000. Since there are only 3 family members who earn $3000 each, there must be additional family members who earn less than $3000 to bring the median income down to $3000.",
+            "pred_ans": "C",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure? Answer Choices: (A) 58.3% (B) 62.5% (C) 63.5% (D) 64.5% (E) 65.5%\nA:",
+            "rationale": "Let's think step by step. First, let's assume the man's income is $100. Then, he spends 70% of it, which is $70. If his income increases by 20%, then his new income will be $120. To find his new expenditure, we need to find 70% of $120, which is $84. Therefore, his new expenditure is $84 out of $120, which is 70%. So the answer is (A) 58.3%.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        }
+    ],
+    "inertia": 136.35670471191406
+}

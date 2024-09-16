@@ -1,0 +1,77 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Mel Josh Alejandra Harley\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Mel\" is \"l\". The last letter of \"Josh\" is \"h\". The last letter of \"Alejandra\" is \"a\". The last letter of \"Harley\" is \"y\". So if we concatenate these letters, we get \"lhay\".",
+            "pred_ans": "lhay",
+            "gold_ans": "lhay"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Elizabeth Mitch Brooke Jordyn\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Elizabeth\" is \"h\". The last letter of \"Mitch\" is \"h\". The last letter of \"Brooke\" is \"e\". The last letter of \"Jordyn\" is \"n\". So, if we concatenate these letters, we get \"hen\".",
+            "pred_ans": "hen",
+            "gold_ans": "hhen"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Malcolm Hussein Franco Hugo\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The words are: Malcolm, Hussein, Franco, Hugo. We need to take the last letter of each word and concatenate them. So, the last letters are: m, n, o, o. And when we concatenate them, we get: mnoo.",
+            "pred_ans": "mnoo",
+            "gold_ans": "mnoo"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Virginia Juanita Zak Wayne\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Virginia\" is \"a\". The last letter of \"Juanita\" is \"a\". The last letter of \"Zak\" is \"k\". The last letter of \"Wayne\" is \"e\". So, if we concatenate these letters, we get \"ake\".",
+            "pred_ans": "ake",
+            "gold_ans": "aake"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Martin Sage Tanisha Rick\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Martin\" is \"n\". The last letter of \"Sage\" is \"e\". The last letter of \"Tanisha\" is \"a\". The last letter of \"Rick\" is \"k\". So, if we concatenate these letters, we get \"neak\".",
+            "pred_ans": "neak",
+            "gold_ans": "neak"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Celso\" is \"o\". The last letter of \"Tracy\" is \"y\". The last letter of \"Winston\" is \"n\". The last letter of \"Anton\" is \"n\". So, if we concatenate these letters, we get \"oynn\".",
+            "pred_ans": "oynn",
+            "gold_ans": "oynn"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Elle Alex Irma Stephan\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Elle\" is \"e\". The last letter of \"Alex\" is \"x\". The last letter of \"Irma\" is \"a\". The last letter of \"Stephan\" is \"n\". So, if we concatenate these letters, we get \"exan\".",
+            "pred_ans": "exan",
+            "gold_ans": "exan"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Kristen Herbert Benny El\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Kristen\" is \"n\". The last letter of \"Herbert\" is \"t\". The last letter of \"Benny\" is \"y\". The last letter of \"El\" is \"l\". So, if we concatenate these letters, we get \"ntyL\".",
+            "pred_ans": "ntyL",
+            "gold_ans": "ntyl"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Ivy Romeo Jana Ej\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The given words are: Ivy, Romeo, Jana, Ej. We need to take the last letter of each word and concatenate them. So, the last letters are: y, o, a, j. Now, we can concatenate them to get the final answer: \"yoaj\".",
+            "pred_ans": "yoaj",
+            "gold_ans": "yoaj"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Memo Joey Phil Samuel\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The words are: Memo, Joey, Phil, Samuel. To get the last letter of each word, we simply take the letter that appears at the end of each word. So, the last letters are: o, y, l, l. To concatenate them means to join them together in order. So, if we put them together in order, we get: \"oyll\".",
+            "pred_ans": "oyll",
+            "gold_ans": "oyll"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Russ Berta Mandy Lydia\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The words are \"Russ Berta Mandy Lydia\". The last letter of \"Russ\" is \"s\". The last letter of \"Berta\" is \"a\". The last letter of \"Mandy\" is \"y\". The last letter of \"Lydia\" is \"a\". So, if we concatenate these letters, we get \"say a\".",
+            "pred_ans": "saya",
+            "gold_ans": "saya"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Issa Kendra Ignacio Henry\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Issa\" is \"a\". The last letter of \"Kendra\" is \"a\". The last letter of \"Ignacio\" is \"o\". The last letter of \"Henry\" is \"y\". So, if we concatenate these letters, we get \"aao y\".",
+            "pred_ans": "aaoy",
+            "gold_ans": "aaoy"
+        }
+    ],
+    "inertia": 137.7589874267578
+}

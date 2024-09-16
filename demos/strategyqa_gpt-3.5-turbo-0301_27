@@ -1,0 +1,167 @@
+{
+    "demo": [
+        {
+            "question": "Q: Can dessert be made with vegetables?\nA:",
+            "rationale": "Let's think step by step. Yes, dessert can be made with vegetables. There are many desserts that use vegetables as a main ingredient, such as carrot cake, zucchini bread, sweet potato pie, and pumpkin pie. These desserts are often sweetened with sugar or other sweeteners to balance out the natural savory flavor of the vegetables. Additionally, some vegetables like beets and sweet potatoes can be used to make natural food coloring for desserts. So, it is definitely possible to make delicious desserts using vegetables.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Was King Arthur at the beheading of Anne Boleyn?\nA:",
+            "rationale": "Let's think step by step. First, we need to establish some historical context. King Arthur is a legendary figure from medieval times, while Anne Boleyn was a historical figure who lived during the 16th century. Therefore, it is highly unlikely that King Arthur was present at the beheading of Anne Boleyn, as he is not believed to have been a real person. Additionally, the events surrounding Anne Boleyn's execution are well-documented, and there is no mention of King Arthur being present.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could the Powerpuff Girls hypothetically attend the Camden Military Academy?\nA:",
+            "rationale": "Let's think step by step. First, we need to establish what the Camden Military Academy is. It is a private military boarding school located in Camden, South Carolina, that focuses on developing leadership skills and character in its students. Next, we need to consider the Powerpuff Girls. They are fictional characters from the animated television series of the same name, created by Professor Utonium using sugar, spice, everything nice, and Chemical X. They possess superhuman strength, speed, and agility, as well as various other powers. Given that the Powerpuff Girls are not human and possess extraordinary abilities, it is unlikely that they would attend a traditional human school, let alone a military academy. Additionally, their duties as superheroes would likely take precedence over their education. Therefore, it is safe to say that the Powerpuff Girls could not hypothetically attend the Camden Military Academy.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. I'm sorry, but that question is not related to math. As a math assistant, I can help you with any math-related questions or problems you may have. Please let me know how I can assist you.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Are honey badgers and hyenas anatomically dissimilar?\nA:",
+            "rationale": "Let's think step by step. As a math assistant, I can tell you that honey badgers and hyenas are two different species of animals and therefore have different anatomical structures. However, if you have a specific question about their anatomical differences, I can try to help you find the answer.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can Billie Eilish afford a Porsche?\nA:",
+            "rationale": "Let's think step by step. Sure, we can approach this question step by step. First, we need to know the cost of a Porsche. The price of a Porsche can vary depending on the model and year. For example, a new Porsche 911 can cost around $100,000, while a used Porsche Boxster can cost around $20,000. Second, we need to know Billie Eilish's net worth. According to Celebrity Net Worth, as of 2021, Billie Eilish's net worth is estimated to be around $30 million. So, based on this information, it is safe to say that Billie Eilish can afford a Porsche, even a new one. However, it is important to note that we do not know if she wants to spend that much money on a car or if she has other financial priorities.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can the Moscow Kremlin fit inside Disney Land?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the size of each location. The Moscow Kremlin covers an area of about 68 acres, while Disneyland covers an area of about 500 acres. Next, we need to compare the sizes of the two locations. If we divide the area of Disneyland by the area of the Moscow Kremlin, we get: 500 acres / 68 acres = 7.35 This means that Disneyland is about 7.35 times larger than the Moscow Kremlin. Therefore, it is safe to say that the Moscow Kremlin cannot fit inside Disneyland.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Could JPMorgan Chase give every American $10?\nA:",
+            "rationale": "Let's think step by step. To answer this question, we need to know the total amount of money JPMorgan Chase has and the total number of Americans. According to Forbes, JPMorgan Chase's total assets were $2.7 trillion as of 2020. As of 2021, the estimated population of the United States is around 331 million people. If JPMorgan Chase were to give every American $10, they would need to distribute a total of $3.31 billion (331 million x $10). However, $3.31 billion is only a small fraction of JPMorgan Chase's total assets. Therefore, it is possible for JPMorgan Chase to give every American $10, but it would not significantly impact their financial standing.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can monkeys use QWERTY keyboards?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a QWERTY keyboard is. It is a keyboard layout that is commonly used for English language typing. Next, we need to consider the physical abilities of monkeys. While monkeys are intelligent animals, they do not have the same level of fine motor skills as humans. They may struggle to accurately press individual keys on a keyboard. Additionally, monkeys may not have the cognitive ability to understand the purpose of a keyboard or how to use it to input information. Therefore, it is unlikely that monkeys would be able to effectively use a QWERTY keyboard.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Has a neanderthal ever served on the Supreme Court of the United States?\nA:",
+            "rationale": "Let's think step by step. There is no record of a Neanderthal ever serving on the Supreme Court of the United States. Neanderthals were a species of human that lived thousands of years ago and went extinct around 40,000 years ago. The Supreme Court of the United States was established in 1789, long after the extinction of the Neanderthals. Therefore, it is impossible for a Neanderthal to have served on the Supreme Court.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the Beatles write any music in the Disco genre?\nA:",
+            "rationale": "Let's think step by step. First, it's important to note that the Beatles were primarily active in the 1960s and early 1970s, before the disco genre became popular in the late 1970s. While the Beatles did experiment with different genres throughout their career, they are not typically associated with disco music. Their music is more commonly classified as rock, pop, and psychedelic. That being said, there are a few Beatles songs that have a disco-like beat or rhythm, such as \"Get Back\" and \"Sgt. Pepper's Lonely Hearts Club Band (Reprise).\" However, these songs were not written specifically as disco songs and are not considered part of the disco genre. So, to answer your question, while the Beatles did incorporate elements of different genres into their music, they did not write any music specifically in the disco genre.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a diverse group of arthropods that include crabs, lobsters, shrimp, crayfish, and barnacles. While many crustaceans do live in the ocean, not all of them do. Some species of crustaceans can be found in freshwater environments such as rivers, lakes, and streams. Additionally, some species of land crabs, such as the coconut crab, live on land. So, the answer is no, not all crustaceans live in the ocean.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would nickel boil in the outer core of the earth?\nA:",
+            "rationale": "Let's think step by step. First, we need to know the boiling point of nickel. The boiling point of nickel is 2,913°C (5,275°F). Next, we need to know the temperature of the outer core of the Earth. The outer core of the Earth is estimated to have a temperature of around 4,000°C (7,200°F). Based on these values, it is safe to say that nickel would definitely boil in the outer core of the Earth, as its boiling point is much lower than the temperature of the outer core.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is the Very Large Telescope the most productive telescope in the world?\nA:",
+            "rationale": "Let's think step by step. First, we need to define what we mean by \"productive.\" If we are talking about the number of scientific papers published using data from a telescope, then we can look at the statistics provided by the scientific community. According to the Nature Index, which tracks the number of research papers published in top-tier scientific journals, the most productive telescope in the world is actually the Hubble Space Telescope. However, the Very Large Telescope (VLT) in Chile is also a highly productive telescope, ranking among the top telescopes in terms of scientific output. It's worth noting that different telescopes have different strengths and capabilities, and may be better suited for certain types of observations. So while the VLT may not be the most productive telescope in every category, it is certainly a valuable tool for astronomers and has contributed significantly to our understanding of the universe.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Fraktur have a sordid history?\nA:",
+            "rationale": "Let's think step by step. Fraktur is a typeface that was commonly used in German-speaking countries until the mid-20th century. It has a unique and distinctive appearance, with ornate and angular letterforms. However, Fraktur has been associated with some controversial and negative aspects of German history. During the Nazi regime in Germany, Fraktur was promoted as the \"true\" German typeface and was used extensively in propaganda materials. This association with the Nazi party has led to some negative connotations for Fraktur. However, it is important to note that Fraktur has a long and complex history that predates the Nazi era. It was widely used in German printing and literature for centuries, and many important works of literature and philosophy were printed in Fraktur. So while Fraktur may have some negative associations, it is ultimately a typeface with a rich and varied history that cannot be reduced to a single period or ideology.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Archduke Franz Ferdinand of Austria participate in the Pacific War?\nA:",
+            "rationale": "Let's think step by step. First, we need to clarify that the Pacific War refers to the conflict between Japan and the Allied powers during World War II. Archduke Franz Ferdinand of Austria, on the other hand, was assassinated in 1914, which was the event that triggered the start of World War I. Therefore, it is not possible for Archduke Franz Ferdinand to have participated in the Pacific War as he was not alive during that time.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Arnold Schwarzenegger be unable to run for President of the US?\nA:",
+            "rationale": "Let's think step by step. There are a few factors to consider when answering this question. Firstly, it's important to note that the United States Constitution sets out the eligibility requirements for someone to become President. According to Article II, Section 1, Clause 5 of the Constitution, a person must be a natural-born citizen of the United States, at least 35 years old, and have been a resident of the country for at least 14 years. Arnold Schwarzenegger was born in Austria, so he is not a natural-born citizen of the United States. This means that he would be ineligible to run for President under the current requirements set out in the Constitution. However, it's worth noting that there have been some discussions and debates in the past about potentially amending the Constitution to allow foreign-born citizens to run for President. If such an amendment were to be passed, then Schwarzenegger (or any other foreign-born citizen who met the other eligibility requirements) could potentially run for President in the future.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can someone from New England profit by growing coffee?\nA:",
+            "rationale": "Let's think step by step. Growing coffee requires specific environmental conditions such as a warm and humid climate, high altitude, and well-drained soil. New England, on the other hand, has a cooler climate and lower altitude. Therefore, it may not be the ideal location for growing coffee. However, it is possible to grow coffee in greenhouses or indoor environments with controlled temperature and humidity. But this would require a significant investment in infrastructure and resources. Additionally, the cost of production may be higher than the revenue generated from selling the coffee. Therefore, it may not be profitable for someone from New England to grow coffee commercially.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do skeletons have hair?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand that skeletons are the internal framework of bones that support the body of an organism. Hair, on the other hand, is a protein filament that grows from follicles in the skin of mammals. Since skeletons are made up of bones and do not have skin or hair follicles, it is safe to say that skeletons do not have hair.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a pacifist be opposed to hunting?\nA:",
+            "rationale": "Let's think step by step. A pacifist is someone who believes in non-violence and opposes war and aggression. Hunting involves killing animals, which can be seen as a form of violence. Therefore, it is likely that a pacifist would be opposed to hunting. However, it is important to note that not all pacifists have the same beliefs and opinions, so there may be some who do not oppose hunting.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can vitamin C rich fruits be bad for health?\nA:",
+            "rationale": "Let's think step by step. Vitamin C is an essential nutrient that our body needs to function properly. It is found in many fruits such as oranges, strawberries, kiwis, and guavas. Consuming these fruits in moderation is generally considered to be beneficial for health. However, consuming excessive amounts of vitamin C can lead to negative health effects. This is because vitamin C is a water-soluble vitamin, which means that excess amounts are excreted through urine. But consuming too much vitamin C can cause digestive issues such as diarrhea, nausea, and stomach cramps. Additionally, some people may be allergic to certain fruits that are high in vitamin C, which can cause allergic reactions such as hives, swelling, and difficulty breathing. So, in conclusion, vitamin C rich fruits are generally good for health when consumed in moderation. However, excessive consumption or allergies can lead to negative health effects.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Saturn named after king of gods in Greek mythology?\nA:",
+            "rationale": "Let's think step by step. Saturn is indeed named after the Roman god of agriculture and wealth, who was also known as Cronus in Greek mythology. Cronus was the son of Uranus and Gaia and was known for overthrowing his father and becoming the ruler of the universe. So, while Saturn is not directly named after the king of gods in Greek mythology, it is named after a figure from Roman mythology who shares many similarities with Cronus.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can a person be diagnosed with a Great Depression?\nA:",
+            "rationale": "Let's think step by step. The term \"Great Depression\" typically refers to a severe economic downturn that occurred in the 1930s. It is not a medical diagnosis for a person. However, a person can be diagnosed with depression, which is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities. Depression can be treated with therapy, medication, or a combination of both. It is important to seek professional help if you or someone you know is experiencing symptoms of depression.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ],
+    "inertia": 3364.030029296875
+}

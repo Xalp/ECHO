@@ -1,0 +1,83 @@
+{
+    "demo": [
+        {
+            "question": "Q: Is the letter D influenced by the shape of ancient doors?\nA:",
+            "rationale": "Let's think step by step. The letter D is a part of the Latin alphabet, which was derived from the Etruscan alphabet. The Etruscan alphabet, in turn, was influenced by the Greek alphabet. There is no direct evidence to suggest that the shape of ancient doors influenced the letter D. However, it is possible that the shape of the letter D was influenced by the shape of other objects or symbols that were present in ancient cultures. It is also important to note that the shape of letters can evolve over time due to various factors, such as changes in writing materials and tools, changes in writing styles, and cultural influences. So, while the shape of the letter D may not have been directly influenced by ancient doors, it is possible that it was influenced by other cultural factors.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can you purchase General Motors products at a movie theater?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what General Motors products are. General Motors is a company that produces automobiles, such as Chevrolet, Buick, GMC, and Cadillac. Next, we need to understand what products are typically sold at movie theaters. Movie theaters usually sell snacks and beverages, such as popcorn, candy, and soda. Based on this information, it is unlikely that you can purchase General Motors products at a movie theater. However, it is possible that a movie theater may have a promotional event or partnership with General Motors where they give away or display their products.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify who the 40th president of the United States was. The 40th president was Ronald Reagan. Next, we need to determine if forwarding lolcats to friends was something that was possible during Reagan's presidency. Lolcats, or funny cat pictures with captions, became popular on the internet in the early 2000s, which was after Reagan's presidency ended in 1989. Therefore, it is unlikely that Reagan forwarded lolcats to his friends during his presidency. In conclusion, it is highly unlikely that the 40th president of the United States forwarded lolcats to his friends.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can surgery prevent an existential crisis?\nA:",
+            "rationale": "Let's think step by step. First, it's important to understand what an existential crisis is. It's a period of intense questioning and uncertainty about the meaning and purpose of life. It's a psychological and philosophical issue, not a physical one. Surgery, on the other hand, is a medical procedure that involves cutting into the body to treat a physical ailment or condition. It's not designed to address psychological or philosophical issues. Therefore, it's unlikely that surgery could prevent an existential crisis. If someone is experiencing an existential crisis, they may benefit from seeking support from a mental health professional or engaging in self-reflection and exploration of their values and beliefs.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did Maroon 5 go on tour with Nirvana?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine the timeline of both bands. Nirvana was active from 1987 to 1994, while Maroon 5 formed in 1994. Therefore, it is impossible for Maroon 5 to have gone on tour with Nirvana.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could you drive a Rowe 550 to the 2008 Summer Olympics?\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what a Rowe 550 is. After some research, it appears that a Rowe 550 is a type of vending machine. Next, we need to determine the location of the 2008 Summer Olympics. The 2008 Summer Olympics were held in Beijing, China. Based on this information, it is not possible to drive a vending machine to the 2008 Summer Olympics in Beijing. Vending machines are not designed for transportation and would not be able to travel the distance required to reach Beijing. Additionally, there would be no need for a vending machine at the Olympics as there would be plenty of food and beverage options available for athletes and spectators.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Dr. Seuss, whose real name was Theodor Seuss Geisel, became famous for his children's books such as \"The Cat in the Hat,\" \"Green Eggs and Ham,\" and \"How the Grinch Stole Christmas.\" He wrote and illustrated over 60 books during his career, which spanned several decades. So, did he make himself famous? In a way, yes. Dr. Seuss's unique style of writing and illustration set him apart from other children's book authors of his time. He created memorable characters and stories that captured the imaginations of children and adults alike. However, he also had help from publishers, editors, and other professionals in the book industry who helped promote his work and bring it to a wider audience. Ultimately, it was a combination of Dr. Seuss's talent and hard work, along with the support of others in the industry, that led to his fame and success.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Is anyone at the Last Supper celebrated in Islam?\nA:",
+            "rationale": "Let's think step by step. The Last Supper is a significant event in Christianity, as it is believed to be the final meal that Jesus shared with his disciples before his crucifixion. In Islam, Jesus (known as Isa) is also recognized as a prophet, but the concept of the Last Supper is not a central part of Islamic belief. Therefore, while the individuals present at the Last Supper may be recognized in Islamic history, the event itself is not celebrated in the same way as it is in Christianity.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a fast-food restaurant that primarily serves chicken-based dishes. However, they do offer some vegetarian options such as their side salad, waffle potato fries, and their fruit cup. They also have a grilled chicken cool wrap that can be made without chicken for a vegetarian option. However, it's important to note that Chick-fil-A uses the same fryer for both their chicken and their waffle fries, so cross-contamination may occur. Therefore, it's best to ask the staff about their preparation methods and ingredients to ensure that the food is suitable for a vegetarian diet.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Is Christmas celebrated during winter?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what Christmas is. Christmas is a holiday that celebrates the birth of Jesus Christ. It is typically celebrated on December 25th. Next, we need to understand when winter is. Winter is one of the four seasons, and it typically occurs between December and February in the Northern Hemisphere. So, to answer your question, yes, Christmas is celebrated during winter in the Northern Hemisphere. However, in the Southern Hemisphere, where the seasons are opposite, Christmas falls during the summer months.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Can citrus grow in Ulaanbaatar?\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to consider the climate in Ulaanbaatar. Ulaanbaatar has a subarctic climate with long, cold winters and short, cool summers. Next, we need to consider the growing requirements of citrus trees. Citrus trees require warm temperatures and a lot of sunlight to grow and produce fruit. Based on these factors, it is unlikely that citrus trees would be able to grow and thrive in Ulaanbaatar's climate. However, it may be possible to grow citrus trees indoors or in a greenhouse with proper temperature and lighting control.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a goblin shark eat at Crossroads Kitchen?\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a goblin shark is and what it eats. A goblin shark is a deep-sea shark that primarily feeds on fish and cephalopods. Next, we need to understand what Crossroads Kitchen is. Crossroads Kitchen is a vegan restaurant in Los Angeles that serves plant-based dishes. Based on this information, it is highly unlikely that a goblin shark would eat at Crossroads Kitchen since it primarily feeds on fish and cephalopods, which are not served at the restaurant. Additionally, since Crossroads Kitchen is a vegan restaurant, it does not serve any animal products, which would not be suitable for a goblin shark's diet.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Does Disney own a major comic book publisher?\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which major comic book publishers exist. Some of the major comic book publishers include Marvel Comics, DC Comics, Image Comics, Dark Horse Comics, and IDW Publishing. Next, we can research whether Disney owns any of these publishers. Disney acquired Marvel Entertainment, which includes Marvel Comics, in 2009. Therefore, Disney does own a major comic book publisher, Marvel Comics. So, to answer your question, yes, Disney owns a major comic book publisher, Marvel Comics.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        }
+    ],
+    "inertia": 3507.447021484375
+}

@@ -1,0 +1,47 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Malcolm Hussein Franco Hugo\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The words are: Malcolm, Hussein, Franco, Hugo. We need to take the last letter of each word and concatenate them. So, the last letters are: m, n, o, o. And when we concatenate them, we get: mnoo.",
+            "pred_ans": "mnoo",
+            "gold_ans": "mnoo"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Sabrina Pete Mary La\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The given words are: Sabrina, Pete, Mary, La. We need to take the last letter of each word and concatenate them. So, the last letters are: a (from Sabrina), e (from Pete), y (from Mary), a (from La). Now, we can concatenate them to get the final answer: aeya.",
+            "pred_ans": "aeya",
+            "gold_ans": "aeya"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Issa Kendra Ignacio Henry\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Issa\" is \"a\". The last letter of \"Kendra\" is \"a\". The last letter of \"Ignacio\" is \"o\". The last letter of \"Henry\" is \"y\". So, if we concatenate these letters, we get \"aao y\".",
+            "pred_ans": "aaoy",
+            "gold_ans": "aaoy"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Les Jun Noe Juliana\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we need to identify the words in the given phrase: \"Les Jun Noe Juliana\". The words are: Les, Jun, Noe, Juliana. Next, we need to take the last letter of each word. The last letters are: s, n, e, a. Finally, we need to concatenate these letters. So the answer is: snea.",
+            "pred_ans": "snea",
+            "gold_ans": "snea"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Celso\" is \"o\". The last letter of \"Tracy\" is \"y\". The last letter of \"Winston\" is \"n\". The last letter of \"Anton\" is \"n\". So, if we concatenate these letters, we get \"oynn\".",
+            "pred_ans": "oynn",
+            "gold_ans": "oynn"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Mel Josh Alejandra Harley\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The last letter of \"Mel\" is \"l\". The last letter of \"Josh\" is \"h\". The last letter of \"Alejandra\" is \"a\". The last letter of \"Harley\" is \"y\". So if we concatenate these letters, we get \"lhay\".",
+            "pred_ans": "lhay",
+            "gold_ans": "lhay"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Mari Ximena Leo Antonia\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. The first step is to identify the words in the given phrase: \"Mari Ximena Leo Antonia\". The words are: Mari, Ximena, Leo, Antonia. The next step is to take the last letter of each word. The last letters are: i, a, o, a. Finally, we concatenate these letters to form a new word. The new word is: \"iaoa\".",
+            "pred_ans": "iaoa",
+            "gold_ans": "iaoa"
+        }
+    ],
+    "inertia": 142.83908081054688
+}

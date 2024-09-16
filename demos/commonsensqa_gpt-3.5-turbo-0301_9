@@ -1,0 +1,59 @@
+{
+    "demo": [
+        {
+            "question": "Q: If you are in a bar in a glove shaped state where are you? Answer Choices: (A) in my pocket (B) michigan (C) new york city (D) restaurant (E) public house\nA:",
+            "rationale": "Let's think step by step. First, we need to identify which states are glove-shaped. The two states that are commonly referred to as glove-shaped are Michigan and Wisconsin. Next, we need to determine which state has a city with a lot of bars. Both Michigan and Wisconsin have cities with a lot of bars, but since the question mentions \"a bar,\" we can eliminate Wisconsin since it is not specified which city in Wisconsin we are referring to.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What are people likely to want to do with their friends? Answer Choices: (A) own land (B) own home (C) talk to each other (D) believe in god (E) spend time\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question being asked. The question is asking about what people are likely to want to do with their friends. Next, we need to look at the answer choices and eliminate any that are clearly not related to the question. Option A, \"own land,\" and option B, \"own home,\" are both related to property ownership and do not seem to be related to spending time with friends. Option D, \"believe in god,\" is related to religion and may not be relevant to everyone. Option C, \"talk to each other,\" and option E, \"spend time,\" both seem to be related to socializing with friends.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where is a human likely to go as a result of being hungry? Answer Choices: (A) eat in restaurant (B) make bread (C) have lunch (D) cook dinner (E) friends house\nA:",
+            "rationale": "Let's think step by step. When a human is hungry, they typically look for food to eat. One option is to eat in a restaurant, so option (A) is a possible answer. Another option is to make bread, but this is less likely as it takes time and effort to make bread. Option (B) is not the best answer. Having lunch is another option, so option (C) is also a possible answer. Cooking dinner is another option, so option (D) is also a possible answer. Going to a friend's house is not necessarily related to being hungry, so option (E) is not the best answer. Therefore, the most likely answers are (A), (C), and (D).",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where might someone store a reusable shopping bag? Answer Choices: (A) supermarket (B) home (C) mart (D) obesity (E) closet\nA:",
+            "rationale": "Let's think step by step. This question is not a math problem, but I can still help you answer it. The answer is (B) home. A reusable shopping bag is a bag that can be used multiple times for carrying groceries or other items. It is meant to be an alternative to single-use plastic bags. Therefore, it is most likely to be stored at home, where it can be easily accessed before going to the supermarket or mart. Option (A) supermarket and (C) mart are places where you would use the reusable shopping bag, not store it. Option (D) obesity is not related to the question. Option (E) closet is a possible storage location, but it is less likely than home.",
+            "pred_ans": "B",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where do all animals live? Answer Choices: (A) the moon (B) fairgrounds (C) surface of earth (D) meadow (E) zoos\nA:",
+            "rationale": "Let's think step by step. First, we can eliminate option A, the moon, as it is not a suitable environment for animals to live. Similarly, option B, fairgrounds, is not a natural habitat for animals. Option D, meadow, is a possible habitat for some animals, but not all. Finally, option E, zoos, is a man-made environment where animals are kept in captivity. Therefore, the correct answer is option C, the surface of the earth, as it is where most animals live in their natural habitats such as forests, oceans, deserts, and grasslands.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Surprising an angry person could lead to what? Answer Choices: (A) humor (B) fight (C) jocose (D) laughter (E) accidents\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the meaning of the word \"surprising\" in this context. Surprising someone means doing something unexpected or catching them off guard. Next, we need to consider the emotions of the person being surprised. In this case, they are described as \"angry.\" Based on these two pieces of information, we can eliminate answer choices (A) humor, (C) jocose, and (D) laughter. It is unlikely that someone who is already angry would suddenly find something humorous or start laughing if they were surprised. Answer choice (E) accidents is also unlikely, as it is not directly related to the emotions of the angry person. This leaves us with answer choice (B) fight. If someone is already angry and they are surprised in a way that they perceive as threatening or aggressive, it could escalate into a physical altercation. Therefore, the correct answer is (B) fight.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What would I be doing while going to work and walking? Answer Choices: (A) listen to radio (B) solve problems (C) driving (D) walk (E) being late\nA:",
+            "rationale": "Let's think step by step. First, we need to determine what the person is doing. The question states that the person is going to work and walking. So, we can eliminate options (C) driving and (E) being late. Next, we need to consider what the person can do while walking. It may be difficult to listen to the radio while walking, so we can eliminate option (A) listen to radio.",
+            "pred_ans": "B",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: His house was a mess, he began doing housework to get what? Answer Choices: (A) boredom (B) nice home (C) michigan (D) feeling satisfied (E) house clean\nA:",
+            "rationale": "Let's think step by step. The question is asking what the person hoped to achieve by doing housework. We can eliminate options (A) boredom and (C) Michigan as they are not related to the situation. Option (B) a nice home could be a possibility, but it is not specific enough. Option (E) a clean house is definitely a goal of doing housework, but it is not the only one. Therefore, the best answer is (D) feeling satisfied, as it encompasses the idea that the person wanted to improve their living space and feel good about their accomplishment.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        }
+    ],
+    "inertia": 750.2101440429688
+}

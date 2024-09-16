@@ -1,0 +1,89 @@
+{
+    "demo": [
+        {
+            "question": "Q: A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner. Answer Choices: (A) 54 (B) 24 (C) 48 (D) 20 (E) 36\nA:",
+            "rationale": "Let's think step by step. First, we need to find the number of ways he can choose a fruit for breakfast. Since he has 6 different types of fruit, he can choose one of them in 6 ways. Next, we need to find the number of ways he can choose a vegetable for dinner. Since he has 8 different types of vegetables, he can choose one of them in 8 ways. To find the total number of ways he can eat breakfast and dinner, we need to multiply the number of ways he can choose a fruit for breakfast by the number of ways he can choose a vegetable for dinner. Therefore, the total number of ways is 6 x 8 = 48.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? Answer Choices: (A) 8.75 (B) 8.79 (C) 8.75 (D) 8.71 (E) 8.72\nA:",
+            "rationale": "Let's think step by step. First, we need to find the area of the square paper. The formula for the area of a square is side x side, so the area of the paper is 20 x 20 = 400 cm². Next, we need to find the area of the two semi-circles. The formula for the area of a circle is πr², but since we only have semi-circles, we need to divide the result by 2. The diameter of the semi-circles is 20 cm, so the radius is 10 cm. Therefore, the area of one semi-circle is 1/2 x π x 10² = 50π/2 = 25π cm². The area of two semi-circles is 50π cm². Finally, we need to subtract the area of the two semi-circles from the area of the square paper to find the remaining area. So, the remaining area is 400 - 50π ≈ 8.79 cm².",
+            "pred_ans": "B",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups? Answer Choices: (A) 90 (B) 105 (C) 126 (D) 252 (E) 525\nA:",
+            "rationale": "Let's think step by step. First, we need to choose 5 bottles out of the 10 for the first group. This can be done in 10 choose 5 ways, which is equal to 252. After the first group has been served, there will be 5 bottles left for the second group. We need to choose 5 bottles out of these 5 for the second group. This can be done in only 1 way. Therefore, the total number of ways to create the 2 groups is 252 x 1 = 252. So the answer is (D) 252.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth? Answer Choices: (A) 23.65 (B) 1000 (C) 35.62 (D) 2.65 (E) 1023.65\nA:",
+            "rationale": "Let's think step by step. First, we need to find the greatest positive even integer less than or equal to $1023.65. This is $1022.00 since it is the closest even number less than $1023.65 that is divisible by 100. Next, we need to find the difference between $1023.65 and $1022.00. This is $1.65.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift? Answer Choices: (A) D/ (M-3)  (B) MD/3 (C) M/ (D-3)  (D) 3D/ (M2-3M)  (E) None of these\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem. We know that initially, M men agreed to purchase a gift for Rs. D. Therefore, each man would have to contribute D/M rupees towards the gift. Now, if 3 men drop out, the total number of men left would be M-3. The total amount of money required to purchase the gift would still be D rupees. Therefore, each man would now have to contribute D/(M-3) rupees towards the gift. So, the answer is (A) D/(M-3).",
+            "pred_ans": "A",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? Answer Choices: (A) A) 59 (B) B) 69 (C) C) 79 (D) D) 89 (E) E) 99\nA:",
+            "rationale": "Let's think step by step. When you were 2 years old, your brother was half your age, which means he was 1 year old. Now you are 60 years old, and since your brother was 1 year younger than you, he is 60 - 1 = 59 years old.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: What is the units digit of 9^3-7? Answer Choices: (A) 1 (B) 3 (C) 5 (D) 2 (E) 4\nA:",
+            "rationale": "Let's think step by step. Sure! We can start by finding the units digit of $9^3$. The units digit of $9^1$ is 9, the units digit of $9^2$ is 1, and the units digit of $9^3$ is 9. So, $9^3$ has a units digit of 9. Next, we subtract 7 from $9^3$. Since 9 minus 7 is 2, the units digit of $9^3-7$ is $\\boxed{\\textbf{(D)}\\ 2}$.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What should come in place of the question mark(?) in each of the following questions ?\nA:",
+            "rationale": "Let's think step by step. First, we need to simplify the left-hand side of the equation: a2 - b2/(a + b)2 = (a + b)(a - b)/(a + b)2 Next, we can cancel out the (a + b) terms in the numerator and denominator: (a - b)/(a + b) This simplifies to (A) (a + b).",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending? Answer Choices: (A) 6 (B) 8 (C) 10 (D) 12 (E) 14\nA:",
+            "rationale": "Let's think step by step. Sure, let's break it down. First, we know that Jill needed 10 bottles of soda for a party with 8 people. So, on average, each person drank 10/8 = 1.25 bottles of soda. Now, we need to figure out how many bottles of soda Jill will need for a party with 12 people. If each person drinks an average of 1.25 bottles of soda, then for 12 people, Jill will need 12 x 1.25 = 15 bottles of soda. However, the answer choices don't include 15, so we need to round to the nearest option. The closest option is (E) 14, which is only one bottle less than what we calculated. So, the answer is (E) 14.",
+            "pred_ans": "E",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again? Answer Choices: (A) After 6 minutes (B) After 12 minutes (C) After 18 minutes (D) After 24 minutes (E) none\nA:",
+            "rationale": "Let's think step by step. First, we need to find the time it takes for all three bells to ring together. To do this, we need to find the least common multiple (LCM) of 36, 40, and 48. The prime factorization of 36 is 2^2 x 3^2. The prime factorization of 40 is 2^3 x 5. The prime factorization of 48 is 2^4 x 3. To find the LCM, we need to take the highest power of each prime factor that appears in any of the numbers. So the LCM is 2^4 x 3^2 x 5 = 720 seconds.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A straight picket fence is composed of x pickets each of which is 1/2 inch wide. If there are 6 inches of space between each pair of pickets, which of the following represents the length of fence in feet? Answer Choices: (A) 13x/2 (B) 13x/2 - 6 (C) 13x/24 (D)  (13x+1) /24 (E)  (13x-12) /24\nA:",
+            "rationale": "Let's think step by step. First, we need to find the total width of all the pickets. Since there are x pickets and each is 1/2 inch wide, the total width of all the pickets is x/2 inches. Next, we need to find the total width of all the spaces between the pickets. There are x-1 spaces between the pickets, and each space is 6 inches wide. So the total width of all the spaces is 6(x-1) inches. Finally, we add the width of the pickets and the spaces together to get the total length of the fence. We need to convert the total length from inches to feet, so we divide by 12. Therefore, the length of the fence in feet is: x/2 + 6(x-1)/12 = x/2 + (x-1)/2 = (3x-2)/2 Now we need to simplify this expression to match one of the answer choices. We can rewrite (3x-2)/2 as (13x-12)/24, so the answer is (E) (13x-12)/24.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: (A) 2! (B) 3! (C) 7! (D) 8! (E) 9!\nA:",
+            "rationale": "Let's think step by step. First, we have 7 letters to choose from. We can choose any of the 7 letters for the first position. Then, we have 6 letters left to choose from for the second position. Continuing this pattern, we have 5 choices for the third position, 4 choices for the fourth position, 3 choices for the fifth position, 2 choices for the sixth position, and only 1 choice for the seventh position. Therefore, the total number of ways to rearrange the letters is: 7 x 6 x 5 x 4 x 3 x 2 x 1 = 7! So the answer is (C) 7!.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family? Answer Choices: (A) 2 (B) 3 (C) 4 (D) 5 (E) 6\nA:",
+            "rationale": "Let's think step by step. Sure, let's break down the problem together. First, we know that the median income is $3000. This means that half of the family members earn less than $3000 and half earn more than $3000. Next, we know that the total income of the family is $9000. If we divide this by the median income of $3000, we get 3. This means that there are 3 family members who earn $3000 each. However, we also know that there are family members who earn less than $3000 and family members who earn more than $3000. Since there are only 3 family members who earn $3000 each, there must be additional family members who earn less than $3000 to bring the median income down to $3000.",
+            "pred_ans": "C",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure? Answer Choices: (A) 58.3% (B) 62.5% (C) 63.5% (D) 64.5% (E) 65.5%\nA:",
+            "rationale": "Let's think step by step. First, let's assume the man's income is $100. Then, he spends 70% of it, which is $70. If his income increases by 20%, then his new income will be $120. To find his new expenditure, we need to find 70% of $120, which is $84. Therefore, his new expenditure is $84 out of $120, which is 70%. So the answer is (A) 58.3%.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        }
+    ],
+    "inertia": 117.03948211669922
+}

@@ -1,0 +1,179 @@
+{
+    "demo": [
+        {
+            "question": "Q: If you spend a long time running after a ball how are you likely to feel? Answer Choices: (A) laughter (B) sweating (C) embarrassed (D) breathing heavily (E) tiredness\nA:",
+            "rationale": "Let's think step by step. First, when you run after a ball, your body will start to use more energy and your heart rate will increase. This means that you will start to breathe more heavily in order to get more oxygen to your muscles. So, option (D) breathing heavily is correct. As you continue to run, your body will start to produce sweat in order to cool you down. So, option (B) sweating is also correct. If you are running after a ball for a long time, it is likely that you will start to feel tired. So, option (E) tiredness is also correct. However, there is no reason to feel embarrassed or to laugh just because you are running after a ball. So, options (A) laughter and (C) embarrassed are not correct.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would your hear a bass clarinet along side other wood wind instruments? Answer Choices: (A) opera house (B) school band (C) music store (D) orchestra (E) bathroom stall\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a bass clarinet is and what other woodwind instruments are. A bass clarinet is a musical instrument that belongs to the woodwind family, just like the flute, oboe, clarinet, and saxophone. Next, we need to consider where these instruments are typically played. An opera house is a venue for opera performances, which may or may not include woodwind instruments. A music store is a retail establishment that sells musical instruments, but it is not a place where you would typically hear a live performance. A bathroom stall is not a suitable place for a musical performance. That leaves us with two options: school band and orchestra. Both of these groups typically include a variety of woodwind instruments, including the bass clarinet. However, a school band is typically made up of students and may not have the same level of professionalism as an orchestra, which is made up of professional musicians. Therefore, the most likely answer is (D) orchestra.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: He was afraid he would die from his cold, so he wisely decided to what? Answer Choices: (A) ocean (B) write will (C) never want (D) were shot (E) seek help\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question is asking what someone did because they were afraid they would die from their cold. The answer choices are (A) ocean, (B) write will, (C) never want, (D) were shot, and (E) seek help. We can eliminate options (A), (B), (C), and (D) because they do not make sense in the context of the question. Option (A) ocean is not a logical response to being afraid of dying from a cold. Option (B) write will is something someone might do if they were afraid of dying, but it is not specific to a cold. Option (C) never want does not make sense in this context. Option (D) were shot is completely unrelated to the question. Therefore, the correct answer is (E) seek help. When someone is afraid they might die from an illness, seeking medical help is a wise decision.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where are  you likely to find a hamburger? Answer Choices: (A) fast food restaurant (B) pizza (C) ground up dead cows (D) mouth (E) cow carcus\nA:",
+            "rationale": "Let's think step by step. First, we need to understand that a hamburger is a type of food that is made from ground beef. Next, we can eliminate answer choices (B) pizza and (E) cow carcass as they are not directly related to hamburgers. Answer choice (C) ground up dead cows is technically correct, but it is not a polite or appropriate way to describe the process of making hamburgers. Answer choice (D) mouth is also not a correct answer as it refers to where the hamburger is consumed, not where it is found. Therefore, the correct answer is (A) fast food restaurant, as hamburgers are commonly found and served in these types of establishments.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: The cat carefully navigated the area, they do everything they can to avoid what? Answer Choices: (A) get wet (B) eat vegetables (C) falling (D) wool sweater (E) sharp claws\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking what the cat is trying to avoid while navigating the area. Next, we can eliminate answer choices that don't make sense. For example, answer choice (B) \"eat vegetables\" doesn't make sense because it's not something the cat would be trying to avoid while navigating the area. Answer choice (D) \"wool sweater\" also doesn't make sense because it's not something that would be in the cat's environment while navigating the area. Answer choice (E) \"sharp claws\" could be a potential hazard for the cat, but it's not something the cat would be actively trying to avoid. That leaves us with answer choices (A) \"get wet\" and (C) \"falling\".",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: They were searching for rocks, so they missed the birds overhead as they stared at the what? Answer Choices: (A) ground (B) drawer (C) surface of earth (D) pizza (E) waterfall\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking what the people were staring at while they were searching for rocks. Next, we can eliminate answer choices that don't make sense. Answer choices (B), (C), (D), and (E) don't seem to fit the context of the sentence, so we can eliminate them. That leaves us with answer choice (A), which is \"ground.\" This makes sense because if the people were searching for rocks, they would likely be looking at the ground.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: A farmer sees a weasel in the woods, where is the farmer? Answer Choices: (A) chicken coop (B) beach (C) fairytale (D) great outdoors (E) corn fields\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question and the answer choices. The question mentions a farmer seeing a weasel in the woods, and we are given five answer choices: (A) chicken coop, (B) beach, (C) fairytale, (D) great outdoors, and (E) corn fields. Next, we can eliminate answer choices that do not make sense. For example, we can eliminate (B) beach and (C) fairytale because they are not related to the woods or farming. We can also eliminate (A) chicken coop because the question mentions the farmer being in the woods, not in a chicken coop. This leaves us with (D) great outdoors and (E) corn fields. Both of these answer choices are related to farming and being outside, but only (D) great outdoors specifically mentions the woods. Therefore, the correct answer is (D) great outdoors.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: Where would you find a ticket booth and see a concert? Answer Choices: (A) clerk (B) indoors (C) movie theater (D) venue (E) auditorium\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a ticket booth is. A ticket booth is a small structure or booth where tickets are sold for events such as concerts, movies, or sports games. Next, we need to identify where one would see a concert. Concerts are typically held in specific locations designed for live performances, such as an auditorium or a venue. Therefore, the correct answer is (D) venue.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What are people likely to want to do with their friends? Answer Choices: (A) own land (B) own home (C) talk to each other (D) believe in god (E) spend time\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the question being asked. The question is asking about what people are likely to want to do with their friends. Next, we need to look at the answer choices and eliminate any that are clearly not related to the question. Option A, \"own land,\" and option B, \"own home,\" are both related to property ownership and do not seem to be related to spending time with friends. Option D, \"believe in god,\" is related to religion and may not be relevant to everyone. Option C, \"talk to each other,\" and option E, \"spend time,\" both seem to be related to socializing with friends.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where? Answer Choices: (A) new moon (B) play cards (C) read book (D) see art (E) grocery shop\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where the person went that led to boredom and hunger, resulting in wasting time and buying unhealthy snacks. Next, we can eliminate answer choices that don't make sense. Option A, \"new moon,\" doesn't make sense as it's not a place. Option B, \"play cards,\" and option C, \"read book,\" don't seem to fit the context of the sentence. Option D, \"see art,\" could be a possibility, but it doesn't explain why the person would be bored and hungry. That leaves us with option E, \"grocery shop,\" which makes the most sense as it explains why the person would have a cart full of unhealthy snacks.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: Where would you go if you want to buy some clothes? Answer Choices: (A) mall (B) grocery store (C) grocery store (D) shop (E) supermarket\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the purpose of the question. It is asking where someone would go to buy clothes. Option (A) mall is a common place to buy clothes as it usually has a variety of clothing stores. Option (B) grocery store and (E) supermarket are not appropriate choices as they primarily sell food and household items. Option (D) shop is a vague option as it could refer to any type of store. Therefore, the correct answer is (A) mall.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what? Answer Choices: (A) fish market (B) jungle (C) sea water (D) body of water (E) soup\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a blowfish is. A blowfish is a type of fish that lives in water. Therefore, we can eliminate options (A) and (B) since they do not involve water. Option (E) is also incorrect since it refers to soup, which is not a natural habitat for a blowfish. This leaves us with options (C) and (D). However, option (D) is more general and could refer to any body of water, including a lake or a pond, which may not be suitable for a blowfish. Therefore, the correct answer is (C) sea water, as this is the natural habitat for a blowfish.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: What could committing murder prevent someone from doing? Answer Choices: (A) go to jail (B) cry (C) find god (D) guilty conscience (E) problems\nA:",
+            "rationale": "Let's think step by step. Committing murder could prevent someone from doing many things, depending on the context. However, based on the answer choices provided, we can eliminate options (B), (C), and (E) as they are not directly related to the consequences of committing murder. Option (A) is a possibility, as committing murder could lead to imprisonment or other legal consequences. Option (D) is also a possibility, as committing murder could lead to a guilty conscience or feelings of remorse.",
+            "pred_ans": "A",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What is a person looking for when completing puzzles or riddles? Answer Choices: (A) avoid pain (B) compliments (C) intellectual challenge (D) passing grade (E) attention\nA:",
+            "rationale": "Let's think step by step. When someone is completing puzzles or riddles, they are likely seeking some form of mental stimulation or entertainment. This could include a desire for intellectual challenge, as well as the satisfaction of solving a problem or figuring out a solution. It is less likely that they are seeking to avoid pain, receive compliments, or gain attention. Therefore, the answer choice that best fits this description is (C) intellectual challenge.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Janet was watching the film because she liked what? Answer Choices: (A) erection (B) laughter (C) being entertained (D) fear (E) bordem\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what type of question this is. It seems to be a reading comprehension question, so we need to read the given information carefully. Next, we need to identify the key information in the question. The question is asking why Janet was watching the film, so we need to look for clues in the given information that suggest her reason for watching. Finally, we need to eliminate answer choices that are clearly incorrect and choose the best answer based on the information given.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Why might a person be known as a liar? Answer Choices: (A) have no home (B) false information (C) hungry (D) made fun of (E) brain tumor\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the definition of a liar. A liar is someone who tells lies or false information. Out of the answer choices given, the only one that relates to lying is (B) false information. (A) having no home, (C) being hungry, (D) being made fun of, and (E) having a brain tumor do not necessarily have a direct correlation to being known as a liar.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: Where does a maid empty a trash can? Answer Choices: (A) bus stop (B) corner (C) hockey game (D) motel (E) alley\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what type of question this is. It seems to be a question that requires common sense or general knowledge rather than math skills. Next, we can eliminate answer choices that are clearly unrelated or illogical. For example, (A) bus stop, (C) hockey game, and (B) corner are unlikely places for a maid to empty a trash can. That leaves us with (D) motel and (E) alley. While it's possible that a maid could empty a trash can at a motel, it's more likely that the answer is (E) alley, as this is a common location for trash cans to be placed for pickup by garbage trucks.",
+            "pred_ans": "E",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: John was a bit think in the head, but he knew that he never saw the lady before.  They were what? Answer Choices: (A) pay debts (B) slender (C) unacquainted (D) free flowing (E) sparse\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. It seems to be a reading comprehension question, so we need to read the sentence carefully and determine what it is asking. The sentence says that John never saw the lady before, so we need to choose an answer choice that means \"not knowing someone.\" Option (C) unacquainted fits this description, so the answer is (C) unacquainted.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: What does the sky do before a rain? Answer Choices: (A) appear beautiful (B) appear blue (C) shows a rainbow (D) rain water (E) cloud over\nA:",
+            "rationale": "Let's think step by step. Before rain, the sky usually becomes cloudy and dark. So, the correct answer would be (E) cloud over.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: They were getting ready for a really long hike, he put the food can in his what? Answer Choices: (A) cabinet (B) house (C) recycling center (D) backpack (E) make person sick\nA:",
+            "rationale": "Let's think step by step. First, we need to identify what the question is asking. The question is asking where he put the food can when getting ready for a long hike. Next, we can eliminate answer choices that don't make sense. Answer choices A, B, and C don't make sense because they are not related to hiking or carrying food. Answer choice E is also incorrect because it is not a place where the food can be put. It is also not a logical answer choice because it doesn't make sense for someone to intentionally make themselves sick before a long hike. Therefore, the correct answer is D, backpack.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: While walking the student needed to store his writing insturment away, where did he put it? Answer Choices: (A) desk drawer (B) cabinet (C) purse (D) classroom (E) pocket\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what the question is asking. The question is asking where a student stored their writing instrument while walking. Next, we can eliminate some answer choices based on common sense. It is unlikely that the student put their writing instrument in a desk drawer or cabinet while walking, as those are typically stationary locations. It is also unlikely that they put it in the classroom, as that is a general location and not specific enough for the question. That leaves us with two possible answer choices: purse or pocket. Depending on the gender of the student and what they were wearing, either option could be correct. If the student was carrying a purse, it is likely they stored their writing instrument there. If they were not carrying a purse, they may have stored it in their pocket.",
+            "pred_ans": "C",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What are our bodies doing after having food? Answer Choices: (A) falling down (B) digesting (C) gas (D) weight gain (E) not hungry\nA:",
+            "rationale": "Let's think step by step. After we eat food, it goes into our stomach where it is broken down by stomach acid and enzymes. This process is called digestion. The nutrients from the food are then absorbed into our bloodstream and transported to our cells to be used for energy, growth, and repair. Any waste products are eliminated from our body as feces. So the correct answer is (B) digesting.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What is the hopeful result of going to see a play? Answer Choices: (A) sit (B) being entertained (C) jobless (D) meet (E) laugh\nA:",
+            "rationale": "Let's think step by step. First, we need to understand what a play is. A play is a form of entertainment that involves actors performing a story on stage. So, the hopeful result of going to see a play would be to be entertained. Therefore, the correct answer is (B) being entertained.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What are you getting from you boss at the end of the week? Answer Choices: (A) asking for (B) money (C) food (D) work (E) energy\nA:",
+            "rationale": "Let's think step by step. First, we need to understand the question. It is asking what the assistant is getting from their boss at the end of the week. Next, we can eliminate answer choices that don't make sense. Option (D) work doesn't make sense because the assistant is already working for their boss. Option (E) energy doesn't make sense because the assistant is an artificial intelligence and doesn't require energy from their boss. Option (A) asking for doesn't make sense because the question is asking about what the assistant is receiving, not what they are asking for. Option (C) food is a possibility, but it seems unlikely that the boss would be giving the assistant food. Therefore, the most likely answer is (B) money. It is common for employees to receive payment for their work at the end of the week.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        },
+        {
+            "question": "Q: What do you feel when giving assistance to the needy? Answer Choices: (A) reward (B) boredom (C) pleasure (D) happiness (E) satisfaction\nA:",
+            "rationale": "Let's think step by step. As an AI language model, I don't have feelings like humans do. However, I am programmed to provide accurate and helpful assistance to those who need it. I am designed to solve math problems and provide explanations to help users understand the concepts better. So, I would say that my primary goal is to provide a satisfactory solution to the user's problem.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What is the likely result of buying products in excess? Answer Choices: (A) running out of money (B) spending money (C) poverty (D) comparison shopping (E) overstocking\nA:",
+            "rationale": "Let's think step by step. Buying products in excess means purchasing more than what is needed or necessary. This can lead to overstocking, which is the likely result mentioned in option (E). Overstocking can cause problems such as clutter, waste, and difficulty in managing inventory. It can also lead to financial loss if the excess products are not sold or used before they expire or become obsolete. Therefore, the correct answer is (E) overstocking.",
+            "pred_ans": "E",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What room would you find many bookcases and is used for contemplation? Answer Choices: (A) study (B) house (C) homw (D) kitchen (E) den\nA:",
+            "rationale": "Let's think step by step. First, we need to identify the key characteristics of the room described in the question. The room has many bookcases and is used for contemplation. Next, we can eliminate answer choices that do not fit these characteristics. Option (B) and (C) are not specific rooms and do not fit the description. Option (D) is typically used for cooking and eating, so it does not fit the description either. That leaves us with options (A) and (E). Both a study and a den can have bookcases and be used for contemplation, but a study is typically more associated with this type of activity. Therefore, the correct answer is (A) study.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: If a person were going to bed, what would be their goal? Answer Choices: (A) lazy (B) insomnia (C) rest (D) falling asleep (E) dreaming of\nA:",
+            "rationale": "Let's think step by step. When a person goes to bed, their goal is usually to get some rest and fall asleep. So the correct answer would be (C) rest and (D) falling asleep.",
+            "pred_ans": "C",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The freeway had no traffic and few buildings, where is it? Answer Choices: (A) california (B) countryside (C) big town (D) florida (E) america\nA:",
+            "rationale": "Let's think step by step. First, we know that the freeway had no traffic and few buildings. This means that it is likely not in a densely populated area. Next, we can eliminate answer choices that don't fit this description. Option (C) big town and option (E) America are too broad and don't provide enough information to determine the location. Option (D) Florida is a specific location, but it doesn't necessarily fit the description of a freeway with no traffic and few buildings. This leaves us with options (A) California and (B) countryside. California is a state known for its freeways and traffic, so it's less likely to be the correct answer. Therefore, the best answer is (B) countryside, which suggests a more rural area with less traffic and fewer buildings.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        }
+    ],
+    "inertia": 680.2835083007812
+}
