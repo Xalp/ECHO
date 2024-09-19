@@ -1,7 +1,11 @@
 # ECHO
 Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught"
 
-This is the official implementation of `Self-Harmorized Chain of Thought`.
+[_UPDATE_ **Sept-16-2024** : We update the code to fit to the lastest OPENAI version, as requested by issue. We also share the log and demo to save your effort.]
+
+[_UPDATE_ Feb-16-2024 : First Submission.]
+
+This is the official implementation of `Self-Harmonized Chain of Thought`.
 
 The paper is available at https://www.arxiv.org/abs/2409.04057 .
 
@@ -20,22 +24,27 @@ pip install -r requirements.txt
 
 ## Get Started
 
-To use our code, you must have your own OpenAI API from: https://beta.openai.com/account/api-keys, and set it as environment variable "OPENAI_API_KEY". (You can also change util.py:61 to directly edit the API)
+Set your API:
 
 ```
 export OPENAI_API_KEY=(YOUR OPENAI API KEY)
 ```
 
+Similarly, you should set MISTRAL_API_KEY if you want to use the MISTRAL models.
+
 ### Step to reproduce main experiment results
 
-(Optional) **Step 0: Log Creation** We have created the log using Zero-Shot CoT for you. This serves as an initialization of our method. If you are using other models, you may consider running this.
+(Optional) **Step 0: Log Creation** 
 
-Noted that this is not compulsory, as the demo selection will only depends on the question, not the rationale. You can skip this step, directly regenerate the rationale using your model.
+We have created the log for you using Zero-Shot CoT. This serves as an initialization of our method. If you are using other models, you may consider running this.
+
+Note that this is not compulsory, as the demo selection will only depend on the question, not the rationale. You can skip this step and directly regenerate the rationale using your model.
 ```
 source run/crate_log.sh
 ```
 
 **Step 1: DEMO creation** 
+
 We follow Auto-CoT to use the clustering, and then select one question from each cluster.
 As k=max requires maximum number of demonstration allowed by context length, we generate a number of 8 to 32 demonstrations for each dataset. If you are not running k=max case, you can generate only 8 demonstrations.
 
@@ -44,6 +53,7 @@ source run/create_demos.sh
 ```
 
 **Step 2: RUN ECHO~!**
+
 Now you can run ECHO with
 ```
 source run/run_echo.sh
@@ -58,11 +68,17 @@ source run_echo_max.sh
 ```
 
 **Step 4: run inference**
-We attached the inference code after run_echo.sh and run_echo_max.sh
-If you want to test Auto-CoT, please use the demo: demos/{dataset}_{model_name}
-If you want to test manual prompt (from Few-shot-CoT), please use the demo: demos/{dataset}_manual
 
-We suggest **T=4** for optimal performance. However, we do found easier dataset may requires less iteration.
+We attached the inference code after run_echo.sh and run_echo_max.sh
+If you want to test Auto-CoT, please use the demo: 
+```
+demos/{dataset}_{model_name}
+```
+If you want to test manual prompt (from Few-shot-CoT), please use the demo: 
+```
+demos/{dataset}_manual
+```
+We suggest **T=4** for optimal performance. However, we found that an easier and less diverse dataset may require less iteration.
 
 You can replace "singleeq" to any other datasets we included: "aqua", "gsm8k", "commonsensqa", "addsub", "multiarith",  "strategyqa", "svamp", "singleeq", "coin_flip", "last_letters"
 
