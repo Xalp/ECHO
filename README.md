@@ -13,9 +13,9 @@ The paper is available at https://www.arxiv.org/abs/2409.04057 .
 
 This repo is built upon Auto-CoT repo. A BIG THANKS.
 
-<!-- <div align="center">
-<img src="intro.jpg">
-</div> -->
+<div align="center">
+<img src="echo.webp">
+</div>
 
 ## Installation
 
