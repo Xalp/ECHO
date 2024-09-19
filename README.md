@@ -1,7 +1,9 @@
 # ECHO
 Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught"
 
-[_UPDATE_ **Sept-16-2024** : We update the code to fit to the lastest OPENAI version, as requested by issue. We also share the log and demo to save your effort.]
+[_UPDATE_ **Sept-19-2024** : We found the log is not upload due to wrong .gitignore ; Re-upload the log, you can now create your own demonstrations!!! ]
+
+[_UPDATE_ Sept-16-2024 : We update the code to fit to the lastest OPENAI version, as requested by issue. We also share the log and demo to save your effort.]
 
 [_UPDATE_ Feb-16-2024 : First Submission.]
 
