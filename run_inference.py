@@ -101,6 +101,8 @@ def main():
             correct = (np.array([pred]) == np.array([y])).sum().item()
             correct_list.append(correct)
             total += 1 #np.array([y]).size(0)
+            accuracy = (sum(correct_list) * 1.0 / total) * 100
+            print("accuracy : {}".format(accuracy))
 
             if not np.array([pred]) == np.array([y]):
                 wp.write(output_json + '\n')
@@ -131,7 +133,7 @@ def parse_arguments():
     parser.add_argument("--max_num_worker", type=int, default=0, help="maximum number of workers for dataloader")
     
     parser.add_argument(
-        "--model", type=str, default="gpt3-xl", choices=["gpt3", "gpt3-medium", "gpt3-large", "gpt3-xl", "code-davinci-002", "gpt-3.5-turbo-0301", "gpt-3.5-turbo","gpt-3.5-turbo-16k-0613"], help="model used for decoding. Note that 'gpt3' are the smallest models."
+        "--model", type=str, default="gpt3-xl", help="model used for decoding. Note that 'gpt3' are the smallest models."
     )
     
     parser.add_argument(
@@ -141,7 +143,7 @@ def parse_arguments():
         "--output_dir", type=str, default="experiment/multiarith", help="output directory"
     )
     parser.add_argument(
-        "--max_length_cot", type=int, default=512, help="maximum length of output tokens by model for reasoning extraction"
+        "--max_length_cot", type=int, default=2048, help="maximum length of output tokens by model for reasoning extraction"
     )
     parser.add_argument(
         "--max_length_direct", type=int, default=32, help="maximum length of output tokens by model for answer extraction"

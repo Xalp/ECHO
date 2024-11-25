@@ -102,13 +102,13 @@ def parse_arguments():
         "--demo_path", type=str, default="demos/multiarith", help="pre-generated demos used for experiment"
     )
     parser.add_argument(
-        "--model", type=str, default="gpt3-xl", choices=["gpt3", "gpt3-medium", "gpt3-large", "gpt3-xl", "code-davinci-002", "gpt-3.5-turbo-0301", "gpt-3.5-turbo","gpt-3.5-turbo-16k-0613"], help="model used for decoding. Note that 'gpt3' are the smallest models."
+        "--model", type=str, default="gpt3-xl", help="model used for decoding. Note that 'gpt3' are the smallest models."
     )
     parser.add_argument(
         "--output_dir", type=str, default="CAT_demos/multiarith", help="output directory"
     )
     parser.add_argument(
-        "--max_length_cot", type=int, default=256, help="maximum length of output tokens by model for reasoning extraction"
+        "--max_length_cot", type=int, default=512, help="maximum length of output tokens by model for reasoning extraction"
     )
     parser.add_argument(
         "--max_length_direct", type=int, default=32, help="maximum length of output tokens by model for answer extraction"
