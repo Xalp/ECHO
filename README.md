@@ -1,7 +1,7 @@
 # ECHO
 Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught" https://www.arxiv.org/abs/2409.04057 .
 
-[_UPDATE_ **Nov-25-2024** : We update parallel inference code to speed up the inference speed by x20!!! ]
+[_UPDATE_ **Nov-25-2024** : We update parallel OPENAI inference code to speed up the inference speed by x20!!! Simply replace run_inference.py with run_inference_parallel.py to use it.]
 
 [_UPDATE_ Sept-19-2024 : We found the log is not upload due to wrong .gitignore ; Re-upload the log, you can now create your own demonstrations!!! ]
 
