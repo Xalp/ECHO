@@ -92,7 +92,7 @@ def decoder_for_gpt3(args, input, max_length):
         engine = args.model
     while True:
         try:
-            client = OpenAI()
+            client = OpenAI(timeout=60)
             if ("few_shot" in args.method or "auto" in args.method)  and engine == "code-davinci-002":
                 response = openai.Completion.create(
                 engine=engine,
@@ -302,16 +302,48 @@ class MyDataset(Dataset):
         output = self.answers[index]
         return input, output
 
-def setup_data_loader(args):
+# def setup_data_loader(args):
 
-    # fix randomness of dataloader to ensure reproducibility
-    # https://pytorch.org/docs/stable/notes/randomness.html
+#     # fix randomness of dataloader to ensure reproducibility
+#     # https://pytorch.org/docs/stable/notes/randomness.html
+#     fix_seed(args.random_seed)
+#     worker_seed = torch.initial_seed() % 2**32
+#     print("worker_seed : {}".format(worker_seed))
+#     def seed_worker(worker_id):
+#         np.random.seed(worker_seed)
+#         random.seed(worker_seed)
+#     g = torch.Generator()
+#     g.manual_seed(worker_seed)
+    
+#     dataloader_num_workers = multiprocessing.cpu_count()
+#     dataloader_num_workers = min(dataloader_num_workers, args.max_num_worker)
+#     print("dataloader_num_workers: " + str(dataloader_num_workers))
+    
+#     dataset = MyDataset(args)
+    
+#     dataloader = torch.utils.data.DataLoader(dataset,
+#                   shuffle=True,
+#                   batch_size=args.minibatch_size,
+#                   drop_last=False,
+#                   num_workers=dataloader_num_workers,
+#                   worker_init_fn=seed_worker,
+#                   generator=g,
+#                   pin_memory=True)
+
+#     return dataloader
+
+def seed_worker(worker_id):
+    """Ensure reproducible random states for each worker."""
+    worker_seed = torch.initial_seed() % 2**32
+    np.random.seed(worker_seed)
+    random.seed(worker_seed)
+
+def setup_data_loader(args):
+    # Fix randomness for reproducibility
     fix_seed(args.random_seed)
     worker_seed = torch.initial_seed() % 2**32
     print("worker_seed : {}".format(worker_seed))
-    def seed_worker(worker_id):
-        np.random.seed(worker_seed)
-        random.seed(worker_seed)
+    
     g = torch.Generator()
     g.manual_seed(worker_seed)
     
@@ -321,16 +353,19 @@ def setup_data_loader(args):
     
     dataset = MyDataset(args)
     
-    dataloader = torch.utils.data.DataLoader(dataset,
-                  shuffle=True,
-                  batch_size=args.minibatch_size,
-                  drop_last=False,
-                  num_workers=dataloader_num_workers,
-                  worker_init_fn=seed_worker,
-                  generator=g,
-                  pin_memory=True)
-
+    dataloader = torch.utils.data.DataLoader(
+        dataset,
+        shuffle=True,
+        batch_size=args.minibatch_size,
+        drop_last=False,
+        num_workers=dataloader_num_workers,
+        worker_init_fn=seed_worker,  # Use the top-level seed_worker
+        generator=g,
+        pin_memory=True
+    )
+    
     return dataloader
+
 
 # ver 0.2
 def answer_cleansing(args, pred, must_choice=False, silence=False):
