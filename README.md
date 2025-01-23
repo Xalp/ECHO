@@ -57,7 +57,7 @@ This script creates the demo with ECHO;
 **Step 3: RUN ECHO (k=max)**
 
 ```
-source run_echo_max.sh
+source run/run_echo_max.sh
 ```
 
 This script creates the demo with ECHO(k=max); This script will test the maximum number of demonstrations allowed by context window size iteratively, starting from 32 to 8;
