@@ -1,5 +1,5 @@
-# ECHO
-Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught" https://www.arxiv.org/abs/2409.04057 .
+# ECHO 
+Official homepage for "s**E**lf-Harmonized **C**hain of t**HO**ught" https://www.arxiv.org/abs/2409.04057 . (Accepted by NAACL 2025 main)
 
 [_UPDATE_ **Nov-25-2024** : We update parallel OPENAI inference code to speed up the inference speed by x20!!! Simply replace run_inference.py with **run_inference_parallel.py** to use it.]
 
@@ -100,13 +100,11 @@ This repo is built on repos of Auto-CoT and Zero-shot-CoT.
 To cite our paper, please include the following bibtex:
 
 ```
-@misc{jin2024selfharmonizedchainthought,
+@inproceedings{jin2024selfharmonizedchainthought,
       title={Self-Harmonized Chain of Thought}, 
       author={Ziqi Jin and Wei Lu},
-      year={2024},
-      eprint={2409.04057},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+      booktitle={Proceedings of the NAACL},
+      year={2025},
       url={https://arxiv.org/abs/2409.04057}, 
 }
 ```
